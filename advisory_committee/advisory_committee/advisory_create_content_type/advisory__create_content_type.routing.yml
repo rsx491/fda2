@@ -1,0 +1,23 @@
+advisory__create_content_type.calendar_default:
+        path: '/AdvisoryCommittees/Calendar'
+        defaults:
+                _controller: '\Drupal\advisory__create_content_type\Controller\CalendarController::content'
+                _title: 'Advisory Committee Calendar'
+        requirements:
+                _permission: 'access content'
+
+advisory__create_content_type.calendar_defaulthtm:
+        path: '/AdvisoryCommittees/Calendar/default.htm'
+        defaults:
+                _controller: '\Drupal\advisory__create_content_type\Controller\CalendarController::content'
+                _title: 'Advisory Committee Calendar'
+        requirements:
+                _permission: 'access content'
+
+advisory__create_content_type.calendar_year:
+        path: '/AdvisoryCommittees/Calendar/{year}/default.htm'
+        defaults:
+                _controller: '\Drupal\advisory__create_content_type\Controller\CalendarController::year'
+                _title: 'Advisory Committee Calendar'
+        requirements:
+                _permission: 'access content'

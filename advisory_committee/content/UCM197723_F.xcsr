@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<folio xmlns="http://stellent.com/cpd">
+ <properties>
+  <property key="xcst:sourceTemplateID" value="FDAGOVCONTENTFOLIOTEMPLATE"/>
+ </properties>
+ <children>
+  <node nodeId='168A-7A0C-2964-1F0C-D9AE'>
+   <properties>
+    <property key="xcst:name" value="wwCpdFolioRoot"/>
+    <property key="xcst:createdate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+    <property key="xcst:lastmodifieddate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+   </properties>
+   <children>
+    <node nodeId='006D-FB30-0C04-1613-2595'>
+     <properties>
+      <property key="xcst:name" value="ResourcesForYou"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+     </properties>
+     <children>
+      <slot nodeId='A116-C690-745B-EF05'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="2010 Meeting Materials, Vaccines and Related Biological Products Advisory Committee"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2011-11-14 13:27:45.631&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM197728"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM197728&#39;)--]"/>
+        <property key="xcst:name" value="2010 Meeting Materials, Vaccines and Related Biological Products Advisory Committee"/>
+        <property key="xcst:createdate" value="{ts &#39;2011-11-14 13:27:45.631&#39;}"/>
+        <property key="xcsd:href" value="[!--$wcmUrl(&#39;link&#39;,&#39;UCM197728&#39;)--]"/>
+        <property key="xcsd:xLinkWebAddress" value="/FDAgov/AdvisoryCommittees/CommitteesMeetingMaterials/BloodVaccinesandOtherBiologics/VaccinesandRelatedBiologicalProductsAdvisoryCommittee/ucm197728.htm"/>
+        <property key="xcsd:dDocAuthor" value="dixonm"/>
+        <property key="xcsd:dDocType" value="WebContent"/>
+        <property key="xcst:externalTarget" value="[!--$wcmUrl(&#39;link&#39;,&#39;UCM197728&#39;)--]"/>
+        <property key="xcsd:dFormat" value="text/html"/>
+        <property key="xcsd:dDocName" value="UCM197728"/>
+        <property key="xcsd:dRevLabel" value="26"/>
+        <property key="xcsd:dOriginalName" value="4709901320778180942.xml"/>
+        <property key="xcsd:dID" value="543872"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+     </children>
+    </node>
+    <node nodeId='00B9-5FA4-BEB7-1154-6C9A'>
+     <properties>
+      <property key="xcst:name" value="MainList1"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='8180-0F53-952D-4696-B758'>
+     <properties>
+      <property key="xcst:name" value="MainList2"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='4E2B-B7E9-8FA2-9270-044A'>
+     <properties>
+      <property key="xcst:name" value="MainList3"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='5674-18A5-586F-654A-19E2'>
+     <properties>
+      <property key="xcst:name" value="MainList4"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='F6F5-E909-79F2-9951-A773'>
+     <properties>
+      <property key="xcst:name" value="MainList5"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='E747-59C4-4BDF-DE08-8468'>
+     <properties>
+      <property key="xcst:name" value="MainList6"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='2E07-22A5-80CB-7831-1088'>
+     <properties>
+      <property key="xcst:name" value="MainList7"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='C1CC-1E7B-C139-0A15-1CB0'>
+     <properties>
+      <property key="xcst:name" value="MainList8"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='C352-BFD4-F4D6-6011-903E'>
+     <properties>
+      <property key="xcst:name" value="MainList9"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='D9A4-16C3-3C80-4D1E-AAA8'>
+     <properties>
+      <property key="xcst:name" value="MainList10"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-11-14 13:27:09.954&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='AC51-393C-ABBD-A8D2'>
+     <properties>
+      <property key="xcst:name" value="ContactUs"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-11-14 13:27:45.631&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-11-14 13:27:45.631&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+   </children>
+  </node>
+ </children>
+ <edithistory>
+ </edithistory>
+</folio>

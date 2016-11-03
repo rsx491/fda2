@@ -1,0 +1,8 @@
+type: associated_resources_for_you
+name: 'Resources For You'
+description: 'Associated Content - Resources For You'
+new_revision: false
+display_submitted: true
+preview_mode: 1
+status: true
+langcode: en

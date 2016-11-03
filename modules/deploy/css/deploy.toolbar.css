@@ -1,0 +1,15 @@
+/**
+ * @file
+ * Styling for Deploy toolbar.
+ */
+
+.toolbar-bar .toolbar-icon-deploy:before {
+    background-image: url("/core/misc/icons/bebebe/push-up.svg");
+}
+.no-svg .toolbar-bar .toolbar-icon-deploy:before {
+    background-image: url("/core/misc/icons/bebebe/push-up.png");
+}
+
+.toolbar .toolbar-bar .deploy-toolbar-tab.toolbar-tab {
+    float: right;
+}

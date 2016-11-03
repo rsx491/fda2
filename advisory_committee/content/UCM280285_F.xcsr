@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<folio xmlns="http://stellent.com/cpd">
+ <properties>
+  <property key="xcst:sourceTemplateID" value="FDAGOVCONTENTFOLIOTEMPLATE"/>
+ </properties>
+ <children>
+  <node nodeId='BD5A-59AE-A616-70EC-DB65'>
+   <properties>
+    <property key="xcst:name" value="wwCpdFolioRoot"/>
+    <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+    <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+   </properties>
+   <children>
+    <node nodeId='50DD-2E7D-3C72-9297-0776'>
+     <properties>
+      <property key="xcst:name" value="ResourcesForYou"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='4C8D-FA2B-BAB6-4573-CA71'>
+     <properties>
+      <property key="xcst:name" value="PhotoGallery"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='B31E-F909-86AF-8CB9-40C6'>
+     <properties>
+      <property key="xcst:name" value="DynamicList"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='5E43-9536-674E-3D7D-B3FF'>
+     <properties>
+      <property key="xcst:name" value="MainList1"/>
+      <property key="xcst:label" value="January 11, 2012: Meeting Materials FDA Generated"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+     </properties>
+     <children>
+      <slot nodeId='4A09-DA1C-7A3C-D2B6'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Meeting  Agenda"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM286237"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM286237&#39;)--]"/>
+        <property key="xcst:name" value="Meeting  Agenda"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM286237&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM286237&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM286237"/>
+        <property key="xcsd:dRevLabel" value="2"/>
+        <property key="xcsd:dOriginalName" value="Draft LINX Agenda 1-9-12.pdf"/>
+        <property key="xcsd:dID" value="562798"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='2D4B-84A7-DCBB-6919'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Roster"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM286429"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM286429&#39;)--]"/>
+        <property key="xcst:name" value="Roster"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM286429&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM286429&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM286429"/>
+        <property key="xcsd:dRevLabel" value="2"/>
+        <property key="xcsd:dOriginalName" value="LINX Public Roster 1-11-12.pdf"/>
+        <property key="xcsd:dID" value="563779"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='0844-B3E0-9F4F-5AF8'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Panel Questions"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM286238"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM286238&#39;)--]"/>
+        <property key="xcst:name" value="Panel Questions"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM286238&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM286238&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM286238"/>
+        <property key="xcsd:dRevLabel" value="2"/>
+        <property key="xcsd:dOriginalName" value="1 10 12  P100049 final Panel Questions.pdf"/>
+        <property key="xcsd:dID" value="565022"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='8BE5-D229-5972-B3AB'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="FDA  Executive Summary"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM286243"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM286243&#39;)--]"/>
+        <property key="xcst:name" value="FDA  Executive Summary"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM286243&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM286243&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM286243"/>
+        <property key="xcsd:dRevLabel" value="3"/>
+        <property key="xcsd:dOriginalName" value="FDA Executive Summary for meeting on 1.11.12_Redacted.pdf"/>
+        <property key="xcsd:dID" value="563800"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='154F-8A5B-ABD9-E3B9'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="FDA Preentation"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM287517"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM287517&#39;)--]"/>
+        <property key="xcst:name" value="FDA Preentation"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM287517&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM287517&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM287517"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="1 10 12 (7 pm) Torax Master file.pdf"/>
+        <property key="xcsd:dID" value="565088"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='CD2F-B14A-BB74-BCBA'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="24  Hour Summary"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM287665"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM287665&#39;)--]"/>
+        <property key="xcst:name" value="24  Hour Summary"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM287665&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM287665&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM287665"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="24 hour Summary Gastroenterology and Urology Devices Panel - 1-11-12.pdf"/>
+        <property key="xcsd:dID" value="565459"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='4B76-9E04-F35E-6380'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Transcripts"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM291391"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM291391&#39;)--]"/>
+        <property key="xcst:name" value="Transcripts"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM291391&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM291391&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM291391"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Gastro01-11-12 TRANSCRIPT.FINAL.pdf"/>
+        <property key="xcsd:dID" value="575007"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+     </children>
+    </node>
+    <node nodeId='8106-46B8-ACE5-748B-2B8F'>
+     <properties>
+      <property key="xcst:name" value="MainList2"/>
+      <property key="xcst:label" value="January 11, 2012: Meeting Materias Non-FDA Generated"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+     </properties>
+     <children>
+      <slot nodeId='C926-982A-2F1D-9904'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Sponsor Executive Summary."/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM286236"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM286236&#39;)--]"/>
+        <property key="xcst:name" value="Sponsor Executive Summary."/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM286236&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM286236&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM286236"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="LINX Reflux Management System P100049 - Panel Pack (3)_Redacted.pdf"/>
+        <property key="xcsd:dID" value="562749"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='A6E5-C732-89CC-2202'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Presentation: Castell"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM287482"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM287482&#39;)--]"/>
+        <property key="xcst:name" value="Presentation: Castell"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM287482&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM287482&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM287482"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="TORAX- OPH Presentation Castell.pdf"/>
+        <property key="xcsd:dID" value="565032"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='4345-0FE0-0C34-D2F8'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Presentation: Ganz"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM287507"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM287507&#39;)--]"/>
+        <property key="xcst:name" value="Presentation: Ganz"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM287507&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM287507&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM287507"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Torax -OPH presentation Ganz.pdf"/>
+        <property key="xcsd:dID" value="565069"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='7388-714E-F949-A6CD'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Presentation: Torax Panel"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM287512"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM287512&#39;)--]"/>
+        <property key="xcst:name" value="Presentation: Torax Panel"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM287512&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM287512&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM287512"/>
+        <property key="xcsd:dRevLabel" value="2"/>
+        <property key="xcsd:dOriginalName" value="FDA Panel Presentation FINAL2 WO_Script.pdf"/>
+        <property key="xcsd:dID" value="568556"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+     </children>
+    </node>
+    <node nodeId='F309-C8F3-81C7-AE61-C197'>
+     <properties>
+      <property key="xcst:name" value="MainList3"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='3F3E-B522-38B8-7F76-953D'>
+     <properties>
+      <property key="xcst:name" value="MainList4"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='0A7C-4485-7045-4585-EDFE'>
+     <properties>
+      <property key="xcst:name" value="MainList5"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='DB7C-6D2B-FBC0-5362-A2A5'>
+     <properties>
+      <property key="xcst:name" value="MainList6"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='ECA1-20AB-6FD5-7DAB-586A'>
+     <properties>
+      <property key="xcst:name" value="MainList7"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='F9A4-7E4E-B09E-3FFB-0C5B'>
+     <properties>
+      <property key="xcst:name" value="MainList8"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='1756-8A07-7FC4-A4A7-15BF'>
+     <properties>
+      <property key="xcst:name" value="MainList9"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='B2CD-9639-20AF-669D-04DF'>
+     <properties>
+      <property key="xcst:name" value="MainList10"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:47:32.440&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='F0CD-8E71-63A9-07AF'>
+     <properties>
+      <property key="xcst:name" value="ContactUs"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-08 13:51:28.896&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+   </children>
+  </node>
+ </children>
+ <edithistory>
+ </edithistory>
+</folio>

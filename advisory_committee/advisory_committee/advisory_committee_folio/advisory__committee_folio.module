@@ -1,0 +1,14 @@
+<?php
+
+/**
+* @file
+* Contains Drupal\advisory_committee_folio.module
+*/
+
+/**
+ * @defgroup advisory_committee_folio Advisory Committee: Folios
+ * @ingroup AdvisoryCommittee
+ * @{
+ * Impelement content entity for advisory committee.
+ * }
+ */ 

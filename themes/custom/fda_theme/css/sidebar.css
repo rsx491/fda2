@@ -1,0 +1,228 @@
+/* ------------------ Sidebar ----------------- */
+
+/* Advisory Committee Content */
+.path-advisory-committee-content .left-column .list-group {
+	font-size: 12px;
+	color: #005F9F;
+	position: relative;
+	display: block;
+	padding: 0px;
+	margin-bottom: -1px;
+	background-color: #005F9F;
+}
+
+.path-advisory-committee-content .left-column .list-group h2 {
+    margin: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #FFF;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.path-advisory-committee-content .list-group-item.active,
+.path-advisory-committee-content .list-group-item.active:hover,
+.path-advisory-committee-content .list-group-item.active:focus {
+    z-index: 2;
+    color: #FFF;
+    background-color: #005F9F;
+    border-color: #005F9F;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+}
+
+.path-advisory-committee-content .list-group {
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+}
+
+.path-advisory-committee-content .list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #FFF;
+    border: 1px solid #DDD;
+}
+
+.path-advisory-committee-content a.list-group-item {
+    color: #555;
+}
+
+.path-advisory-committee-content .left-column .section .list-group-item:last-child {
+    margin-bottom: -1px;
+    border-bottom: 1px solid #DDD;
+}
+
+.path-advisory-committee-content .left-column .section .list-group-item {
+    background: #F5F5F5 none repeat scroll 0% 0%;
+    border: 0px none;
+    border-radius: 0px;
+}
+
+.path-advisory-committee-content .left-column .section {
+    padding: 0px;
+    font-size: 1em;
+}
+
+.path-advisory-committee-content .list-group-item:last-child {
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+@media all and (min-width: 560px) {
+  .sidebar {
+    float: right≈; /* LTR */
+    position: relative;
+    width: 50%;
+  }
+  [dir="rtl"] .sidebar {
+    float: right;
+  }
+  .layout-one-sidebar .sidebar {
+    width: 100%;
+  }
+}
+
+@media all and (min-width: 851px) {
+  .layout-one-sidebar .sidebar {
+    width: 25%;
+  }
+  
+  #sidebar-first {
+    width: 25%;
+    margin-left: 0px;
+  }
+  
+  [dir="rtl"] #sidebar-first {
+    margin-right: 0px;
+    margin-left: 0;
+  }
+
+  #sidebar-second {
+    width: 25%;
+    clear: none;
+    margin-left: 0px;
+  }
+  
+  [dir="rtl"] #sidebar-second {
+    margin-right: -25%;
+    margin-left: 0;
+  }
+}
+
+.sidebar .section {
+  padding: 10px 15px 0;
+}
+
+.sidebar .block {
+  border-style: solid;
+  border-width: 1px;
+  padding: 0px; 
+  margin: 0px;
+}
+
+.sidebar h2 {
+  font-weight: bold;
+  margin: 10px 15px;
+  text-shadow: 0 1px 0 #fff;
+  font-size: 1.071em;
+  line-height: 1.2;
+  padding: 0px;
+  border: none;
+}
+.sidebar .block .content {
+  font-size: 0.914em;
+  line-height: 1.4;
+}
+
+#sidebar-first .view-header
+	{
+	background-color: #005F9F;
+	color: #FFF;
+	padding: 10px 15px;
+	border-top-left-radius:4px;
+	border-top-right-radius:4px;
+	border: 1px solid #ddd;
+	margin-bottom: -1px;
+	}
+
+#sidebar-first .views-row
+	{
+	background-color: #f5f5f5;
+	padding: 10px 15px;
+	border: 1px solid #ddd;
+	}
+
+#sidebar-first .views-row a
+	{
+	color: #005F9F;
+	}
+
+#sidebar-first .views-rows:last-child
+	{
+  border-bottom-left-radius:4px;
+  border-bottom-right-radius:4px;
+	}
+
+.sidebar tbody {
+  border: none;
+}
+.sidebar tr.even,
+.sidebar tr.odd {
+  background: none;
+  border-bottom: 1px solid #d6d6d6;
+}
+
+#block-resourcesforyou,
+#block-contactfda,
+#block-approvalsclearances,
+#block-recallsalerts {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-top: 20px;
+}
+
+#block-spotlight .content,
+#block-recallsalerts .content,
+#block-approvalsclearances .content,
+#block-contactfda .content,
+#block-resourcesforyou .content {
+  background-color: #fff;
+}
+
+#block-spotlight {
+  margin-top: 0px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.div-info {
+  padding-top: 15px;
+}
+
+.div-name {
+    font-weight: bold;
+}
+
+.div-address p {
+    margin: 0;
+}
+
+.panel-body {
+    padding: 15px;
+}
+
+div#block-views-block-warning-letters-and-notice-block-1.views-element-container.contextual-region.block.block-views.block-views-block-warning-letters-and-notice-of-violation-letters-to-pharmaceutical-companies-block-1
+	{ 
+	background-color: #005F9F; 
+	color: #FFF;  
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	margin-bottom: -1px;
+	}
+
+div#block-views-block-warning-letters-and-notice-block-1.views-element-container.contextual-region.block.block-views.block-views-block-warning-letters-and-notice-of-violation-letters-to-pharmaceutical-companies-block-1 h2
+	{ font-size: 12px; text-shadow: none; }
+
+.path-fda-guidance-documents #sidebar-first { display: none; }
+

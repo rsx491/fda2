@@ -1,0 +1,96 @@
+services:
+  relaxed.encoder.stream:
+    class: Drupal\relaxed\Encoder\StreamEncoder
+    tags:
+      - { name: encoder, format: stream }
+  relaxed.encoder.base64_stream:
+    class: Drupal\relaxed\Encoder\StreamEncoder
+    tags:
+      - { name: encoder, format: base64_stream }
+  relaxed.normalizer.content_entity:
+    class: Drupal\relaxed\Normalizer\ContentEntityNormalizer
+    arguments: ['@entity.manager', '@entity.index.uuid', '@entity.index.rev.tree', '@rest.link_manager', '@language_manager', '@plugin.manager.entity_reference_selection']
+    tags:
+      - { name: normalizer, priority: 10 }
+  relaxed.normalizer.replication_log:
+    class: Drupal\relaxed\Normalizer\ReplicationLogNormalizer
+    arguments: ['@entity.manager', '@entity.index.uuid', '@entity.index.rev.tree', '@rest.link_manager']
+    tags:
+      - { name: normalizer, priority: 20 }
+  relaxed.normalizer.bulk_docs:
+    class: Drupal\relaxed\Normalizer\BulkDocsNormalizer
+    tags:
+      - { name: normalizer, priority: 20 }
+  relaxed.normalizer.all_docs:
+    class: Drupal\relaxed\Normalizer\AllDocsNormalizer
+    arguments: ['@entity.manager', '@entity.index.uuid']
+    tags:
+      - { name: normalizer, priority: 10 }
+  relaxed.normalizer.changes:
+    class: Drupal\relaxed\Normalizer\ChangesNormalizer
+    tags:
+      - { name: normalizer }
+  relaxed.normalizer.workspace:
+    class: Drupal\relaxed\Normalizer\WorkspaceNormalizer
+    tags:
+      - { name: normalizer, priority: 20 }
+    arguments: ['@entity.manager']
+  relaxed.normalizer.deleted_flag_item_list:
+    class: Drupal\relaxed\Normalizer\DeletedFlagItemListNormalizer
+    tags:
+      - { name: normalizer, priority: 10 }
+  relaxed.normalizer.revision_info_item_list:
+    class: Drupal\relaxed\Normalizer\RevisionInfoItemListNormalizer
+    tags:
+      - { name: normalizer, priority: 10 }
+  relaxed.normalizer.revs_diff:
+    class: Drupal\relaxed\Normalizer\RevsDiffNormalizer
+    tags:
+      - { name: normalizer, priority: 30 }
+  relaxed.normalizer.attachment:
+    class: Drupal\relaxed\Normalizer\AttachmentNormalizer
+    arguments: ['@entity.manager']
+    tags:
+      - { name: normalizer, priority: 30 }
+  relaxed.normalizer.file_item:
+    class: Drupal\relaxed\Normalizer\FileItemNormalizer
+    tags:
+      - { name: normalizer, priority: 10 }
+  relaxed.normalizer.entity_reference_item:
+    class: Drupal\relaxed\Normalizer\EntityReferenceItemNormalizer
+    tags:
+      - { name: normalizer, priority: 10 }
+  relaxed.normalizer.comment_item:
+    class: Drupal\relaxed\Normalizer\CommentItemNormalizer
+    tags:
+      - { name: normalizer, priority: 10 }
+  paramconverter.docid:
+    class: Drupal\relaxed\ParamConverter\DocIdConverter
+    arguments: ['@entity.manager', '@entity.index.uuid', '@entity.index.rev', '@entity.index.rev.tree']
+    tags:
+      - { name: paramconverter, priority: 30 }
+  paramconverter.db:
+    class: Drupal\relaxed\ParamConverter\DbConverter
+    arguments: ['@workspace.manager']
+    tags:
+      - { name: paramconverter, priority: 20 }
+  paramconverter.entity_uuid:
+    class: Drupal\relaxed\ParamConverter\EntityUuidConverter
+    arguments: ['@entity.manager', '@entity.index.uuid']
+    tags:
+      - { name: paramconverter, priority: 20 }
+  workspace.negotiator.relaxed:
+    class: Drupal\relaxed\Workspace\RelaxedWorkspaceNegotiator
+    arguments: ['@config.factory']
+    calls:
+      - [setContainer, ['@service_container']]
+      - [setCurrentUser, ['@current_user']]
+      - [setWorkspaceManager, ['@workspace.manager']]
+    tags:
+      - { name: workspace_negotiator, priority: 200 }
+  plugin.manager.endpoint:
+    class: Drupal\relaxed\Plugin\EndpointManager
+    parent: default_plugin_manager
+  plugin.manager.endpoint_check:
+    class: Drupal\relaxed\Plugin\EndpointCheckManager
+    parent: default_plugin_manager

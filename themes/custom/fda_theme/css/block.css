@@ -1,0 +1,7 @@
+
+/* Block has it's own content wrapper. */
+.block .content {
+	margin-top: 0px; 
+}
+
+#block-newsroomheader { background-color: #fff; }

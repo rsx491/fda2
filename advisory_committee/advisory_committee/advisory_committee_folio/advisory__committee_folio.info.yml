@@ -1,0 +1,7 @@
+name: Advisory Committee Folios
+type: module
+description: 'manage the advisory committee folio entries'
+core: 8.x
+package: Advisory Committee
+dependencies:
+ - node

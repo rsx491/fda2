@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<folio xmlns="http://stellent.com/cpd">
+ <properties>
+  <property key="xcst:sourceTemplateID" value="FDAGOVCONTENTFOLIOTEMPLATE"/>
+ </properties>
+ <children>
+  <node nodeId='256E-042C-8AC0-5F91-8D79'>
+   <properties>
+    <property key="xcst:name" value="wwCpdFolioRoot"/>
+    <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+    <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+   </properties>
+   <children>
+    <node nodeId='6202-7117-9DDD-F543-ECA0'>
+     <properties>
+      <property key="xcst:name" value="ResourcesForYou"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='8D92-3251-9090-2712-E878'>
+     <properties>
+      <property key="xcst:name" value="PhotoGallery"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='E322-12CE-DA6E-84D8-8106'>
+     <properties>
+      <property key="xcst:name" value="DynamicList"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='2E66-A329-8437-FA8A-8A4B'>
+     <properties>
+      <property key="xcst:name" value="MainList1"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='A345-BA02-F1BD-DF79-824E'>
+     <properties>
+      <property key="xcst:name" value="MainList2"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='2516-5D03-8366-9B3E-62D2'>
+     <properties>
+      <property key="xcst:name" value="MainList3"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='5CE9-2855-3E38-8A83-3175'>
+     <properties>
+      <property key="xcst:name" value="MainList4"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='A5BD-E3E8-877E-C135-2C0A'>
+     <properties>
+      <property key="xcst:name" value="MainList5"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='0615-8B27-3302-8D96-8787'>
+     <properties>
+      <property key="xcst:name" value="MainList6"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='72BF-CE46-449A-6C81-23EF'>
+     <properties>
+      <property key="xcst:name" value="MainList7"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='9760-96A2-40E6-7F83-4378'>
+     <properties>
+      <property key="xcst:name" value="MainList8"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='8D26-5818-BF95-5A1A-6D45'>
+     <properties>
+      <property key="xcst:name" value="MainList9"/>
+      <property key="xcst:label" value="February 22, 2013: Meeting Materials FDA Generated"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+     </properties>
+     <children>
+      <slot nodeId='631B-831E-3F37-E24D'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Agenda: Feb. 22, 2013"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM340252"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM340252&#39;)--]"/>
+        <property key="xcst:name" value="Agenda: Feb. 22, 2013"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM340252&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM340252&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM340252"/>
+        <property key="xcsd:dRevLabel" value="2"/>
+        <property key="xcsd:dOriginalName" value="NeuroPace Agenda Final.pdf"/>
+        <property key="xcsd:dID" value="701132"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='3B2F-6DA7-D0AD-A096'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Roster: Feb. 22, 2013"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM340253"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM340253&#39;)--]"/>
+        <property key="xcst:name" value="Roster: Feb. 22, 2013"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM340253&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM340253&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM340253"/>
+        <property key="xcsd:dRevLabel" value="2"/>
+        <property key="xcsd:dOriginalName" value="NeuroPace Public Roster.pdf"/>
+        <property key="xcsd:dID" value="701134"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='4C13-24A7-11DA-E183'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="FDA Executive Summary: Feb. 22, 2013"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM340254"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM340254&#39;)--]"/>
+        <property key="xcst:name" value="FDA Executive Summary: Feb. 22, 2013"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM340254&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM340254&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM340254"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Executive Summary from FDA 1-23-13_Redacted.pdf"/>
+        <property key="xcsd:dID" value="698498"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='B8EF-4524-760C-E2D5'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="FDA Panel Questions: Feb. 22, 2013"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM341123"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM341123&#39;)--]"/>
+        <property key="xcst:name" value="FDA Panel Questions: Feb. 22, 2013"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM341123&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM341123&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM341123"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="FDA Panel Questions (2-21-13).pdf"/>
+        <property key="xcsd:dID" value="701063"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='087D-D069-8438-3D0B'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Voting Questions: Feb. 22, 2013"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM341124"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM341124&#39;)--]"/>
+        <property key="xcst:name" value="Voting Questions: Feb. 22, 2013"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM341124&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM341124&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM341124"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="NeuroPace Voting Questions.pdf"/>
+        <property key="xcsd:dID" value="701064"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='4C33-51DF-724E-55F1'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="24 Hour Summary: Feb. 22, 2013"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM341125"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM341125&#39;)--]"/>
+        <property key="xcst:name" value="24 Hour Summary: Feb. 22, 2013"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM341125&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM341125&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM341125"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="24 Hour Summary - NeuroPace FINAL.pdf"/>
+        <property key="xcsd:dID" value="701065"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='086D-2DCB-27CB-6030'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="FDA Presentation: Feb. 22, 2013"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM341605"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM341605&#39;)--]"/>
+        <property key="xcst:name" value="FDA Presentation: Feb. 22, 2013"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM341605&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM341605&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM341605"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="FDA NeuroPace Panel Presentation (2-21) FINAL.pdf"/>
+        <property key="xcsd:dID" value="702349"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='0D77-5235-6BA9-9EDB'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Transcript: Feb. 22, 2013"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-03-27 11:12:00.139&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM345522"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM345522&#39;)--]"/>
+        <property key="xcst:name" value="Transcript: Feb. 22, 2013"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-03-27 11:12:00.139&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM345522&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM345522&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM345522"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Neuro02-22-13.FINAL.pdf"/>
+        <property key="xcsd:dID" value="714916"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+     </children>
+    </node>
+    <node nodeId='B040-3145-415F-4423-2E8A'>
+     <properties>
+      <property key="xcst:name" value="MainList10"/>
+      <property key="xcst:label" value="February 22, 2013: Meeting Materials Non-FDA Generated"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:05:42.482&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-03-05 05:52:46.006&#39;}"/>
+     </properties>
+     <children>
+      <slot nodeId='9C89-DCBA-D8C2-070D'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="NeuroPace Executive Summary"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM340257"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM340257&#39;)--]"/>
+        <property key="xcst:name" value="NeuroPace Executive Summary"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM340257&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM340257&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM340257"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Sponsor_NeuroPace Executive Summary.pdf"/>
+        <property key="xcsd:dID" value="698503"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='A42D-38B8-5D96-1FA9'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="NeuroPace Executive Summary - Amendment"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-03-05 05:52:46.006&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM342364"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM342364&#39;)--]"/>
+        <property key="xcst:name" value="NeuroPace Executive Summary - Amendment"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-03-05 05:52:46.006&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM342364&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM342364&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM342364"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="NeuroPace_Executive_Summary_Amendment_REDACTED.PDF"/>
+        <property key="xcsd:dID" value="704011"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='130B-36AB-5711-E020'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="NeuroPace Summary of Safety and Effectiveness Data"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM340258"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM340258&#39;)--]"/>
+        <property key="xcst:name" value="NeuroPace Summary of Safety and Effectiveness Data"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM340258&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM340258&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM340258"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="NeuroPace Apx Sponsor 15 8 Summary of Safety and Effectiveness Data.pdf"/>
+        <property key="xcsd:dID" value="698504"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='6B60-9BC7-5EA1-237C'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="NeuroPace Pivotal Study Protocol"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM340259"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM340259&#39;)--]"/>
+        <property key="xcst:name" value="NeuroPace Pivotal Study Protocol"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM340259&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM340259&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM340259"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Sponsor NeuroPace Apx 15 2 Pivotal Study Protocol.pdf"/>
+        <property key="xcsd:dID" value="698505"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='31D4-4212-F7A4-C178'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="NeuroPace User Manual"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM340260"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM340260&#39;)--]"/>
+        <property key="xcst:name" value="NeuroPace User Manual"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM340260&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM340260&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM340260"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Sponsor NeuroPace Apx 15 9 RNS System User Manual.pdf"/>
+        <property key="xcsd:dID" value="698506"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='35C0-CCBF-A7E8-18FC'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="NeuroPace Patient Manual"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM340261"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM340261&#39;)--]"/>
+        <property key="xcst:name" value="NeuroPace Patient Manual"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM340261&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM340261&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM340261"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Sponsor NeuroPace Apx 15 10 RNS System Patient Manual.pdf"/>
+        <property key="xcsd:dID" value="698507"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='C3F6-FF76-96FC-B80B'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="NeuroPace Referenced Literature"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM340263"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM340263&#39;)--]"/>
+        <property key="xcst:name" value="NeuroPace Referenced Literature"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM340263&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM340263&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM340263"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Sponsor NeuroPace Referenced Literature - Redacted.pdf"/>
+        <property key="xcsd:dID" value="698509"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='384C-7A9F-83D5-2769'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="NeuroPace Presentation"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM341121"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM341121&#39;)--]"/>
+        <property key="xcst:name" value="NeuroPace Presentation"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM341121&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM341121&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM341121"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="2012-02-22 NeuroPace Slides Shown_Redacted.pdf"/>
+        <property key="xcsd:dID" value="701056"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+     </children>
+    </node>
+    <node nodeId='9FB7-5C99-F621-889F'>
+     <properties>
+      <property key="xcst:name" value="ContactUs"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-28 11:11:11.057&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+   </children>
+  </node>
+ </children>
+ <edithistory>
+ </edithistory>
+</folio>

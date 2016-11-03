@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<wcm:root xmlns:wcm="http://www.stellent.com/wcm-data/ns/8.0.0">
+  <wcm:element name="MainContent">&lt;table id="schedule" border="0" cellspacing="0" class="data" width="100%" summary="This table shows the date, time, and location of the meeting" cellpadding="2"&gt;
+&lt;tr&gt;
+&lt;th style=" height: 19px;" id="a2" align="left" width="35%" bgcolor="#cccccc" valign="top"&gt;Date&lt;/th&gt;
+&lt;th style=" height: 19px;" id="a3" align="left" width="30%" bgcolor="#cccccc" valign="top"&gt;Time&lt;/th&gt;
+&lt;th style=" height: 19px;" id="a4" align="left" width="45%" bgcolor="#cccccc" valign="top"&gt;Location&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style=" height: 64px;" width="35%" headers="a2" valign="top"&gt;&lt;!-- InstanceBeginEditable name="col2" --&gt;May 6, 2010&lt;br /&gt;
+May 7, 2010 &lt;!-- InstanceEndEditable --&gt;&lt;/td&gt;
+&lt;td style=" height: 64px;" width="30%" headers="a3" valign="top"&gt;&lt;!-- InstanceBeginEditable name="col3" --&gt;8:00 a.m. - 5:00 p.m.&lt;br /&gt;
+8:00 a.m. - 2:00 p.m.&lt;!-- InstanceEndEditable --&gt;&lt;/td&gt;
+&lt;td style=" height: 65px;" width="45%" headers="a4" valign="top"&gt;&lt;!-- InstanceBeginEditable name="col4" --&gt;FDA White Oak Campus, 10903 New Hampshire Ave., Bldg. 31, Conference Center, Rm. 1503, Silver Spring, M.D. 20993&lt;!-- InstanceEndEditable --&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 class="BlueBar"&gt;&lt;strong&gt;Agenda&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;!-- InstanceBeginEditable name="agenda" --&gt;On May 6 and 7, 2010, the Committee will review the state of current research in a range of fields relevant to improving risk communication at FDA, and discuss applications or gaps for strategic planning of risk communication at FDA. For more specific agenda information, please visit the following website and scroll down to the appropriate advisory committee link (&lt;em&gt;http://www.fda.gov/AdvisoryCommittees/default.htm&lt;/em&gt;), or call FDA Advisory Committee Information Line as listed in the Contact Person section of the notice. FDA intends to make agenda information available no later than 15 days before the meeting.&lt;/p&gt;
+
+&lt;h2 class="BlueBar"&gt;Procedure&amp;#160;&lt;/h2&gt;
+
+&lt;p&gt;Visitors to the White Oak Campus must have a valid driver's license or other picture ID, and must enter through Building 1. In order to help speed entrance through security, we request that attendees send an email giving their full names to RCAC@fda.hhs.gov with the word "registration" in the subject line, or telephone Lee Zwanziger (see Contact Person), by April 27, 2010.&lt;/p&gt;
+
+&lt;h2 class="BlueBar"&gt;&amp;#160;&lt;a href='[!--$ssLink("ucm197164.htm")--]'&gt;Other Meeting Materials&lt;/a&gt;&lt;/h2&gt;
+
+&lt;div style=" margin-left: 2em;" class="noindent"&gt;
+&lt;h2 class="BlueBar"&gt;Public Participation Information&amp;#160;&lt;/h2&gt;
+
+&lt;p&gt;&lt;!-- InstanceBeginEditable name="pubpart" --&gt;Interested persons may present data, information, or views, orally or in writing, on issues pending before the committee.&amp;#160;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Written submissions may be made to the contact person on or before May 3, 2010.&amp;#160;&lt;/li&gt;
+
+&lt;li&gt;Oral presentations from the public will be scheduled between approximately 3:15 p.m. and 4:15 p.m. on May 6, 2010 and between 1:00 p.m. and 1:30 p.m. on May 7, 2010. Those desiring to make formal oral presentations should notify Lee Zwanziger and submit a brief statement of the general nature of the evidence or arguments they wish to present, the names and addresses of proposed participants, and an indication of the approximate time requested to make their presentations on or before April 27, 2010.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Time allotted for each presentation may be limited. If the number of registrants requesting to speak is greater than can be reasonably accommodated during the scheduled open public hearing session, FDA may conduct a lottery to determine the speakers for the scheduled open public hearing session. The contact person will notify interested persons regarding their request to speak by April 28, 2010.&lt;/p&gt;
+
+&lt;p&gt;&amp;#160;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- InstanceEndEditable --&gt;&lt;/p&gt;
+
+&lt;h2 class="BlueBar"&gt;&lt;strong&gt;Contact Information&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;!-- InstanceBeginEditable name="contact" --&gt;&lt;/p&gt;
+
+&lt;ul class="listspace"&gt;
+&lt;li&gt;&lt;strong&gt;Lee L. Zwanziger, Designated Federal Official&lt;/strong&gt;&lt;br /&gt;
+5600 Fishers Lane, Rm 14-90, HFP-1&lt;br /&gt;
+Rockville, MD 20857&lt;/li&gt;
+
+&lt;li&gt;Phone 301-827-2895&lt;/li&gt;
+
+&lt;li&gt;FAX: 301-827-4050&lt;br /&gt;
+e-mail:&amp;#160; RCAC@fda.hhs.gov&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;FDA Advisory Committee Information Line&lt;/strong&gt;&lt;br /&gt;
+1-800-741-8138&lt;br /&gt;
+301-443-0572 in the Washington, DC, area&lt;br /&gt;
+code 8732112560&lt;br /&gt;
+Please call the Information Line for up-to-date information on this meeting.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;#160;&lt;/p&gt;
+
+&lt;p&gt;FDA intends to make background material available to the public no later than 2 business days before the meeting. If FDA is unable to post the background material on its Web site prior to the meeting, the background material will be made publicly available at the location of the advisory committee meeting, and the background material will be posted on FDA's Web site after the meeting.&lt;/p&gt;
+
+&lt;p&gt;&amp;#160;&lt;/p&gt;
+
+&lt;p&gt;Persons attending FDA's advisory committee meetings are advised that the agency is not responsible for providing access to electrical outlets. FDA welcomes the attendance of the public at its advisory committee meetings and will make every effort to accommodate persons with physical disabilities or special needs. If you require special accommodations due to a disability, please contact Lee L. Zwanziger at least 7 days in advance of the meeting. FDA is committed to the orderly conduct of its advisory committee meetings. Please visit our Web site at &amp;#160;http://www.fda.gov/AdvisoryCommittees/default.htm for procedures on public conduct during advisory committee meetings.&lt;/p&gt;
+
+&lt;p&gt;&amp;#160;&lt;/p&gt;
+
+&lt;p&gt;Notice of this meeting is given under the Federal Advisory Committee Act (5 U.S.C. app. 2).&lt;/p&gt;
+
+&lt;p align="center"&gt;&amp;#160;&lt;/p&gt;
+&lt;/div&gt;</wcm:element>
+</wcm:root>

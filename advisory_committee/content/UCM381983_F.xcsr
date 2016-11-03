@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<folio xmlns="http://stellent.com/cpd">
+ <properties>
+  <property key="xcst:sourceTemplateID" value="FDAGOVCONTENTFOLIOTEMPLATE"/>
+ </properties>
+ <children>
+  <node nodeId='2A9D-EA7A-5D25-E992-B5D5'>
+   <properties>
+    <property key="xcst:name" value="wwCpdFolioRoot"/>
+    <property key="xcst:createdate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+    <property key="xcst:lastmodifieddate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+   </properties>
+   <children>
+    <node nodeId='55C3-1FB5-06FA-7222-1604'>
+     <properties>
+      <property key="xcst:name" value="ResourcesForYou"/>
+      <property key="xcst:createdate" value="{ts &#39;2014-03-10 07:47:13.819&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2014-03-10 07:47:13.819&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='F72F-AE70-97A8-4F09-C6A0'>
+     <properties>
+      <property key="xcst:name" value="PhotoGallery"/>
+      <property key="xcst:createdate" value="{ts &#39;2014-03-10 07:47:13.819&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2014-03-10 07:47:13.819&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='E37E-D027-A942-9C50-1D65'>
+     <properties>
+      <property key="xcst:name" value="DynamicList"/>
+      <property key="xcst:createdate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='0C67-CA79-2F69-5206-C4BD'>
+     <properties>
+      <property key="xcst:name" value="MainList1"/>
+      <property key="xcst:createdate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='8874-2B85-6C82-F47A-30C6'>
+     <properties>
+      <property key="xcst:name" value="MainList2"/>
+      <property key="xcst:createdate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2014-03-10 07:47:49.375&#39;}"/>
+     </properties>
+     <children>
+      <slot nodeId='70AE-FA62-F085-2513'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="2014 Meeting Materials of the Microbiology Devices Panel"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2014-03-10 07:47:49.375&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM388531"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM388531&#39;)--]"/>
+        <property key="xcst:name" value="2014 Meeting Materials of the Microbiology Devices Panel"/>
+        <property key="xcst:createdate" value="{ts &#39;2014-03-10 07:47:49.375&#39;}"/>
+        <property key="xcsd:href" value="[!--$wcmUrl(&#39;link&#39;,&#39;UCM388531&#39;)--]"/>
+        <property key="xcsd:xLinkWebAddress" value="/FDAgov/AdvisoryCommittees/CommitteesMeetingMaterials/MedicalDevices/MedicalDevicesAdvisoryCommittee/MicrobiologyDevicesPanel/ucm388531.htm"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="WebContent"/>
+        <property key="xcst:externalTarget" value="[!--$wcmUrl(&#39;link&#39;,&#39;UCM388531&#39;)--]"/>
+        <property key="xcsd:dFormat" value="text/html"/>
+        <property key="xcsd:dDocName" value="UCM388531"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="DATA_FILE_CLONE_xml1394382535952.xml"/>
+        <property key="xcsd:dID" value="851338"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+     </children>
+    </node>
+    <node nodeId='EF97-AC26-C5B8-E463-279C'>
+     <properties>
+      <property key="xcst:name" value="MainList3"/>
+      <property key="xcst:createdate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='0940-A4C8-6602-333A-221B'>
+     <properties>
+      <property key="xcst:name" value="MainList4"/>
+      <property key="xcst:createdate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='688F-8408-7625-9A45-C764'>
+     <properties>
+      <property key="xcst:name" value="MainList5"/>
+      <property key="xcst:createdate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='475E-3C3F-C5D0-A336-AE25'>
+     <properties>
+      <property key="xcst:name" value="MainList6"/>
+      <property key="xcst:createdate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='6870-78C4-E56C-C12B-500B'>
+     <properties>
+      <property key="xcst:name" value="MainList7"/>
+      <property key="xcst:createdate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='E653-10AC-9C6E-F52A-B816'>
+     <properties>
+      <property key="xcst:name" value="MainList8"/>
+      <property key="xcst:createdate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='6AB7-9E2A-350F-2B04-CFAC'>
+     <properties>
+      <property key="xcst:name" value="MainList9"/>
+      <property key="xcst:createdate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='87A2-0D1A-C555-28F5-00E9'>
+     <properties>
+      <property key="xcst:name" value="MainList10"/>
+      <property key="xcst:createdate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2014-03-10 07:47:13.834&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='E8AD-D3F2-F6DE-7153'>
+     <properties>
+      <property key="xcst:name" value="ContactUs"/>
+      <property key="xcst:createdate" value="{ts &#39;2014-03-10 07:47:49.375&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2014-03-10 07:47:49.375&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+   </children>
+  </node>
+ </children>
+ <edithistory>
+ </edithistory>
+</folio>

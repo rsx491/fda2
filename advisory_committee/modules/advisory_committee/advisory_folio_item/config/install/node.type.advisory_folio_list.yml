@@ -1,0 +1,8 @@
+type: advisory_folio_list_item
+name: 'Advisory Committe Folio List Item'
+description: 'Folio List Item for Advisory Committee'
+new_revision: false
+display_submitted: true
+preview_mode: 1
+status: true
+langcode: en

@@ -1,0 +1,11 @@
+fda-bootstrap:
+  version: 1.x
+  css:
+    theme:
+      css/css_responsive_stylesheet.css: {}
+
+css-bootstrap:
+  version: 1.x
+  css:
+    theme:
+      css/css_bootstrap_stylesheet.css: {}

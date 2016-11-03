@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<folio xmlns="http://stellent.com/cpd">
+ <properties>
+  <property key="xcst:sourceTemplateID" value="FDAGOVCONTENTFOLIOTEMPLATE"/>
+ </properties>
+ <children>
+  <node nodeId='5CDB-93F7-FDA2-E48A-221A'>
+   <properties>
+    <property key="xcst:name" value="wwCpdFolioRoot"/>
+    <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+    <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+   </properties>
+   <children>
+    <node nodeId='846F-FD31-2218-D08D-0E4B'>
+     <properties>
+      <property key="xcst:name" value="ResourcesForYou"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='24D5-C63A-2EA2-DB44-54AB'>
+     <properties>
+      <property key="xcst:name" value="PhotoGallery"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='DB11-7C7B-E822-DC1F-5BDB'>
+     <properties>
+      <property key="xcst:name" value="DynamicList"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='2C63-3F73-7D83-B0D1-DBC6'>
+     <properties>
+      <property key="xcst:name" value="MainList1"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='B196-9887-A5CF-BDE9-14C3'>
+     <properties>
+      <property key="xcst:name" value="MainList2"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='9FF5-BD73-A7DC-9A04-0FF5'>
+     <properties>
+      <property key="xcst:name" value="MainList3"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='A768-47B4-CC3A-6A68-F33A'>
+     <properties>
+      <property key="xcst:name" value="MainList4"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='44A7-EC60-D75E-8573-4B32'>
+     <properties>
+      <property key="xcst:name" value="MainList5"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='E7AD-7FB2-9859-4509-7421'>
+     <properties>
+      <property key="xcst:name" value="MainList6"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='EBD1-D891-7413-DA1D-5373'>
+     <properties>
+      <property key="xcst:name" value="MainList7"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='2D7F-6C81-2AF7-12C1-D3F2'>
+     <properties>
+      <property key="xcst:name" value="MainList8"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='9CB5-D486-AB97-C86C-B4FE'>
+     <properties>
+      <property key="xcst:name" value="MainList9"/>
+      <property key="xcst:label" value="April 25, 2013: Meeting Materials FDA Generated"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-25 10:29:31.602&#39;}"/>
+     </properties>
+     <children>
+      <slot nodeId='855E-EAAD-4EE1-1957'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Agenda"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-25 10:29:31.602&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM349241"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM349241&#39;)--]"/>
+        <property key="xcst:name" value="Agenda"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-04-25 10:29:31.602&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM349241&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM349241&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM349241"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="041313 CDRH CCCT Final  Agenda Classification Panel.pdf"/>
+        <property key="xcsd:dID" value="730438"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='48D4-7003-1D7F-DE8F'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Roster"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-25 10:29:31.602&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM349242"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM349242&#39;)--]"/>
+        <property key="xcst:name" value="Roster"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-04-25 10:29:31.602&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM349242&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM349242&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM349242"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Draft Public Roster (Autosaved).pdf"/>
+        <property key="xcsd:dID" value="730443"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='E492-9CDC-CCA7-1DB9'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Methotrexate Executive Summary"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-24 10:12:17.776&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM348939"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM348939&#39;)--]"/>
+        <property key="xcst:name" value="Methotrexate Executive Summary"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:36:08.394&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM348939&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM348939&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM348939"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Methotrexate ES FINAL 3 26 2013.pdf"/>
+        <property key="xcsd:dID" value="728907"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='374F-9D94-9E38-EB98'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="PCP Executive Summary"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-25 10:26:19.607&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM348937"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM348937&#39;)--]"/>
+        <property key="xcst:name" value="PCP Executive Summary"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:36:08.394&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM348937&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM348937&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM348937"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="PCP ES FINAL 3 26 2013.pdf"/>
+        <property key="xcsd:dID" value="728905"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='CAE5-8188-4F14-4A20'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Isoniazid Executive Summary"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-22 12:36:08.394&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM348935"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM348935&#39;)--]"/>
+        <property key="xcst:name" value="Isoniazid Executive Summary"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:36:08.394&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM348935&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM348935&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM348935"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Isoniazid Executive Summary 04022013.pdf"/>
+        <property key="xcsd:dID" value="728902"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='113A-F2FB-815E-49FF'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Panel Questions:  Session I - Methotrexate Test Systems"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-25 10:29:31.602&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM349243"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM349243&#39;)--]"/>
+        <property key="xcst:name" value="Panel Questions:  Session I - Methotrexate Test Systems"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-04-25 10:29:31.602&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM349243&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM349243&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM349243"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Session I Methotrexate.pdf"/>
+        <property key="xcsd:dID" value="730457"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='A731-BD00-ECC7-ADEF'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Panel Questions:  Session II - PCP Test Systems"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-25 10:29:31.602&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM349244"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM349244&#39;)--]"/>
+        <property key="xcst:name" value="Panel Questions:  Session II - PCP Test Systems"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-04-25 10:29:31.602&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM349244&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM349244&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM349244"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Session II PCP tests.pdf"/>
+        <property key="xcsd:dID" value="730461"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='7D5F-F3CF-627D-E8A0'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Isoniazid Panel Questions"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-25 10:29:31.602&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM348940"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM348940&#39;)--]"/>
+        <property key="xcst:name" value="Isoniazid Panel Questions"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:36:08.394&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM348940&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcsd:nameOverride" value="Panel Questions: Session III - Isoniazid Test Strips"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM348940&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM348940"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Isoniazid Panel Discussion Questions.pdf"/>
+        <property key="xcsd:dID" value="728908"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='04B5-69DF-7E78-35E1'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Presentation: Methotrexate"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-26 07:31:25.224&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM349544"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM349544&#39;)--]"/>
+        <property key="xcst:name" value="Presentation: Methotrexate"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-04-26 07:31:25.224&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM349544&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM349544&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM349544"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Methrexate TS presentation.pdf"/>
+        <property key="xcsd:dID" value="731657"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='ADB5-AAA2-7CAF-1789'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Presentation: PCP"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-26 07:31:25.224&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM349545"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM349545&#39;)--]"/>
+        <property key="xcst:name" value="Presentation: PCP"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-04-26 07:31:25.224&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM349545&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM349545&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM349545"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Classification Panel PCP final cdl.pdf"/>
+        <property key="xcsd:dID" value="731658"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='C646-9DDF-A5D3-E156'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Presentation: Isoniazid"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-26 07:31:25.224&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM349546"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM349546&#39;)--]"/>
+        <property key="xcst:name" value="Presentation: Isoniazid"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-04-26 07:31:25.224&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM349546&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM349546&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM349546"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Isoniazid Slide Presentation final copy .pdf"/>
+        <property key="xcsd:dID" value="731659"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='A792-C9E8-398E-3E4E'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="24 Hour Summary"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-26 16:46:37.531&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM349831"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM349831&#39;)--]"/>
+        <property key="xcst:name" value="24 Hour Summary"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-04-26 16:46:37.531&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM349831&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM349831&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM349831"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="24 hr CCCT 042613 Final 1405.pdf"/>
+        <property key="xcsd:dID" value="732262"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='97F7-0BD2-E0C8-C066'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Transcript"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-05-20 13:11:15.157&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM353113"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM353113&#39;)--]"/>
+        <property key="xcst:name" value="Transcript"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-05-20 13:11:15.157&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM353113&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM353113&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM353113"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="ClinChem04-25-13.FINAL transcript.pdf"/>
+        <property key="xcsd:dID" value="740934"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+     </children>
+    </node>
+    <node nodeId='D2B9-8A2E-32C6-D974-AE3B'>
+     <properties>
+      <property key="xcst:name" value="MainList10"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-22 12:33:39.862&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='C27A-9C7C-1F46-6B7E'>
+     <properties>
+      <property key="xcst:name" value="ContactUs"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-22 12:36:08.394&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-22 12:36:08.394&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+   </children>
+  </node>
+ </children>
+ <edithistory>
+ </edithistory>
+</folio>

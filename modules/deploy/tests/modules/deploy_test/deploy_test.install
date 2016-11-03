@@ -1,0 +1,21 @@
+<?php
+
+use Drupal\multiversion\Entity\Workspace;
+use Drupal\user\Entity\User;
+
+/**
+ * Implements hook_install().
+ */
+function deploy_test_install() {
+  // Create an user with 'replicator' role.
+  User::create([
+    'name' => 'replicator',
+    'mail' => 'foo@bar.baz',
+    'pass' => 'replicator',
+    'status' => 1,
+    'roles' => ['replicator'],
+  ])->save();
+
+  // Create a new workspace, it will be used as target or source in tests.
+  Workspace::create(['machine_name' => 'test', 'label' => 'test'])->save();
+}

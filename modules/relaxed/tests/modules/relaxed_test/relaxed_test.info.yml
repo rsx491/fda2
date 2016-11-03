@@ -1,0 +1,15 @@
+name: 'Relaxed API tests'
+type: module
+description: 'Configures a site for external testing.'
+package: Testing
+# version: VERSION
+# core: 8.x
+dependencies:
+  - entity_test
+  - relaxed
+
+# Information added by Drupal.org packaging script on 2016-01-21
+version: '8.x-1.0-alpha5'
+core: '8.x'
+project: 'relaxed'
+datestamp: 1453390754

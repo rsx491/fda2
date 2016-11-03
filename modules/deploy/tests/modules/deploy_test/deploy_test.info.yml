@@ -1,0 +1,14 @@
+name: 'Deploy module tests'
+type: module
+description: 'Support module for deploy related testing.'
+package: Testing
+# version: VERSION
+# core: 8.x
+dependencies:
+  - relaxed
+
+# Information added by Drupal.org packaging script on 2016-01-22
+version: '8.x-1.0-alpha5'
+core: '8.x'
+project: 'deploy'
+datestamp: 1453461257

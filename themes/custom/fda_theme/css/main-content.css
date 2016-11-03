@@ -1,0 +1,118 @@
+/**
+ * @file
+ * Visual styles for Bartik's main-content component.
+ */
+
+.main-content .section {
+  padding: 0 15px;
+}
+
+.main-content h2 {
+  font-weight: bold;
+  margin: 10px 15px;
+  text-shadow: 0 1px 0 #fff;
+  font-size: 1.071em;
+  line-height: 1.2;
+}
+
+.main-content .block {
+  background-color: #fff;
+  border-color: #f9f9f9;
+}
+
+.layout-two-sidebars .main-content { margin-right: 0px; margin-left: 0px; }
+
+@media all and (min-width: 851px) {
+  .main-content {
+    float: left; /* LTR */
+    position: relative;
+  }
+  [dir="rtl"] .main-content {
+    float: right;
+  }
+  .layout-two-sidebars .main-content {
+    width: 50%;
+  }
+  .layout-one-sidebar .main-content {
+    width: 75%;
+  }
+  .layout-no-sidebars .main-content {
+    width: 100%;
+  }
+  .layout-sidebar-first .main-content {
+    margin-left: 0px; /* LTR */
+    margin-right: 0px; /* LTR */
+  }
+  [dir="rtl"] .layout-sidebar-first .main-content {
+    margin-left: 0;
+    margin-right: 25%;
+  }
+  .layout-sidebar-second .main-content {
+    margin-right: 25%; /* LTR */
+    margin-left: 0; /* LTR */
+  }
+  [dir="rtl"] .layout-sidebar-second .main-content {
+    margin-right: 0;
+    margin-left: 25%;
+  }
+}
+
+/**
+ * @todo Decide if we want to keep this.
+ * It should be in layout.css but it would be
+ * overridden there by block.css.
+ */
+.region-content ul,
+.region-content ol {
+  margin: 1em 0;
+  padding: 0 0 0.25em 15px; /* LTR */
+}
+[dir="rtl"] .region-content ul,
+[dir="rtl"] .region-content ol {
+  padding: 0 15px 0.25em 0;
+}
+
+.layout-one-sidebar .main-content {
+    width: 600px;
+  }
+
+#block-frequentlyrequesteditems,
+#block-regulatoryinformation,
+#block-events {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+#block-frequentlyrequesteditems .content,
+#block-regulatoryinformation .content,
+#block-events .content,
+#block-bartik-page-title,
+#block-bartik-content {
+  background-color: #fff;
+}
+
+
+#block-bartik-page-title {
+  margin: 0px;
+}
+
+#block-regulatoryinformation,
+#block-events {
+margin-top: 20px;
+}
+
+.path-fda-guidance-documents main#content.column.main-content,
+.path-warning-letters-advanced main#content.column.main-content,
+.path-warning-letters main#content.column.main-content { width: 100%; }
+
+.aside {	float: right; margin: 1em 0 1em 1.5em; padding: 1em; border: 1px solid #d8d8d8;	background: #fff;}
+.aside > img, .aside > div { margin: 1em auto 0 auto; }
+.aside > img { width: 100%; }
+.aside img:first-child { margin-top: 0; }
+.aside > p { margin: 1em 0 0 0 !important; font-size: .875em; }
+.aside ol, .aside ul { margin-top: 1em; }
+.aside > p + img, .aside > p + div { margin-top: 1.5em; }
+.aside > hr + img { margin-top: 0em; }
+.aside-cu {width: 300px;}
+
+.path-advisorycommittees .share-list { float: left; padding: 0px; }

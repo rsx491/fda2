@@ -1,0 +1,23 @@
+/**
+ * @file
+ * Styles for Bartik's breadcrumbs.
+ */
+
+.breadcrumb {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  margin-bottom: 21px;
+  padding: 9px 15px;
+  background: #eee;
+  border-radius: 4px;
+}
+
+.breadcrumb a { color: #333; }
+
+.breadcrumb a:hover {
+  text-decoration: underline; 
+  color:#333;
+}
+.region-breadcrumb {
+  padding: 0 15px 0.25em;
+}

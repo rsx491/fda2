@@ -1,0 +1,8 @@
+name: Advisory Committees and Associated Content
+type: module
+description: 'creates the advisory committee, associated content and metadata types'
+core: 8.x
+package: Advisory Committee
+dependencies:
+ - node
+hidden: true

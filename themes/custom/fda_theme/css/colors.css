@@ -1,0 +1,59 @@
+body {
+  color: #3b3b3b;
+  background: #292929;
+  background-color: #EEE;
+}
+
+.site-footer {
+  background: #FFF;
+}
+
+.site-footer__bottom
+    {
+    background-color: #003152;
+    }
+
+.region-secondary-menu { 
+  background-color: rgb(50, 50, 50); 
+  height: 37px;
+  font-size: 10px;
+}
+
+#header {
+  background-color: rgb(0, 49, 82);
+  background-image: none;
+}
+
+.site-footer {
+  background: #FFF;
+}
+
+.site-footer__bottom
+  {
+  background-color: #003152;
+  }
+
+.region-header,
+.region-header a,
+.region-header li a.is-active,
+.site-branding__text,
+.site-branding,
+.site-branding__text a,
+.site-branding a,
+.region-secondary-menu .menu-item a,
+.region-secondary-menu .menu-item a.is-active {
+  color: #fffeff;
+}
+
+.region-primary-menu .menu-item a,
+.region-primary-menu .menu-item a.is-active,
+.region-primary-menu .menu-item--active-trail a
+  {
+  background: #deedf9;
+  background: -moz-linear-gradient(bottom, #C2DDF4 25%, #fff 75%);
+  background: -webkit-gradient( linear, left bottom, left top, color-stop(0.25, #C2DDF4), color-stop(0.75, #fff));
+  background: -webkit-linear-gradient(bottom, #C2DDF4 25%, #fff 75%);
+  background: -o-linear-gradient(bottom, #C2DDF4 25%, #fff 75%);
+  background: -ms-linear-gradient(bottom, #C2DDF4 25%, #fff 75%);
+  background: linear-gradient(bottom, #C2DDF4 25%, #fff 75%);
+  }

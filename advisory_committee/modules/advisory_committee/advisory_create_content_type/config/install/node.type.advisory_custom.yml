@@ -1,0 +1,8 @@
+type: advisory_committee_content
+name: 'Advisory Committe Content'
+description: 'Web Content for Advisory Committee'
+new_revision: false
+display_submitted: true
+preview_mode: 1
+status: true
+langcode: en

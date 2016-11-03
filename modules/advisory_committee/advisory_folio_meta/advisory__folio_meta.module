@@ -1,0 +1,14 @@
+<?php
+
+/**
+* @file
+* Contains Drupal\advisory_folio_meta.module
+*/
+
+/**
+ * @defgroup advisory_folio_meta Advisory Committee: Folio Metadata
+ * @ingroup AdvisoryCommittee
+ * @{
+ * Implement content entity for advisory committee folio list metadata.
+ * }
+ */ 

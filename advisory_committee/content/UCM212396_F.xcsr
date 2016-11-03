@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<folio xmlns="http://stellent.com/cpd">
+ <properties>
+  <property key="xcst:sourceTemplateID" value="FDAGOVCONTENTFOLIOTEMPLATE"/>
+ </properties>
+ <children>
+  <node nodeId='4B8D-6FCD-9EF4-176C-719F'>
+   <properties>
+    <property key="xcst:name" value="wwCpdFolioRoot"/>
+    <property key="xcst:createdate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+    <property key="xcst:lastmodifieddate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+   </properties>
+   <children>
+    <node nodeId='85F6-AC83-D7A8-6F22-D686'>
+     <properties>
+      <property key="xcst:name" value="ResourcesForYou"/>
+      <property key="xcst:createdate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+     </properties>
+     <children>
+      <slot nodeId='B96E-E319-6699-7624'>
+       <properties>
+        <property key="xcst:createdate" value="{ts &#39;2010-06-23 13:11:08.616&#39;}"/>
+        <property key="xcsd:dDocName" value="UCM216975"/>
+        <property key="xcsd:dDocAuthor" value="lauren.breitenother"/>
+        <property key="xcsd:dDocType" value="Link"/>
+        <property key="xcsd:href" value="[!--$ssExternalLink(&#39;UCM216975&#39;)--]"/>
+        <property key="xcsd:dDocName_encoded" value="UCM216975"/>
+        <property key="xcsd:dRevLabel" value="2"/>
+        <property key="xcsd:docURL" value="/ucm/groups/fdagov-public/@fdagov-extlink/documents/link/ucm216975.htm"/>
+        <property key="xcsd:dID" value="381952"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM216975&#39;)--]"/>
+        <property key="xcsd:dDocTitle" value="July 7-8, 2010 Meeting of the Tobacco Product Constituents Subcommittee of TPSAC"/>
+        <property key="xcst:name" value="July 7-8, 2010 Meeting of the Tobacco Product Constituents Subcommittee of TPSAC"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2010-06-23 13:11:08.616&#39;}"/>
+        <property key="xcsd:dOriginalName" value="ucm216975_meta.htm"/>
+        <property key="xcsd:xLinkTextToDisplay" value="July 15-16 Meeting of the Tobacco Products Scientific Advisory Committee Meeting Amendment FR Notice"/>
+        <property key="xcsd:target" value="_blank"/>
+        <property key="xcsd:docUrl" value="/ucm/groups/fdagov-public/@fdagov-extlink/documents/link/ucm216975.htm"/>
+        <property key="xcsd:xLinkWebAddress" value="[!--$ssExternalLink(&#39;UCM216975&#39;)--]"/>
+        <property key="xcsd:dFormat" value="idcmeta/html"/>
+        <property key="xcsd:docURL_encoded" value="%2fucm%2fgroups%2ffdagov-public%2f%40fdagov-extlink%2fdocuments%2flink%2fucm216975.htm"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+     </children>
+    </node>
+    <node nodeId='F98A-8F20-E31C-93F3-B346'>
+     <properties>
+      <property key="xcst:name" value="MainList1"/>
+      <property key="xcst:createdate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='A2FE-1D3B-7F7D-1120-D9A6'>
+     <properties>
+      <property key="xcst:name" value="MainList2"/>
+      <property key="xcst:createdate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='A037-141B-3C38-1083-BAE6'>
+     <properties>
+      <property key="xcst:name" value="MainList3"/>
+      <property key="xcst:createdate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='02CB-BFDC-5CC4-A7E4-14F1'>
+     <properties>
+      <property key="xcst:name" value="MainList4"/>
+      <property key="xcst:createdate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='6AF8-26AA-63BE-3D0D-572E'>
+     <properties>
+      <property key="xcst:name" value="MainList5"/>
+      <property key="xcst:createdate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='557D-B083-C9B1-FC16-AE72'>
+     <properties>
+      <property key="xcst:name" value="MainList6"/>
+      <property key="xcst:createdate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='496E-D6FF-B586-B343-79F1'>
+     <properties>
+      <property key="xcst:name" value="MainList7"/>
+      <property key="xcst:createdate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='A85F-BE23-F1D2-6FF5-CD18'>
+     <properties>
+      <property key="xcst:name" value="MainList8"/>
+      <property key="xcst:createdate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='013B-CE5F-5607-6FCC-F4F5'>
+     <properties>
+      <property key="xcst:name" value="MainList9"/>
+      <property key="xcst:createdate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='D19A-5E1B-217E-E09E-1ED6'>
+     <properties>
+      <property key="xcst:name" value="MainList10"/>
+      <property key="xcst:createdate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2010-06-23 13:10:40.250&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='F80B-E162-0411-F2D1'>
+     <properties>
+      <property key="xcst:name" value="ContactUs"/>
+      <property key="xcst:createdate" value="{ts &#39;2010-06-23 13:11:08.616&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2010-06-23 13:11:08.616&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+   </children>
+  </node>
+ </children>
+ <edithistory>
+ </edithistory>
+</folio>

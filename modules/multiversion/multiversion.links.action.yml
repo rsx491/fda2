@@ -1,0 +1,6 @@
+multiversion.form_add:
+  route_name: multiversion.form_add
+  title: 'Add workspace'
+  weight: 1
+  appears_on:
+    - entity.workspace.collection

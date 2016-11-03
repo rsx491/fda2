@@ -1,0 +1,8 @@
+type: associated_additional_information
+name: 'Additional Information'
+description: 'Associated Content - Additional Information'
+new_revision: false
+display_submitted: true
+preview_mode: 1
+status: true
+langcode: en

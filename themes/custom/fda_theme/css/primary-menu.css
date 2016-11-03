@@ -1,0 +1,29 @@
+.region-primary-menu {
+  clear: both;
+  margin-left: 30px;
+}
+
+ .region-primary-menu .block-menu .menu
+ 	{
+ 	padding: 0px;
+	font-size: .85em;
+ 	}
+
+.region-primary-menu .menu a 
+	{
+ 	margin: 0 0 0 2px;
+	padding: 6px 9px;
+	border-radius: 4px 4px 0 0;
+	border-color: #fff;
+	border-bottom: 1px;
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	color: #000;
+	}
+
+.region-primary-menu .menu-item,
+ body:not(:target) .region-primary-menu .menu-item
+ 	{
+ 	padding: 0px;
+ 	margin: 0px;
+ 	}

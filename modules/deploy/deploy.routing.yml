@@ -1,0 +1,7 @@
+deploy.push:
+  path: '/admin/structure/deploy'
+  defaults:
+    _title: 'Deployment'
+    _form: '\Drupal\deploy\Form\PushForm'
+  requirements:
+    _permission: 'perform push replication'

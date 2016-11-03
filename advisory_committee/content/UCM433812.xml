@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<wcm:root xmlns:wcm="http://www.stellent.com/wcm-data/ns/8.0.0">
+  <wcm:element name="MainContent">&lt;div class="table-responsive"&gt;&#13;
+&lt;table class="table" border="0" cellspacing="0" summary="This table shows the date, time, and location of the meeting" cellpadding="2" sizcache="12" sizset="0" style="width: 643px; height: 146px"&gt;&#13;
+    &lt;tbody sizcache="11" sizset="0"&gt;&#13;
+        &lt;tr&gt;&#13;
+            &lt;th id="a1" bgcolor="#cccccc" valign="top" align="left" style="width: 71px"&gt;Center&lt;/th&gt;&#13;
+            &lt;th id="a2" bgcolor="#cccccc" valign="top" align="left" style="width: 158px"&gt;Date&lt;/th&gt;&#13;
+            &lt;th id="a3" bgcolor="#cccccc" valign="top" align="left" style="width: 172px"&gt;Time&lt;/th&gt;&#13;
+            &lt;th id="a4" bgcolor="#cccccc" valign="top" align="left" style="width: 238px"&gt;Location&lt;/th&gt;&#13;
+        &lt;/tr&gt;&#13;
+        &lt;tr&gt;&#13;
+            &lt;td valign="top" headers="a1" style="width: 71px; height: 127px"&gt;CDER&lt;/td&gt;&#13;
+            &lt;td valign="top" headers="a2" style="width: 158px; height: 127px"&gt;March 19, 2015&lt;br /&gt;&#13;
+            &amp;nbsp;&lt;/td&gt;&#13;
+            &lt;td valign="top" headers="a3" style="width: 172px; height: 127px"&gt;8:00 a.m. to 5:00 p.m.&lt;br /&gt;&#13;
+            &amp;nbsp;&lt;/td&gt;&#13;
+            &lt;td valign="top" headers="a4" style="width: 238px; height: 128px"&gt;Holiday Inn Gaithersburg&lt;br /&gt;&#13;
+            Grand Ballroom&lt;br /&gt;&#13;
+            2 Montgomery Village Ave.&lt;br /&gt;&#13;
+            Gaithersburg, MD 20879&lt;/td&gt;&#13;
+        &lt;/tr&gt;&#13;
+    &lt;/tbody&gt;&#13;
+&lt;/table&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;h3&gt;Agenda&lt;/h3&gt;&#13;
+&lt;p style="margin: 1em 0px"&gt;The committees will discuss the supplemental new drug application (sNDA) 204275-S001, for fluticasone furoate and vilanterol inhalation powder (tradename Breo Ellipta) submitted by GlaxoSmithKline for the once daily maintenance treatment of asthma in patients 12 years of age and older. The discussion will include efficacy data, but the focus of the meeting will be safety, including the adequacy of the safety database to support approval, and whether a large safety trial to evaluate serious asthma outcomes is recommended.&lt;/p&gt;&#13;
+&lt;h3&gt;Meeting Materials&lt;/h3&gt;&#13;
+&lt;p style="margin: 1em 0px"&gt;FDA intends to make background material available to the public no later than 2 business days before the meeting. If FDA is unable to post the background material on its Web site prior to the meeting, the background material will be made publicly available at the location of the advisory committee meeting, and the background material will be posted on FDA&amp;rsquo;s Web site after the meeting.&lt;/p&gt;&#13;
+&lt;h3&gt;Background Material&lt;/h3&gt;&#13;
+&lt;ul sizcache="1" sizset="43"&gt;&#13;
+    &lt;li sizcache="1" sizset="43"&gt;&lt;a target="" href="[!--$wcmUrl('link','UCM433815')--]"&gt;2015 Meeting Materials, Pulmonary-Allergy Drugs Advisory Committee&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;h3&gt;Public Participation Information&lt;/h3&gt;&#13;
+&lt;p style="margin: 1em 0px"&gt;Interested persons may present data, information, or views, orally or in writing, on issues pending before the committees.&lt;/p&gt;&#13;
+&lt;ul sizcache="5" sizset="27"&gt;&#13;
+    &lt;li&gt;Written submissions may be made to the contact person on or before March 5, 2015.&lt;/li&gt;&#13;
+    &lt;li&gt;Oral presentations from the public will be scheduled between approximately 1:00 p.m. to 2:00 p.m. on March 19, 2015. Those individuals interested in making formal oral presentations should notify the contact person and submit a brief statement of the general nature of the evidence or arguments they wish to present, the names and addresses of proposed participants, and an indication of the approximate time requested to make their presentation on or before February 25, 2015.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;p style="margin: 1em 0px"&gt;Time allotted for each presentation may be limited. If the number of registrants requesting to speak is greater than can be reasonably accommodated during the scheduled open public hearing session, FDA may conduct a lottery to determine the speakers for the scheduled open public hearing session. The contact person will notify interested persons regarding their request to speak by February 26, 2015.&lt;/p&gt;&#13;
+&lt;h3&gt;Webcast Information&lt;/h3&gt;&#13;
+&lt;p style="margin: 1em 0px"&gt;CDER does not provide webcasts of advisory committee meetings that are held at venues other than the FDA White Oak Conference Center. Therefore, CDER will not be providing a webcast of the March 19, 2015 Joint Meeting of the Pulmonary-Allergy Drugs Advisory Committee and Drug Safety and Risk Management Advisory Committee.&lt;/p&gt;&#13;
+&lt;h3&gt;Contact Information&lt;/h3&gt;&#13;
+&lt;ul sizcache="1" sizset="45"&gt;&#13;
+    &lt;li sizcache="1" sizset="45"&gt;Cindy Hong, PharmD&lt;br /&gt;&#13;
+    Center for Drug Evalulation and Research&lt;br /&gt;&#13;
+    Food and Drug Administration&lt;br /&gt;&#13;
+    10903 New Hampshire Avenue&lt;br /&gt;&#13;
+    WO31-2417&lt;br /&gt;&#13;
+    Silver Spring, Maryland 20993-0002&lt;br /&gt;&#13;
+    Telephone: (301) 796-9001&lt;br /&gt;&#13;
+    Fax: (301) 847-8533&lt;br /&gt;&#13;
+    E-mail: &lt;a href="mailto:PADAC@fda.hhs.gov"&gt;PADAC@fda.hhs.gov&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;ul sizcache="5" sizset="30"&gt;&#13;
+    &lt;li&gt;FDA Advisory Committee Information Line&lt;br /&gt;&#13;
+    1-800-741-8138&lt;br /&gt;&#13;
+    (301-443-0572 in the Washington DC area)&lt;br /&gt;&#13;
+    Please call the Information Line for up-to-date information on this meeting&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;p style="margin: 1em 0px"&gt;A notice in the Federal Register about last minute modifications that impact a previously announced advisory committee meeting cannot always be published quickly enough to provide timely notice. Therefore, you should always check the agency&amp;rsquo;s Web site and call the FDA Advisory Committee Information Line to learn about possible modifications before coming to the meeting.&lt;/p&gt;&#13;
+&lt;p style="margin: 1em 0px"&gt;Persons attending FDA&amp;rsquo;s advisory committee meetings are advised that the agency is not responsible for providing access to electrical outlets. FDA welcomes the attendance of the public at its advisory committee meetings and will make every effort to accommodate persons with physical disabilities or special needs. If you require special accommodations due to a disability, please contact Cindy Hong at (301) 796-9001 at least 7 days in advance of the meeting.&lt;/p&gt;&#13;
+&lt;p style="margin: 1em 0px"&gt;FDA is committed to the orderly conduct of its advisory committee meetings. Please visit our Web site at: &lt;a target="" href="http://www.fda.gov/AdvisoryCommittees/AboutAdvisoryCommittees/ucm111462.htm"&gt;Public Conduct During FDA Advisory Committee Meetings&lt;/a&gt; for procedures on public conduct during advisory committee meetings.&lt;/p&gt;&#13;
+&lt;p style="margin: 1em 0px"&gt;Notice of this meeting is given under the Federal Advisory Committee Act (5 U.S.C. app.2).&lt;/p&gt;</wcm:element>
+<wcm:element name="MainList1"></wcm:element>
+  <wcm:element name="MainList2"></wcm:element>
+  <wcm:element name="MainList3"></wcm:element>
+</wcm:root>

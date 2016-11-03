@@ -1,0 +1,42 @@
+<?php
+
+/**
+ * @file
+ * Install, update and uninstall functions for the deploy module.
+ */
+
+/**
+ * Implements  hook_requirements().
+ *
+ * @param $phase
+ * @return array
+ */
+function deploy_requirements($phase) {
+  $requirements = [];
+
+  if ($phase === 'runtime') {
+    $replicationtask_exists = class_exists('Relaxed\Replicator\ReplicationTask');
+    $replication_exists = class_exists('Relaxed\Replicator\Replication');
+    $couchdbclient_exists = class_exists('Doctrine\CouchDB\CouchDBClient');
+
+    if (!$replicationtask_exists || !$replication_exists) {
+      $requirements['replicator'] = [
+        'title' => t('relaxedws/replicator'),
+        'value' => t('Not found'),
+        'severity' => REQUIREMENT_ERROR,
+        'description' => t('The <a href=":replicator_url">relaxedws/replicator</a> library is not available. This library is required by Deploy module.', [':replicator_url' => 'https://packagist.org/packages/relaxedws/replicator'])
+      ];
+    }
+
+    if (!$couchdbclient_exists) {
+      $requirements['couchdb'] = [
+        'title' => t('doctrine/couchdb'),
+        'value' => t('Not found'),
+        'severity' => REQUIREMENT_ERROR,
+        'description' => t('The <a href=":replicator_url">doctrine/couchdb</a> library is not available. This library is required by Deploy module.', [':couchdb_url' => 'https://packagist.org/packages/doctrine/couchdb'])
+      ];
+    }
+  }
+
+  return $requirements;
+}

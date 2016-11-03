@@ -1,0 +1,19 @@
+global-css:
+  css:
+    theme:
+      css/style.css: {}
+      css/elements.css: {}
+      css/block.css: {}
+      css/breadcrumb.css: {}
+      css/colors.css: {}
+      css/contextual.module.css: {}
+      css/form.css: {}
+      css/header.css: {}
+      css/main-content.css: {}
+      css/site-branding.css: {}
+      css/primary-menu.css: {}
+      css/search-form.css: {}
+      css/secondary-menu.css: {}
+      css/sidebar.css: {}
+      css/site-footer.css: {}
+      css/table.css: {}

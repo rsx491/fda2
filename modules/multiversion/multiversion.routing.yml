@@ -1,0 +1,36 @@
+multiversion.form_add:
+  path: '/admin/structure/workspaces/add'
+  defaults:
+    _entity_form: 'workspace.add'
+    _title: 'Add workspace'
+  options:
+    _admin_route: TRUE
+  requirements:
+    _permission: 'administer workspaces'
+
+entity.workspace.edit_form:
+  path: '/admin/structure/workspaces/{workspace}/edit'
+  defaults:
+    _entity_form: 'workspace.edit'
+    _title: 'Edit workspace'
+  options:
+    _admin_route: TRUE
+  requirements:
+    _permission: 'administer workspaces'
+
+entity.workspace.canonical:
+  path: '/admin/structure/workspaces/{workspace}'
+  defaults:
+    _entity_form: 'workspace.edit'
+  options:
+    _admin_route: TRUE
+  requirements:
+    _permission: 'administer workspaces'
+
+entity.workspace.collection:
+  path: '/admin/structure/workspaces'
+  defaults:
+    _title: 'Workspaces list'
+    _entity_list: 'workspace'
+  requirements:
+    _permission: 'administer workspaces'

@@ -1,0 +1,7 @@
+name: Create Advisory Committee Content types
+type: module
+description: 'creates the advisory committee content type'
+core: 8.x
+package: Advisory Committee
+dependencies:
+ - node

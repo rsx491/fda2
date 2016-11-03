@@ -1,0 +1,29 @@
+<?php
+
+use Drupal\multiversion\Entity\Workspace;
+
+/**
+ * Implements hook_install().
+ */
+function multiversion_install() {
+  // Create default workspace.
+  Workspace::create(['machine_name' => 'default', 'label' => 'Default'])->save();
+}
+
+/**
+ * Implements hook_modules_installed().
+ */
+function multiversion_modules_installed($modules) {
+  if (in_array('multiversion', $modules)) {
+    /** @var \Drupal\multiversion\MultiversionManagerInterface $manager */
+    $manager = \Drupal::getContainer()->get('multiversion.manager');
+    $manager->enableEntityTypes();
+  }
+}
+
+/**
+ * Implements hook_uninstall().
+ */
+function multiversion_uninstall() {
+  \Drupal::state()->delete('multiversion_enabled');
+}

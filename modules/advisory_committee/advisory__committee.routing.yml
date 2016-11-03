@@ -1,0 +1,47 @@
+#advisory__committee.calendar_default:
+#        path: '/AdvisoryCommittees/Calendar'
+#        defaults:
+#                _controller: '\Drupal\advisory__committee\Controller\CalendarController::content'
+#                _title: 'Advisory Committee Calendar'
+#        requirements:
+#                _permission: 'access content'
+
+#advisory__committee.calendar_defaulthtm:
+#        path: '/AdvisoryCommittees/Calendar/default.htm'
+#        defaults:
+#                _controller: '\Drupal\advisory__committee\Controller\CalendarController::content'
+#                _title: 'Advisory Committee Calendar'
+#        requirements:
+#                _permission: 'access content'
+
+#advisory__committee.calendar_year:
+#        path: '/AdvisoryCommittees/Calendar/{year}'
+#        defaults:
+#                _controller: '\Drupal\advisory__committee\Controller\CalendarController::year'
+#                _title: 'Advisory Committee Calendar'
+#        requirements:
+#                _permission: 'access content'
+
+#advisory__committee.calendar_yeardefault:
+#        path: '/AdvisoryCommittees/Calendar/{year}/default.htm'
+#        defaults:
+#                _controller: '\Drupal\advisory__committee\Controller\CalendarController::year'
+#                _title: 'Advisory Committee Calendar'
+#        requirements:
+#                _permission: 'access content'
+
+#advisory__committee.calendar_content:
+#        path: '/test'
+#        default:
+#          _controller: '\Drupal\advisory__committee\Controller\CalendarController:single'
+#          _title: 'Advisory Committee Calendar'
+#        requirements:
+#                _permission: 'access content'
+
+#advisory__committee.calendar_test:
+#        path: '/AdvisoryCommittees/Calendar/{docname}.htm'
+#        defaults:
+#                _controller: '\Drupal\advisory__committee\Controller\CalendarController::single'
+#                _title: 'Advisory Committee Calendar'
+#        requirements:
+#                _permission: 'access content'

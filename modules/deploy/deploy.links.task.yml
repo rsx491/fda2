@@ -1,0 +1,5 @@
+deploy.push:
+  title: Deployment
+  route_name: deploy.push
+  description: 'Replicate content between source and target endpoints.'
+  base_route: deploy.push

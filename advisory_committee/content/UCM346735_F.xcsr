@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<folio xmlns="http://stellent.com/cpd">
+ <properties>
+  <property key="xcst:sourceTemplateID" value="FDAGOVCONTENTFOLIOTEMPLATE"/>
+ </properties>
+ <children>
+  <node nodeId='5201-9390-2CF3-4F55-AD2E'>
+   <properties>
+    <property key="xcst:name" value="wwCpdFolioRoot"/>
+    <property key="xcst:createdate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+    <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+   </properties>
+   <children>
+    <node nodeId='E35B-9CA8-4AEA-9181-7B36'>
+     <properties>
+      <property key="xcst:name" value="ResourcesForYou"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-05 08:43:46.408&#39;}"/>
+     </properties>
+     <children>
+      <slot nodeId='E2D1-5F97-20A1-6C73'>
+       <properties>
+        <property key="xcst:createdate" value="{ts &#39;2013-04-05 08:43:46.408&#39;}"/>
+        <property key="xcsd:dDocName" value="UCM337092"/>
+        <property key="xcsd:dDocAuthor" value="dixonm"/>
+        <property key="xcsd:dDocType" value="WebContent"/>
+        <property key="xcsd:href" value="[!--$wcmUrl(&#39;link&#39;,&#39;UCM337092&#39;)--]"/>
+        <property key="xcst:externalTarget" value="[!--$wcmUrl(&#39;link&#39;,&#39;UCM337092&#39;)--]"/>
+        <property key="xcsd:dDocName_encoded" value="UCM337092"/>
+        <property key="xcsd:dRevLabel" value="6"/>
+        <property key="xcsd:dID" value="719762"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM337092&#39;)--]"/>
+        <property key="xcsd:dDocTitle" value="2013 Meeting Materials, Vaccines and Related Biological Products Advisory Committee"/>
+        <property key="xcst:name" value="2013 Meeting Materials, Vaccines and Related Biological Products Advisory Committee"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-05 08:43:46.408&#39;}"/>
+        <property key="xcsd:dOriginalName" value="7083761365165497802.xml"/>
+        <property key="xcsd:xLinkWebAddress" value="/FDAgov/AdvisoryCommittees/CommitteesMeetingMaterials/BloodVaccinesandOtherBiologics/VaccinesandRelatedBiologicalProductsAdvisoryCommittee/ucm337092.htm"/>
+        <property key="xcsd:dFormat" value="text/html"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='232A-BB04-782C-6C7F'>
+       <properties>
+        <property key="xcst:createdate" value="{ts &#39;2013-04-05 08:32:09.899&#39;}"/>
+        <property key="xcsd:dDocName" value="UCM346737"/>
+        <property key="xcsd:dDocAuthor" value="dixonm"/>
+        <property key="xcsd:dDocType" value="Link"/>
+        <property key="xcsd:href" value="[!--$ssExternalLink(&#39;UCM346737&#39;)--]"/>
+        <property key="xcsd:dDocName_encoded" value="UCM346737"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dID" value="719747"/>
+        <property key="xcsd:dDocTitle" value="FR Notice"/>
+        <property key="xcst:name" value="FR Notice"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-05 08:32:09.899&#39;}"/>
+        <property key="xcsd:xLinkTextToDisplay" value="FR Notice"/>
+        <property key="xcsd:dOriginalName" value="ucm346737_meta.htm"/>
+        <property key="xcsd:target" value="_blank"/>
+        <property key="xcsd:xLinkWebAddress" value="http://www.gpo.gov/fdsys/pkg/FR-2013-04-05/html/2013-07961.htm"/>
+        <property key="xcsd:dFormat" value="idcmeta/html"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+     </children>
+    </node>
+    <node nodeId='9145-71BE-935C-246E-63B3'>
+     <properties>
+      <property key="xcst:name" value="PhotoGallery"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='DA94-4282-1D98-ACFE-61CC'>
+     <properties>
+      <property key="xcst:name" value="DynamicList"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='31B9-C986-11D1-DE05-6B54'>
+     <properties>
+      <property key="xcst:name" value="MainList1"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='569D-485C-1411-BBE9-A452'>
+     <properties>
+      <property key="xcst:name" value="MainList2"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='CD9A-8EC2-CDD9-ED8E-E09B'>
+     <properties>
+      <property key="xcst:name" value="MainList3"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='F179-2FE2-09E2-7C1A-624E'>
+     <properties>
+      <property key="xcst:name" value="MainList4"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='1C1C-A4AF-C1C4-20A1-BC62'>
+     <properties>
+      <property key="xcst:name" value="MainList5"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='96D9-1A8A-F6C0-2DB1-7B9F'>
+     <properties>
+      <property key="xcst:name" value="MainList6"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='A085-20A2-1926-83A7-2022'>
+     <properties>
+      <property key="xcst:name" value="MainList7"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='1081-E6FA-4291-6159-690E'>
+     <properties>
+      <property key="xcst:name" value="MainList8"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='1B53-FDF7-C742-B57E-23B8'>
+     <properties>
+      <property key="xcst:name" value="MainList9"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='17E0-5563-2E38-3F4F-60A2'>
+     <properties>
+      <property key="xcst:name" value="MainList10"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-05 08:31:20.150&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='E064-B977-66C9-7CA6'>
+     <properties>
+      <property key="xcst:name" value="ContactUs"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-04-05 08:32:09.899&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-04-05 08:32:09.899&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+   </children>
+  </node>
+ </children>
+ <edithistory>
+ </edithistory>
+</folio>

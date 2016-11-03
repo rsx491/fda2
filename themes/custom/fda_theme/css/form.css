@@ -1,0 +1,55 @@
+
+ #block-bartik-login .content {
+   margin-left: 20px;
+ }
+ 
+ input#edit-field-subject-value.form-text,
+ input#edit-field-company-name-value.form-text { width: 48%; }
+ 
+ .form-item-field-subject-value,
+ .form-item-field-company-name-value { width: 48%; }
+ 
+ .form-item-field-letter-issue-date-value-min,
+ .form-item-field-letter-issue-date-value-max { width: 210px; height: 49px; padding-top: 18px; }
+ 
+ .form-item-field-letter-issue-date-value-max { width: 250px; }
+ 
+ .form-item-field-letter-issue-date-value-max label:first-child { float: left; margin: 5px 7px 0px 0px; }
+ 
+ .form-item-field-issuing-office-value { width : 48%; }
+ 
+ .form-item-field-response-letter-target-id,
+ .form-item-field-closeout-letter-ref-target-id,
+ #edit-field-upload-response-letter-target-id--wrapper,
+ #edit-field-closeout-letter-target-id--wrapper { width: 48%; }
+ 
+ .form-item-field-closeout-letter-ref-target-id label,
+ .form-item-field-response-letter-target-id label { float: left; margin-right: 10px; }
+ 
+ .form-item-field-upload-response-letter-display select,
+ .form-item-field-closeout-letter-ref-target-id select { float: left }
+ 
+ input#edit-submit-warning-lettings.button.js-form-submit.form-submit { float: right; }
+ 
+ .form-item-field-upload-response-letter-target-id { width: 45%; float: left; }
+ 
+ .form-item-field-closeout-letter-target-id { width: 45%; float: left; }
+ 
+ .main-content form { background-color: #FFF; }
+ 
+ .path-warning-letters-advanced #sidebar-first,
+ .path-warning-letters #sidebar-first { display: none; }
+ 
+ .path-warning-letters .layout-one-sidebar .main-content { width: 98%; }
+ 
+ #edit-submit-warning-letters,
+ #edit-reset { float: right; }
+ 
+ form { margin: 0 auto; width: 96%; }
+ 
+ .path-warning-letters-advanced .main-content .block { background-color: #FFF; }
+ 
+ #edit-field-letter-issue-date-value-max { width :  85%; }
+ #edit-field-letter-issue-date-value-min { width : 100%; }
+ 
+ .search-block-form form { width: 100%; }

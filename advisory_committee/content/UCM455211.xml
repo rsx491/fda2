@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<wcm:root xmlns:wcm="http://www.stellent.com/wcm-data/ns/8.0.0">
+  <wcm:element name="MainContent">&lt;table id="schedule" border="0" cellspacing="0" summary="This table shows the date, time, and location of the meeting" cellpadding="2" style="width: 100%"&gt;&#13;
+    &lt;tbody&gt;&#13;
+        &lt;tr&gt;&#13;
+            &lt;th id="a1" bgcolor="#cccccc" valign="top" width="10%" align="left"&gt;Center&lt;/th&gt;&#13;
+            &lt;th id="a2" bgcolor="#cccccc" valign="top" width="25%" align="left"&gt;Date&lt;/th&gt;&#13;
+            &lt;th id="a3" bgcolor="#cccccc" valign="top" width="25%" align="left"&gt;Time&lt;/th&gt;&#13;
+            &lt;th id="a4" bgcolor="#cccccc" valign="top" width="40%" align="left"&gt;Location&lt;/th&gt;&#13;
+        &lt;/tr&gt;&#13;
+        &lt;tr&gt;&#13;
+            &lt;td valign="top" width="10%" headers="a1"&gt;OC&lt;/td&gt;&#13;
+            &lt;td valign="top" width="25%" headers="a2"&gt;July 29, 2015&lt;/td&gt;&#13;
+            &lt;td valign="top" width="25%" headers="a3"&gt;8:30 a.m. &amp;ndash; 4 p.m.&lt;/td&gt;&#13;
+            &lt;td valign="top" width="40%" headers="a4"&gt;&#13;
+            &lt;p&gt;Food and Drug Administration&lt;br /&gt;&#13;
+            10903 New Hampshire Ave.&lt;br /&gt;&#13;
+            Bldg. 31, Rm. 1503&lt;br /&gt;&#13;
+            Silver Spring, MD 20993-0002&lt;/p&gt;&#13;
+            &lt;/td&gt;&#13;
+        &lt;/tr&gt;&#13;
+    &lt;/tbody&gt;&#13;
+&lt;/table&gt;&#13;
+&lt;p&gt;For those unable to attend in person, the meeting will also be webcast. The link for the webcast is available at &lt;a target="_blank" href="[!--$ssExternalLink('UCM455213')--]"&gt;https://collaboration.fda.gov/scienceboard2015&lt;/a&gt;. Information regarding special accommodations due to a disability, visitor parking, and transportation may be accessed at: &lt;a target="_blank" href="[!--$ssExternalLink('UCM296707')--]"&gt;http://www.fda.gov/AdvisoryCommittees/default.htm&lt;/a&gt;; under the heading &amp;quot;Resources for You,&amp;quot; click on &amp;quot;Public Meetings at the FDA White Oak Campus.&amp;quot; Please note that visitors to the White Oak Campus must enter through Building 1.&lt;/p&gt;&#13;
+&lt;h4&gt;Agenda&lt;/h4&gt;&#13;
+&lt;p&gt;The Science Board will be provided with a report from the Commissioner&amp;rsquo;s Fellowship Program Evaluation subcommittee and will be provided with a progress report from the Science Looking Forward subcommittee. The Board will hear an overview of two scientific activities from the Center for Veterinary Medicine and will be asked to provide input on strategies to implement targeted directives contained in the National Strategy for Combating Antibiotic-Resistant Bacteria, designed to guide action by public health, healthcare, and veterinary partners in a common effort to address urgent and serious drug-resistant threats that affect people in the U.S. and around the world. A recipient of one of the FY2014 Scientific Achievement Awards (selected by the Board) will provide an overview of the activities for which the award was given. A status update on the 21st Century Cures Act will be presented, and the Deputy Commissioner for Medical Products and Tobacco will discuss his vision for the Office of Medical Products and Tobacco.&lt;/p&gt;&#13;
+&lt;h4&gt;&lt;strong&gt;Meeting Materials&lt;/strong&gt;&lt;/h4&gt;&#13;
+&lt;p&gt;FDA intends to make the complete background material available to the public no later than 2 business days before the meeting. If FDA is unable to post the background material on its Web site prior to the meeting, the background material will be made publicly available at the location of the advisory committee meeting, and the background material will be posted on FDA&amp;rsquo;s Web site after the meeting.&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+    &lt;li&gt;&lt;strong&gt;&lt;a target="" href="[!--$wcmUrl('link','UCM431539')--]"&gt;Background material&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;h4&gt;&lt;strong&gt;Public Participation&lt;/strong&gt;&amp;nbsp;&lt;/h4&gt;&#13;
+&lt;p&gt;Interested persons may present data, information, or views, orally or in writing, on issues pending before the committee.&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+    &lt;li&gt;Written submissions may be made to the contact person on or before July 22, 2015.&lt;/li&gt;&#13;
+    &lt;li&gt;Oral presentations from the public will be scheduled between approximately 2:45 and 3:45 PM. Those desiring to make formal oral presentations should notify the contact person and submit a brief statement of the general nature of the evidence or arguments they wish to present, the names and addresses of proposed participants, and an indication of the approximate time requested to make their presentation on or before July 22, 2015.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;p&gt;Time allotted for each presentation may be limited. If the number of registrants requesting to speak is greater than can be reasonably accommodated during the scheduled open public hearing session, FDA may conduct a lottery to determine the speakers for the scheduled open public hearing session. The contact person will notify interested persons regarding their request to speak by July 24, 2015.&lt;/p&gt;&#13;
+&lt;h4&gt;&lt;strong&gt;Contact Information&lt;/strong&gt;&lt;/h4&gt;&#13;
+&lt;p&gt;Rakesh Raghuwanshi&lt;br /&gt;&#13;
+Office of the Chief Scientist&lt;br /&gt;&#13;
+Office of the Commissioner&lt;br /&gt;&#13;
+Food and Drug Administration&lt;br /&gt;&#13;
+White Oak Bldg 1, Room 3309&lt;br /&gt;&#13;
+10903 New Hampshire Ave.&lt;br /&gt;&#13;
+Silver Spring, Maryland 20993&lt;/p&gt;&#13;
+&lt;p&gt;Phone: 301&amp;ndash;796-4769&lt;br /&gt;&#13;
+Fax: 301-847-3536&lt;br /&gt;&#13;
+E-mail: &lt;a href="mailto:rakesh.raghuwanshi@fda.hhs.gov"&gt;rakesh.raghuwanshi@fda.hhs.gov&lt;/a&gt;&lt;/p&gt;&#13;
+&lt;p&gt;A notice in the Federal Register about last minute modifications that impact a previously announced advisory committee meeting cannot always be published quickly enough to provide timely notice. Therefore, you should always check the Agency&amp;rsquo;s Web site at &lt;a target="_blank" href="[!--$ssExternalLink('UCM296707')--]"&gt;http://www.fda.gov/AdvisoryCommittees/default.htm&lt;/a&gt; and scroll down to the appropriate advisory committee meeting link, or call the advisory committee information line to learn about possible modifications before coming to the meeting.&lt;/p&gt;&#13;
+&lt;ul&gt;&#13;
+    &lt;li&gt;FDA Advisory Committee Information Line 1-800-741-8138&lt;br /&gt;&#13;
+    (301-443-0572 in the Washington DC area) and follow the prompts to the desired center or product area.&lt;br /&gt;&#13;
+    Please call the Information Line for up-to-date information on this meeting.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;p&gt;Persons attending FDA&amp;rsquo;s advisory committee meetings are advised that the agency is not responsible for providing access to electrical outlets. FDA welcomes the attendance of the public at its advisory committee meetings and will make every effort to accommodate persons with physical disabilities or special needs. If you require special accommodations due to a disability, please contact Rakesh Raghuwanshi at (301) 796-4769 at least 7 days in advance of the meeting. FDA is committed to the orderly conduct of its advisory committee meetings. Please visit our Web site for &lt;a target="" href="[!--$wcmUrl('link','UCM111462')--]"&gt;procedures on public conduct during advisory committee meetings&lt;/a&gt;.&lt;/p&gt;&#13;
+&lt;p&gt;Notice of this meeting is given under the Federal Advisory Committee Act (5 U.S.C. app.2).&lt;/p&gt;</wcm:element>
+<wcm:element name="MainList1"></wcm:element>
+  <wcm:element name="MainList2"></wcm:element>
+  <wcm:element name="MainList3"></wcm:element>
+</wcm:root>

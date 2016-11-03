@@ -1,0 +1,8 @@
+type: advisory_committee_folio_slot
+name: 'Advisory Committe Folio Slot'
+description: 'Folio List Item for Advisory Committee'
+new_revision: false
+display_submitted: true
+preview_mode: 1
+status: true
+langcode: en

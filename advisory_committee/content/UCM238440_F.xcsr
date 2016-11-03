@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<folio xmlns="http://stellent.com/cpd">
+ <properties>
+  <property key="xcst:sourceTemplateID" value="FDAGOVCONTENTFOLIOTEMPLATE"/>
+ </properties>
+ <children>
+  <node nodeId='E2E1-FAB6-257E-9ED5-6159'>
+   <properties>
+    <property key="xcst:name" value="wwCpdFolioRoot"/>
+    <property key="xcst:createdate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+    <property key="xcst:lastmodifieddate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+   </properties>
+   <children>
+    <node nodeId='4812-2AC6-3AED-E8E8-1A44'>
+     <properties>
+      <property key="xcst:name" value="ResourcesForYou"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+     </properties>
+     <children>
+      <slot nodeId='4836-1E21-34F5-641D'>
+       <properties>
+        <property key="xcst:createdate" value="{ts &#39;2011-03-07 07:56:51.464&#39;}"/>
+        <property key="xcsd:dDocName" value="UCM245926"/>
+        <property key="xcsd:dDocAuthor" value="tgilliam"/>
+        <property key="xcsd:dDocType" value="WebContent"/>
+        <property key="xcsd:href" value="[!--$wcmUrl(&#39;link&#39;,&#39;ucm245926.htm&#39;)--]"/>
+        <property key="xcst:externalTarget" value="[!--$wcmUrl(&#39;link&#39;,&#39;ucm245926.htm&#39;)--]"/>
+        <property key="xcsd:dDocName_encoded" value="UCM245926"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dID" value="458793"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM245926&#39;)--]"/>
+        <property key="xcsd:dDocTitle" value="SmartTots Aims to Make Anesthesia and Surgery Safer for Children Under Four"/>
+        <property key="xcst:name" value="SmartTots Aims to Make Anesthesia and Surgery Safer for Children Under Four"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2011-03-07 07:56:51.464&#39;}"/>
+        <property key="xcsd:dOriginalName" value="ucm245926.xml"/>
+        <property key="xcsd:xLinkWebAddress" value="/FDAgov/Drugs/ResourcesForYou/ucm245926.htm"/>
+        <property key="xcsd:dFormat" value="text/html"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='4219-892C-02DE-CFEA'>
+       <properties>
+        <property key="xcst:createdate" value="{ts &#39;2011-03-07 07:56:51.464&#39;}"/>
+        <property key="xcsd:dDocName" value="UCM245927"/>
+        <property key="xcsd:dDocAuthor" value="tgilliam"/>
+        <property key="xcsd:dDocType" value="Link"/>
+        <property key="xcsd:href" value="[!--$ssExternalLink(&#39;UCM245927&#39;)--]"/>
+        <property key="xcsd:dDocName_encoded" value="UCM245927"/>
+        <property key="xcsd:docURL" value="/ucm/groups/fdagov-public/@fdagov-extlink/documents/link/ucm245927.htm"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dID" value="458794"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM245927&#39;)--]"/>
+        <property key="xcsd:dDocTitle" value="Video: SmartTots to Help Make Anesthetics and Sedatives Safer for Children "/>
+        <property key="xcst:name" value="Video: SmartTots to Help Make Anesthetics and Sedatives Safer for Children "/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2011-03-07 07:56:51.464&#39;}"/>
+        <property key="xcsd:xLinkTextToDisplay" value="Video: SmartTots to Help Make Anesthetics and Sedatives Safer for Children"/>
+        <property key="xcsd:dOriginalName" value="ucm245927_meta.htm"/>
+        <property key="xcsd:target" value="_blank"/>
+        <property key="xcsd:docUrl" value="/ucm/groups/fdagov-public/@fdagov-extlink/documents/link/ucm245927.htm"/>
+        <property key="xcsd:xLinkWebAddress" value="[!--$ssExternalLink(&#39;UCM245927&#39;)--]"/>
+        <property key="xcsd:docURL_encoded" value="%2fucm%2fgroups%2ffdagov-public%2f%40fdagov-extlink%2fdocuments%2flink%2fucm245927.htm"/>
+        <property key="xcsd:dFormat" value="idcmeta/html"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+     </children>
+    </node>
+    <node nodeId='9A76-8125-8EF3-DC94-C26E'>
+     <properties>
+      <property key="xcst:name" value="MainList1"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='CEB3-6A1F-A14F-2DD0-AD4A'>
+     <properties>
+      <property key="xcst:name" value="MainList2"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='1AF7-8281-BE53-53ED-CEF8'>
+     <properties>
+      <property key="xcst:name" value="MainList3"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='C484-010C-841E-68D5-5224'>
+     <properties>
+      <property key="xcst:name" value="MainList4"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='967E-6C9B-1BCC-9E18-5ABD'>
+     <properties>
+      <property key="xcst:name" value="MainList5"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='76EB-FC90-2038-9B4D-12BF'>
+     <properties>
+      <property key="xcst:name" value="MainList6"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='E8E8-2AE5-C31A-E16D-F05A'>
+     <properties>
+      <property key="xcst:name" value="MainList7"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='F2B0-0173-BA4C-6D30-7BFE'>
+     <properties>
+      <property key="xcst:name" value="MainList8"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='F404-EF7F-8AD9-D2C8-E91D'>
+     <properties>
+      <property key="xcst:name" value="MainList9"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='079C-76C0-4606-76DB-3777'>
+     <properties>
+      <property key="xcst:name" value="MainList10"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-03-07 07:55:07.469&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='548D-A5D4-93AA-7729'>
+     <properties>
+      <property key="xcst:name" value="ContactUs"/>
+      <property key="xcst:createdate" value="{ts &#39;2011-03-07 07:56:51.464&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2011-03-07 07:56:51.464&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+   </children>
+  </node>
+ </children>
+ <edithistory>
+ </edithistory>
+</folio>

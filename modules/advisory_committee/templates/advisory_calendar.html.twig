@@ -1,0 +1,434 @@
+{{ attach_library('advisory__create_content_type/css-bootstrap') }}
+{{ attach_library('advisory__create_content_type/fda-bootstrap') }}
+<style media="all">
+	#sidebar-first { display: none; }
+	#block-fda-theme-page-title { display: none; }
+	#block-fda-theme-help { display: none; }
+	#content { 
+		line-height: 1.375;
+		width: 100%; 
+	}
+	article > header {
+		height: 76px;
+	}
+	article > p > a > img { height: 11px; }
+	.col-md-push-3 { left: 25%; }
+	.col-md-6 { width: 50%; }
+	.col-md-3, .col-md-6 {
+		float: left; 
+		position: relative;
+		min-height: 1px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	
+	.middle-column, .left-column, .right-column {
+		max-width: 40em;
+		margin: 0 auto;
+	}
+	.col-md-3 {
+		width: 25%;
+	}
+	.col-md-pull-9 {
+		right: 75%;
+	}
+	.panel-heading {
+		padding: 10px 15px;
+    		border-bottom: 1px solid transparent;
+    		border-top-right-radius: 3px;
+    		border-top-left-radius: 3px;
+		background: #eee;
+	}
+	.panel-default > .panel-heading {
+		color: #333;
+		border-color: #ddd;
+	}
+	.panel-title {
+		margin-top: 0;
+		margin-bottom: 0;
+		font-size: 1em;
+	}
+	.panel-body {
+		padding: 15px;
+	}
+.list-group{margin-bottom:20px;padding-left:0}
+.list-group-item{position:relative;display:block;padding:10px 15px;margin-bottom:-1px;background-color:#fff;border:1px solid #ddd}
+.list-group-item:first-child{border-top-right-radius:4px;border-top-left-radius:4px}
+.list-group-item:last-child{margin-bottom:0;border-bottom-right-radius:4px;border-bottom-left-radius:4px}
+.list-group-item > .badge{float:right}
+.list-group-item > .badge + .badge{margin-right:5px}
+a.list-group-item{color:#555}
+a.list-group-item .list-group-item-heading{color:#333}
+a.list-group-item:hover,a.list-group-item:focus{text-decoration:none;background-color:#f5f5f5}
+.list-group-item.active,.list-group-item.active:hover,.list-group-item.active:focus{z-index:2;color:#fff;background-color:#005f9f;border-color:#005f9f}
+.list-group-item.active .list-group-item-heading,.list-group-item.active:hover .list-group-item-heading,.list-group-item.active:focus .list-group-item-heading{color:inherit}
+.list-group-item.active .list-group-item-text,.list-group-item.active:hover .list-group-item-text,.list-group-item.active:focus .list-group-item-text{color:#6cc4ff}
+.list-group-item-heading{margin-top:0;margin-bottom:5px}
+.list-group-item-text{margin-bottom:0;line-height:1.3}
+.panel{margin-bottom:22px;background-color:#fff;border:1px solid transparent;border-radius:4px;-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.05);box-shadow:0 1px 1px rgba(0,0,0,0.05)}
+.panel-body{padding:15px}
+.panel-body:before,.panel-body:after{content:" ";display:table}
+.panel-body:after{clear:both}
+.panel-body:before,.panel-body:after{content:" ";display:table}
+.panel-body:after{clear:both}
+.panel > .list-group{margin-bottom:0}
+.panel > .list-group .list-group-item{border-width:1px 0}
+.panel > .list-group .list-group-item:first-child{border-top-right-radius:0;border-top-left-radius:0}
+.panel > .list-group .list-group-item:last-child{border-bottom:0}
+.panel-heading + .list-group .list-group-item:first-child{border-top-width:0}
+.panel > .table{margin-bottom:0}
+.panel > .panel-body + .table{border-top:1px solid #ddd}
+.panel-heading{padding:10px 15px;border-bottom:1px solid transparent;border-top-right-radius:3px;border-top-left-radius:3px}
+.panel-title{margin-top:0;margin-bottom:0;font-size:18px}
+.panel-title > a{color:inherit}
+.panel-heading {
+                padding: 10px 15px;
+                border-bottom: 1px solid transparent;
+                border-top-right-radius: 3px;
+                border-top-left-radius: 3px;
+                background: #eee;
+        }
+        .panel-default > .panel-heading {
+                color: #333;
+                border-color: #ddd;
+        }
+        .panel-title {
+                margin-top: 0;
+                margin-bottom: 0;
+                font-size: 1em;
+        }
+        .panel-body {
+                padding: 15px;
+        }
+
+#section-menu > a.active > h2 {
+	font-size: 12px;
+	line-height: 1.1;
+	text-shadow: none;
+}
+div.list-group-item {
+	padding-left: 0px !important; padding-right: 0px !important;
+	line-height: 16.5px;
+}
+div.list-group-item > a {
+	padding-left: 15px; padding-right: 15px;
+	font-size: 12px !important;
+}
+
+div.panel {
+	margin-top: 28px;
+	background-color: #fff;
+    	border: 1px solid transparent;
+    	border-radius: 4px;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.05);
+	border-color: #ddd;
+	padding: 0px;
+	line-height: 19.25px;
+	font-size: 14px;
+}
+div.panel-heading {
+	padding: 15px 10px;
+	padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+	    border-color: #ddd;
+	color: #333;
+}
+div.panel-heading > h2 {
+	font-size: 14px !important;
+	margin: 0px !important;
+}
+div.panel-body > ul > li > a {
+	font-size: 1em;
+}
+div.panel-body > ul {
+	padding: 0px !important;
+}
+
+div.right-column > div.panel > div.panel-heading {
+	background-color: rgb(221, 221, 221);
+	padding: 10px 15px !important;
+	color: #333;
+	font-size: 12px !important;
+}
+div.right-column > div.panel > div.panel-heading > h3 {
+	font-size: 12px !important;
+	padding: 0px !important;
+	background: none;
+}
+div.right-column > div.panel > div.panel-body > ul > li > a {
+	font-size: 12px !important;
+	line-height: 16.5px;
+}
+div.right-column > div.panel > div.panel-body {
+	font-size: 12px !important;
+}
+
+
+</style>
+
+<div class="col-md-6 col-md-push-3 middle-column">
+<article>
+<header>
+						<h1>Advisory Committee Calendar</h1>
+	
+
+
+				        <div class="share-btns">
+          					<div class="row">
+            					<div class="col-md-12">
+              						<ul class="share-list share-list-default">
+                						<li>
+                  							<a href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.fda.gov%2fAdvisoryCommittees%2fCalendar%2fdefault.htm" class="share-btn facebook-share js-share" id="fb-share" target="_blank"><span class="icon-facebook" aria-hidden="true"></span>Share</a>
+                						</li>
+                						<li>
+                  							<a href="https://twitter.com/intent/tweet/?text=Advisory%20Committee%20Calendar&amp;url=http%3a%2f%2fwww.fda.gov%2fAdvisoryCommittees%2fCalendar%2fdefault.htm" target="_blank" class="share-btn twitter-share js-share" id="twitter-share"><span class="icon-twitter" aria-hidden="true"></span>Tweet</a>
+                						</li>
+                						<li class="hidden-xs">
+                      						<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fwww.fda.gov%2fAdvisoryCommittees%2fCalendar%2fdefault.htm&amp;title=Advisory%20Committee%20Calendar&amp;summary=Confirmed%20and%20Tentatively%20Scheduled%20Meetings&amp;source=FDA" class="share-btn linkedin-share js-share" id="linkedin-share" target="_blank"><span class="icon-linkedin" aria-hidden="true"></span>Linkedin</a>
+                    					</li>
+                    					<li class="hidden-xs">
+                      						<a href="https://www.pinterest.com/pin/create/button/?url=http%3a%2f%2fwww.fda.gov%2fAdvisoryCommittees%2fCalendar%2fdefault.htm&amp;description=Advisory%20Committee%20Calendar" class="share-btn pinterest-share js-share" id="pinterest-share" target="_blank"><span class="icon-pinterest" aria-hidden="true"></span>Pin it</a>
+                    					</li>
+                						<li class="hidden-more-share">
+                  							<a id="more-share-btn" href="#more-shares" class="share-btn more-share collapsed-more"><span class="icon-plus" aria-hidden="true"></span><span class="sr-only">More sharing options</span></a>
+                  							<ul>
+                
+                    							<li class="share-li hide">
+                      								<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fwww.fda.gov%2fAdvisoryCommittees%2fCalendar%2fdefault.htm&amp;title=Advisory%20Committee%20Calendar&amp;summary=Confirmed%20and%20Tentatively%20Scheduled%20Meetings&amp;source=FDA" class="share-btn linkedin-share js-share" id="linkedin-share-sm" target="_blank"><span class="icon-linkedin" aria-hidden="true"></span><span class="sr-only">Linkedin</span></a>
+                    							</li>
+                    							<li class="share-li hide">
+                      								<a href="https://www.pinterest.com/pin/create/button/?url=http%3a%2f%2fwww.fda.gov%2fAdvisoryCommittees%2fCalendar%2fdefault.htm&amp;description=Advisory%20Committee%20Calendar" class="share-btn pinterest-share js-share" id="pinterest-share-sm" target="_blank"><span class="icon-pinterest" aria-hidden="true"></span><span class="sr-only">Pin it</span></a>
+                    							</li>
+                  							</ul>
+                						</li>
+                						<li>
+                  							<a href="mailto:?subject=Advisory%20Committee%20Calendar&amp;body=http%3a%2f%2fwww.fda.gov%2fAdvisoryCommittees%2fCalendar%2fdefault.htm" class="share-btn mail-share"><span class="icon-envelope" aria-hidden="true"></span>Email</a>
+                						</li>
+                						<li class="hidden-xs">
+                							<a href="javascript:window.print();" title="Print this page" class="share-btn print-share"><span class="icon-print" aria-hidden="true"></span>Print</a>
+                						</li>
+              						</ul>
+              				</div>
+              			</div>
+              	</div><!--— END Social buttons—-->
+						</header>
+<p>Confirmed Scheduled Advisory Meetings</p>
+<p><a target="_blank" href="http://service.govdelivery.com/service/subscribe.html?code=USFDA_62"><img border="0" alt="Red envelope icon for Govdelivery" width="15" height="11" src="http://www.fda.gov/ucm/groups/fdagov-public/documents/image/ucm149301.jpg"></a> <a target="_blank" href="http://service.govdelivery.com/service/subscribe.html?code=USFDA_62">Sign up for updates on advisory committee meetings</a></p>
+
+
+{% for monthyear in months_organized %}
+	<div class="panel panel-default box">
+		<div class="panel-heading">
+			<h2 class="panel-title">{{ monthyear.monthyear }}</h2>
+		</div>
+		<div class="panel-body">
+			<ul>
+			{% for entry in monthyear.entries %}
+				<li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
+			{% endfor %}
+			</ul>
+		</div>
+	</div>
+{% endfor %}
+</div>
+
+
+<!-- Right Column, static info -->
+<div class="col-md-3 col-md-push-3 right-column">
+				  
+						
+                    		 <!-- Be sure to set maxLinks in the custom_csfl_build_folioContainer_rellink include also -->
+			 <!-- Be sure to set maxLinks in the custom_csfl_build_folioContainer_rellink include also -->
+		
+
+				
+				<div class="panel panel-default box" id="right_col_box4"><div class="panel-heading"><h3 class="panel-title">Past Calendars</h3></div><div class="panel-body"><ul>
+				
+				
+
+		
+
+		
+	<li><a href="http://www.fda.gov/oc/advisory/accalendar/2008/2008ACcalendar.html" target="_blank"><linktitle>Advisory Committee Calendars Prior to 2009</linktitle></a>
+	
+	</li>
+
+				
+
+			
+		    		</ul>
+				  </div>
+				</div> <!-- /box4 -->
+     	 
+    
+			
+			 
+		
+		<div class="panel panel-default box contact-us" id="Contact_Us">
+			<div class="panel-heading">
+			<h3 class="panel-title">Contact FDA</h3>
+			</div>
+			<div class="panel-body">
+			<div class="row">
+					<div class="col-sm-6 col-md-12">
+					<div class="phone_number" title="Primary Phone Number">301-443-0572</div>
+							
+					<div class="phone_number" title="Alternative Phone Number">1-800-741-8138</div>
+				</div><div class="col-sm-6 col-md-12">
+					<div class="div-info">
+					<span class="div-name">OC-Advisory Committee Oversight and Management Staff</span>
+								
+				<div class="div-address">				
+				<p>Food and Drug Administration</p>
+				<p>10903 New Hampshire Avenue</p>
+				<p>WO32 - 5129</p>
+				
+				
+				Silver Spring,
+				
+				MD
+				20993-0002
+				</div><!-- /div-address -->
+				</div><!-- /div-info -->
+								</div>
+				  	</div> <!-- /row -->
+				  </div>
+				</div> <!-- /Contact_Us -->		
+
+				
+<!--==== BEGIN Nav Folio Box(es) ====--><!--==== END Nav Folio Box(es) ====--><!--==== BEGIN Contact Us Box ====--><!--==== BEGIN Contact Us Box ====-->
+				</div>
+
+<!-- MAIN: {{main}} -->
+
+
+<!-- left yearly links nav bar -->
+<div class="col-md-3 col-md-pull-9 left-column">
+		
+<!-- Wrapping Style Div -->
+	<div id="section-menu" class="list-group section-menu">
+	
+		
+				<a href="/fda/AdvisoryCommittees/Calendar/default.htm" class="list-group-item active"><h2><span class="section-menu-head visible-xs visible-sm">More in</span> Advisory Committee Calendar</h2></a>
+		        	
+			<a href="/fda/AdvisoryCommittees/Calendar/ucm414515.htm" class="list-group-item" id="UCM414515">2016 Advisory Committee Tentative Meetings</a>
+	<!-- Subsection links -->
+	
+							
+							
+							
+
+							
+							
+							 
+									
+								
+									
+							
+							
+							
+
+						  		<div class="list-group-item section"><a href="/fda/AdvisoryCommittees/Calendar/2016/default.htm" class="list-group-item">2016 Advisory Committee Calendar</a>
+						  		</div>
+							
+							
+							 
+									
+								
+									
+							
+							
+							
+
+						  		<div class="list-group-item section"><a href="/fda/AdvisoryCommittees/Calendar/2015/default.htm" class="list-group-item">2015 Advisory Committee Calendar</a>
+						  		</div>
+							
+							
+							 
+									
+								
+									
+							
+							
+							
+
+						  		<div class="list-group-item section"><a href="/fda/AdvisoryCommittees/Calendar/2014/default.htm" class="list-group-item">2014 Advisory Committee Calendar</a>
+						  		</div>
+							
+							
+							 
+									
+								
+									
+							
+							
+							
+
+						  		<div class="list-group-item section"><a href="/fda/AdvisoryCommittees/Calendar/2013/default.htm" class="list-group-item">2013 Advisory Committee Calendar</a>
+						  		</div>
+							
+							
+							 
+									
+								
+									
+							
+							
+							
+
+						  		<div class="list-group-item section"><a href="/fda/AdvisoryCommittees/Calendar/2012/default.htm" class="list-group-item">2012 Advisory Committee Calendar</a>
+						  		</div>
+							
+							
+							 
+									
+								
+									
+							
+							
+							
+
+						  		<div class="list-group-item section"><a href="/fda/AdvisoryCommittees/Calendar/2011/default.htm" class="list-group-item">2011 Advisory Committee Calendar</a>
+						  		</div>
+							
+							
+							 
+									
+								
+									
+							
+							
+							
+
+						  		<div class="list-group-item section"><a href="/fda/AdvisoryCommittees/Calendar/2010/default.htm" class="list-group-item">2010 Advisory Committee Calendar</a>
+						  		</div>
+							
+							
+							 
+									
+								
+									
+							
+							
+							
+							
+
+						  		<div class="list-group-item section"><a href="/fda/AdvisoryCommittees/Calendar/2009/default.htm" class="list-group-item">2009 Advisory Committee Calendar</a>
+						  		</div>
+</div> <!--- section-menu -->
+<!--BEGIN Resources_for_You Box -->
+    
+{{ leftnav }} 
+ 
+<script type="text/javascript">
+var maincontentcss = document.getElementById("middle_js");
+if(maincontentcss)
+{
+	maincontentcss.style.width = "71%";
+}
+</script>
+
+<!--END Resources_for_You Box -->
+	</div>

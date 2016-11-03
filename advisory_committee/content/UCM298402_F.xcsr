@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<folio xmlns="http://stellent.com/cpd">
+ <properties>
+  <property key="xcst:sourceTemplateID" value="FDAGOVCONTENTFOLIOTEMPLATE"/>
+ </properties>
+ <children>
+  <node nodeId='2301-889B-A9AC-3926-DABD'>
+   <properties>
+    <property key="xcst:name" value="wwCpdFolioRoot"/>
+    <property key="xcst:createdate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+    <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+   </properties>
+   <children>
+    <node nodeId='A4A8-4FBE-65D5-C48B-621E'>
+     <properties>
+      <property key="xcst:name" value="ResourcesForYou"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='CD58-F9E9-C619-E58F-96CD'>
+     <properties>
+      <property key="xcst:name" value="PhotoGallery"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='0BD3-2103-AA61-4CD9-B074'>
+     <properties>
+      <property key="xcst:name" value="DynamicList"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='C889-09B9-F085-4905-35BD'>
+     <properties>
+      <property key="xcst:name" value="MainList1"/>
+      <property key="xcst:label" value="June 21, 2012: Meeting Materials FDA Generated"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+     </properties>
+     <children>
+      <slot nodeId='2389-0A55-A5BC-E875'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Agenda -"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM308791"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM308791&#39;)--]"/>
+        <property key="xcst:name" value="Agenda -"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM308791&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM308791&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM308791"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Draft Dune Agenda 6-21-12.pdf"/>
+        <property key="xcsd:dID" value="619659"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='B438-2E6F-B122-AD93'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Panel  Roster"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM308792"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM308792&#39;)--]"/>
+        <property key="xcst:name" value="Panel  Roster"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM308792&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM308792&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM308792"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Panel Roster - Day.pdf"/>
+        <property key="xcsd:dID" value="619660"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='76EA-059D-624D-E58C'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Panel   Questions"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM308793"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM308793&#39;)--]"/>
+        <property key="xcst:name" value="Panel   Questions"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM308793&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM308793&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM308793"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="FDA_p110014_ DRAFT Panel Questions 06_2012.pdf"/>
+        <property key="xcsd:dID" value="619661"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='D0DA-7B5A-6AA9-4A81'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="FDA  Executive   Summary"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM308794"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM308794&#39;)--]"/>
+        <property key="xcst:name" value="FDA  Executive   Summary"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM308794&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM308794&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM308794"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="FDA_ p110014_FDA Executive Summary 06_2012 REDACTED VERSION_Redacted.pdf"/>
+        <property key="xcsd:dID" value="619662"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='D6D0-092B-6232-E3DF'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="24-Hour Summary:  June 21, 2012"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM309563"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM309563&#39;)--]"/>
+        <property key="xcst:name" value="24-Hour Summary:  June 21, 2012"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM309563&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="jmm"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM309563&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM309563"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="FINAL_Dune Panel Meeting 24 Hour Summary for Posting (3).pdf"/>
+        <property key="xcsd:dID" value="621440"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='6FD0-9BAC-74DE-80AD'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="FDA Presentation Dune Medical Devices"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM309883"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM309883&#39;)--]"/>
+        <property key="xcst:name" value="FDA Presentation Dune Medical Devices"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM309883&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="jmm"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM309883&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM309883"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="FDA Final Presentation for Dune Medical MarginProbe Panel June 21.pdf"/>
+        <property key="xcsd:dID" value="622291"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='C9EC-42A4-DF7D-8227'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Transcript: June 21, 2012"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM313421"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM313421&#39;)--]"/>
+        <property key="xcst:name" value="Transcript: June 21, 2012"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM313421&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM313421&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM313421"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="G&amp;P06-21-12.FINAL transcript.pdf"/>
+        <property key="xcsd:dID" value="630907"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+     </children>
+    </node>
+    <node nodeId='559C-7EA9-29AB-C36B-F39F'>
+     <properties>
+      <property key="xcst:name" value="MainList2"/>
+      <property key="xcst:label" value="June 21, 2012: Meeting Materials Non-FDA Generated"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+     </properties>
+     <children>
+      <slot nodeId='6C0A-3339-BE74-21C4'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Table of Contents"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM308567"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM308567&#39;)--]"/>
+        <property key="xcst:name" value="Table of Contents"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM308567&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM308567&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM308567"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Sponsor _001_MarginProbe Panel Pack_Table of Contents.pdf"/>
+        <property key="xcsd:dID" value="619163"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='0700-60E5-9630-A115'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Sponsor  Executive  Summary"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM308568"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM308568&#39;)--]"/>
+        <property key="xcst:name" value="Sponsor  Executive  Summary"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM308568&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM308568&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM308568"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Sponsor _002_MarginProbe Panel Pack_Sponsor Executive Summary_Redacted.pdf"/>
+        <property key="xcsd:dID" value="619164"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='0803-19E0-7862-C585'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Appendices"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM308569"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM308569&#39;)--]"/>
+        <property key="xcst:name" value="Appendices"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM308569&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="tat"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM308569&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM308569"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Sponsor _003_MarginProbe Panel Pack_Appendices_Redacted.pdf"/>
+        <property key="xcsd:dID" value="619165"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+      <slot nodeId='FE9F-6152-39E1-A9E9'>
+       <properties>
+        <property key="xcsd:dDocTitle" value="Sponsor Presentation Dune Medical Devices"/>
+        <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:dDocName_encoded" value="UCM309886"/>
+        <property key="xcsd:downloadURL" value="[!--$ssDownloadLink(&#39;UCM309886&#39;)--]"/>
+        <property key="xcst:name" value="Sponsor Presentation Dune Medical Devices"/>
+        <property key="xcst:createdate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+        <property key="xcsd:href" value="[!--$ssDownloadLink(&#39;UCM309886&#39;)--]"/>
+        <property key="xcsd:dDocAuthor" value="jmm"/>
+        <property key="xcsd:dDocType" value="Document"/>
+        <property key="xcst:externalTarget" value="[!--$ssDownloadLink(&#39;UCM309886&#39;)--]"/>
+        <property key="xcsd:dFormat" value="Application/pdf"/>
+        <property key="xcsd:dDocName" value="UCM309886"/>
+        <property key="xcsd:dRevLabel" value="1"/>
+        <property key="xcsd:dOriginalName" value="Sponsor Presentation Dune Medical MarginProbe Panel.pdf"/>
+        <property key="xcsd:dID" value="622294"/>
+       </properties>
+       <children>
+       </children>
+      </slot>
+     </children>
+    </node>
+    <node nodeId='BB3F-E0B4-8C07-79ED-215D'>
+     <properties>
+      <property key="xcst:name" value="MainList3"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='7546-79A1-B7F1-99D6-1E57'>
+     <properties>
+      <property key="xcst:name" value="MainList4"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='8335-E479-CC24-B681-C5F4'>
+     <properties>
+      <property key="xcst:name" value="MainList5"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='3592-7A1B-339E-05CA-E173'>
+     <properties>
+      <property key="xcst:name" value="MainList6"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='AC4B-870B-6AA5-0EB8-B362'>
+     <properties>
+      <property key="xcst:name" value="MainList7"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='ED7B-BED2-A900-46C1-29FC'>
+     <properties>
+      <property key="xcst:name" value="MainList8"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='62E1-63B8-714B-FF93-90F4'>
+     <properties>
+      <property key="xcst:name" value="MainList9"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='42E8-BDB5-CEA5-B810-5506'>
+     <properties>
+      <property key="xcst:name" value="MainList10"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 13:56:15.974&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+    <node nodeId='995E-A931-8FE5-9EA8'>
+     <properties>
+      <property key="xcst:name" value="ContactUs"/>
+      <property key="xcst:createdate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+      <property key="xcst:lastmodifieddate" value="{ts &#39;2013-02-07 14:00:01.367&#39;}"/>
+     </properties>
+     <children>
+     </children>
+    </node>
+   </children>
+  </node>
+ </children>
+ <edithistory>
+ </edithistory>
+</folio>

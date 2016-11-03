@@ -1,0 +1,8 @@
+type: metadata
+name: 'Metadata'
+description: 'Metadata for Content Entries'
+new_revision: false
+display_submitted: true
+preview_mode: 1
+status: true
+langcode: en

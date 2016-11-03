@@ -1,0 +1,8 @@
+type: advisory_committee_content_meta
+name: 'Advisory Committe Content Metadata'
+description: 'Metadata for Advisory Committee Calendar Entries'
+new_revision: false
+display_submitted: true
+preview_mode: 1
+status: true
+langcode: en

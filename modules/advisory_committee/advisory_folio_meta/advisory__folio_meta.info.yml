@@ -1,0 +1,7 @@
+name: Advisory Folio List Item Metadata
+type: module
+description: 'manage the advisory committee folio entry metadata'
+core: 8.x
+package: Advisory Committee
+dependencies:
+ - node

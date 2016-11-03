@@ -1,0 +1,1806 @@
+#!/usr/bin/env drush
+Found 732 content nodes
+Loading loadfile..
+February 24, 2009: Science Board to the FDA Meeting Announcement : UCM115651
+Meta maincontent has different strlen than content maincontent!
+got date [6387]: 2009-02-24 00:00:00.000000 FROM: 2009-02-24T00:00:00
+February 26-27, 2009: Risk Communication Advisory Committee Meeting Announcement : UCM117060
+Meta maincontent has different strlen than content maincontent!
+got date [6391]: 2009-02-26 00:00:00.000000 FROM: 2009-02-26T00:00:00
+January 30, 2009: Joint Meeting of the Anesthetic and Life Support Drugs Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM119906
+Meta maincontent has different strlen than content maincontent!
+got date [6393]: 2009-01-05 00:00:00.000000 FROM: 2009-01-05T00:00:00
+June 2, 2009: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM125552
+Meta maincontent has different strlen than content maincontent!
+got date [6395]: 2009-06-02 00:00:00.000000 FROM: 2009-06-02T00:00:00
+June 3, 2009: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM126290
+Meta maincontent has different strlen than content maincontent!
+got date [6397]: 2009-06-03 00:00:00.000000 FROM: 2009-06-03T00:00:00
+February 3, 2009: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM128321
+Meta maincontent has different strlen than content maincontent!
+got date [6399]: 2009-02-03 00:00:00.000000 FROM: 2009-02-03T00:00:00
+March 18, 2009: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM128322
+Meta maincontent has different strlen than content maincontent!
+got date [6401]: 2009-03-18 00:00:00.000000 FROM: 2009-03-18T00:00:00
+March 19, 2009: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM128324
+Meta maincontent has different strlen than content maincontent!
+got date [6403]: 2009-03-19 00:00:00.000000 FROM: 2009-03-19T00:00:00
+April 1-2, 2009: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM136239
+Meta maincontent has different strlen than content maincontent!
+got date [6405]: 2009-04-01 00:00:00.000000 FROM: 2009-04-01T00:00:00
+March 31, 2009: Oncologic Drugs Advisory Committee Meeting Announcement : UCM136246
+Meta maincontent has different strlen than content maincontent!
+got date [6409]: 2009-03-31 00:00:00.000000 FROM: 2009-03-31T00:00:00
+April 7-8, 2009: Psychopharmacologic Drugs Advisory Committee Meeting Announcement : UCM136250
+Meta maincontent has different strlen than content maincontent!
+got date [6413]: 2009-04-07 00:00:00.000000 FROM: 2009-04-07T00:00:00
+February 4, 2009: Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM136251
+Meta maincontent has different strlen than content maincontent!
+got date [6417]: 2009-02-04 00:00:00.000000 FROM: 2009-02-04T00:00:00
+April 23, 2009: Circulatory System Devices Panel Meeting Announcement : UCM137188
+Meta maincontent has different strlen than content maincontent!
+got date [6421]: 2009-04-23 00:00:00.000000 FROM: 2009-04-23T00:00:00
+June 29-30, 2009: Joint Meeting of the Drug Safety and Risk Management Advisory Committee with the Anesthetic and Life Support Drugs Advisory Committee and the Nonprescription Drugs Advisory Committee: Meeting Announcement : UCM143083
+Meta maincontent has different strlen than content maincontent!
+got date [6425]: 2009-06-29 00:00:00.000000 FROM: 2009-06-29T00:00:00
+May 28, 2009: Anesthesiology and Respiratory Therapy Devices Panel Meeting Announcement : UCM146119
+Meta maincontent has different strlen than content maincontent!
+got date [6429]: 2009-05-28 08:00:00.000000 FROM: 2009-05-28T08:00:00
+March 18, 2009: Circulatory System Devices Panel Meeting Announcement : UCM148771
+Meta maincontent has different strlen than content maincontent!
+got date [6433]: 2009-03-18 08:00:00.000000 FROM: 2009-03-18T08:00:00
+March 31, 2009: Orthopaedic and Rehabilitation Devices Panel Meeting Annoucement : UCM148781
+Meta maincontent has different strlen than content maincontent!
+got date [6435]: 2009-03-31 08:00:00.000000 FROM: 2009-03-31T08:00:00
+February 18-19, 2009: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM148799
+Meta maincontent has different strlen than content maincontent!
+got date [6373]: 2009-02-18 00:00:00.000000 FROM: 2009-02-18T00:00:00
+March 27, 2009: Ophthalmic Devices Panel Meeting Announcement : UCM148820
+Meta maincontent has different strlen than content maincontent!
+got date [6441]: 2009-03-27 08:00:00.000000 FROM: 2009-03-27T08:00:00
+May 14, 2009: Neurological Devices Panel Meeting Announcement : UCM148842
+Meta maincontent has different strlen than content maincontent!
+got date [6443]: 2009-05-14 08:00:00.000000 FROM: 2009-05-14T08:00:00
+March 18, 2009: Allergenic Products Advisory Committee Meeting Announcement : UCM149629
+Meta maincontent has different strlen than content maincontent!
+got date [6375]: 2009-03-18 00:00:00.000000 FROM: 2009-03-18T00:00:00
+January 9, 2009: Blood Products Advisory Committee Meeting Announcement : UCM149632
+Meta maincontent has different strlen than content maincontent!
+got date [6377]: 2009-01-09 00:00:00.000000 FROM: 2009-01-09T00:00:00
+April 1-2, 2009: Blood Products Advisory Committee Meeting Announcement : UCM149638
+Meta maincontent has different strlen than content maincontent!
+got date [6379]: 2009-04-01 00:00:00.000000 FROM: 2009-04-01T00:00:00
+May 14-15, 2009: Cellular, Tissue and Gene Therapies Advisory Committee Meeting : UCM149643
+Meta maincontent has different strlen than content maincontent!
+got date [6381]: 2009-05-14 00:00:00.000000 FROM: 2009-05-14T00:00:00
+June 12, 2009: Transmissible Spongiform Encephalopathies Committee Meeting Announcement : UCM149654
+Meta maincontent has different strlen than content maincontent!
+got date [6383]: 2009-06-12 00:00:00.000000 FROM: 2009-06-12T00:00:00
+Notice of Meeting for the April 27, 2009 Meeting of the Pediatric Advisory Committee : UCM150132
+Meta maincontent has different strlen than content maincontent!
+got date [6459]: 2009-04-27 00:00:00.000000 FROM: 2009-04-27T00:00:00
+June 16, 2009: Arthritis Drug Advisory Committee Meeting Announcement : UCM155149
+Meta maincontent has different strlen than content maincontent!
+got date [6463]: 2009-06-16 00:00:00.000000 FROM: 2009-06-16T00:00:00
+June 10, 2009: Gastroenterology and Urology Devices Panel Meeting Announcement : UCM163571
+Meta maincontent has different strlen than content maincontent!
+got date [6465]: 2009-06-10 08:00:00.000000 FROM: 2009-06-10T08:00:00
+June 26, 2009: Dermatologic and Ophthalmic Drugs Advisory Committee Meeting Announcement : UCM164111
+Meta maincontent has different strlen than content maincontent!
+got date [6467]: 2009-06-26 00:00:00.000000 FROM: 2009-06-26T00:00:00
+June 9-10, 2009: Psychopharmacologic Drugs Advisory Committee Meeting Announcement. : UCM164160
+Meta maincontent has different strlen than content maincontent!
+got date [6469]: 2009-06-09 00:00:00.000000 FROM: 2009-06-09T00:00:00
+June 23, 2009: Meeting of the Pediatric Advisory Committee Meeting Announcement : UCM164529
+Meta maincontent has different strlen than content maincontent!
+got date [6471]: 2009-06-23 00:00:00.000000 FROM: 2009-06-23T00:00:00
+July 28, 2009: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM164611
+Meta maincontent has different strlen than content maincontent!
+got date [6473]: 2009-07-28 00:00:00.000000 FROM: 2009-07-28T00:00:00
+July 15, 2009: Oncologic Drugs Advisory Committee Meeting Announcement : UCM164972
+Meta maincontent has different strlen than content maincontent!
+got date [6475]: 2009-07-15 00:00:00.000000 FROM: 2009-07-15T00:00:00
+July 29, 2009: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM164988
+Meta maincontent has different strlen than content maincontent!
+got date [6477]: 2009-07-29 00:00:00.000000 FROM: 2009-07-29T00:00:00
+July 17, 2009: Hematology and Pathology Devices Panel Meeting Announcement : UCM165121
+Meta maincontent has different strlen than content maincontent!
+got date [6479]: 2009-07-17 08:00:00.000000 FROM: 2009-07-17T08:00:00
+July 30, 2009: Psychopharmacologic Drugs Advisory Committee Meeting Announcement : UCM165554
+Meta maincontent has different strlen than content maincontent!
+got date [6481]: 2009-07-30 00:00:00.000000 FROM: 2009-07-30T00:00:00
+August 11, 2009: Peripheral and Central Nervous System Drugs Advisory Committee Meeting Announcement : UCM165628
+Meta maincontent has different strlen than content maincontent!
+got date [6483]: 2009-08-11 00:00:00.000000 FROM: 2009-08-11T00:00:00
+August 13, 2009: Reproductive Health Drugs Advisory Committee Meeting Announcement : UCM168578
+Meta maincontent has different strlen than content maincontent!
+got date [6485]: 2009-08-13 00:00:00.000000 FROM: 2009-08-13T00:00:00
+August 4, 2009: Pharmaceutical Science and Clinical Pharmacology Advisory Committee Meeting Announcement : UCM170157
+Meta maincontent has different strlen than content maincontent!
+got date [6487]: 2009-08-04 00:00:00.000000 FROM: 2009-08-04T00:00:00
+February 4, 2009: Pulmonary-Allergy Drug Advisory Committee Meeting Announcement : UCM170230
+Meta maincontent has different strlen than content maincontent!
+got date [6489]: 2009-02-04 00:00:00.000000 FROM: 2009-02-04T00:00:00
+July 20-21, 2009: Blood Products Advisory Committee Meeting Announcement : UCM170804
+Meta maincontent has different strlen than content maincontent!
+got date [6385]: 2009-07-20 00:00:00.000000 FROM: 2009-07-20T00:00:00
+August 5, 2009: Pharmaceutical Science and Clinical Pharmacology Advisory Committee Meeting Announcement : UCM170880
+Meta maincontent has different strlen than content maincontent!
+got date [6493]: 2009-08-05 00:00:00.000000 FROM: 2009-08-05T00:00:00
+July 23, 2009: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM170908
+Meta maincontent has different strlen than content maincontent!
+got date [6495]: 2009-07-08 00:00:00.000000 FROM: 2009-07-08T00:00:00
+July 22-23, 2009: Circulatory System Devices Panel Meeting Announcement : UCM170946
+Meta maincontent has different strlen than content maincontent!
+got date [6499]: 2009-07-22 08:00:00.000000 FROM: 2009-07-22T08:00:00
+August 17, 2009: Science Board to the FDA Meeting Announcement : UCM174087
+Meta maincontent has different strlen than content maincontent!
+got date [6501]: 2009-08-17 00:00:00.000000 FROM: 2009-08-17T00:00:00
+August 18-19, 2009: Orthopaedic and Rehabilitation Devices Panel Meeting : UCM174170
+Meta maincontent has different strlen than content maincontent!
+got date [6503]: 2009-08-18 00:00:00.000000 FROM: 2009-08-18T00:00:00
+August 13-14, 2009: Risk Communication Advisory Committee Meeting Announcement : UCM174558
+Meta maincontent has different strlen than content maincontent!
+got date [6505]: 2009-08-13 00:00:00.000000 FROM: 2009-08-13T00:00:00
+September 16, 2009: Arthritis Drugs Advisory Committee Meeting Announcement : UCM174629
+Meta maincontent has different strlen than content maincontent!
+got date [6507]: 2009-09-16 00:00:00.000000 FROM: 2009-09-16T00:00:00
+October 8, 2009: Antiviral Drugs Advisory Committee Meeting Announcement : UCM174637
+Meta maincontent has different strlen than content maincontent!
+got date [6509]: 2009-10-08 00:00:00.000000 FROM: 2009-10-08T00:00:00
+September 23, 2009: Joint Meeting of the Anesthetic Life Support Drugs Advisory Committee with the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM176521
+Meta maincontent has different strlen than content maincontent!
+got date [6511]: 2009-09-23 00:00:00.000000 FROM: 2009-09-23T00:00:00
+September 2, 2009: Oncologic Drugs Advisory Committee Meeting Announcement : UCM176523
+Meta maincontent has different strlen than content maincontent!
+got date [6513]: 2009-09-02 00:00:00.000000 FROM: 2009-09-02T00:00:00
+September 1, 2009: Oncologic Drugs Advisory Committee Meeting Announcement : UCM176525
+Meta maincontent has different strlen than content maincontent!
+got date [6515]: 2009-09-01 00:00:00.000000 FROM: 2009-09-01T00:00:00
+September 9, 2009: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM178920
+Meta maincontent has different strlen than content maincontent!
+got date [6517]: 2009-09-09 00:00:00.000000 FROM: 2009-09-09T00:00:00
+October 5, 2009: Oncologic Drugs Advisory Committee Meeting Announcement : UCM180077
+Meta maincontent has different strlen than content maincontent!
+got date [6521]: 2009-10-05 00:00:00.000000 FROM: 2009-10-05T00:00:00
+October 6, 2009: Oncologic Drugs Advisory Committee Meeting Announcement : UCM180085
+Meta maincontent has different strlen than content maincontent!
+got date [6523]: 2009-10-06 00:00:00.000000 FROM: 2009-10-06T00:00:00
+October 14, 2009: Peripheral and Central Nervous System Drugs Advisory Committee Meeting Announcement : UCM180089
+Meta maincontent has different strlen than content maincontent!
+got date [6525]: 2009-10-14 00:00:00.000000 FROM: 2009-10-14T00:00:00
+September 24, 2009: Joint Meeting of the Anesthetic Life Support Drugs Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM181088
+Meta maincontent has different strlen than content maincontent!
+got date [6527]: 2009-09-24 00:00:00.000000 FROM: 2009-09-24T00:00:00
+October 9, 2009:  Cellular, Tissue and Gene Therapies Advisory Committee Meeting Announcement : UCM181656
+Meta maincontent has different strlen than content maincontent!
+got date [6529]: 2009-10-09 00:00:00.000000 FROM: 2009-10-09T00:00:00
+October 22 -23, 2009: Hematology and Pathology Devices Advisory Committee Meeting Announcement : UCM182499
+Meta maincontent has different strlen than content maincontent!
+got date [6533]: 2009-10-22 00:00:00.000000 FROM: 2009-10-22T00:00:00
+October 28,  2009: Anesthesiology and Respiratory Therapy Advisory Committee Meeting Announcement : UCM183376
+Meta maincontent has different strlen than content maincontent!
+got date [6535]: 2009-10-28 00:00:00.000000 FROM: 2009-10-28T00:00:00
+November 19, 2009: Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM183398
+Meta maincontent has different strlen than content maincontent!
+got date [6537]: 2009-11-19 00:00:00.000000 FROM: 2009-11-19T00:00:00
+October 27, 2009: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM183754
+Meta maincontent has different strlen than content maincontent!
+got date [6539]: 2009-10-27 00:00:00.000000 FROM: 2009-10-27T00:00:00
+November 20, 2009: Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM183948
+Meta maincontent has different strlen than content maincontent!
+got date [6541]: 2009-11-20 00:00:00.000000 FROM: 2009-11-20T00:00:00
+November 18, 2009: Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM183968
+Meta maincontent has different strlen than content maincontent!
+got date [6543]: 2009-11-18 00:00:00.000000 FROM: 2009-11-18T00:00:00
+October 26, 2009: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM184291
+Meta maincontent has different strlen than content maincontent!
+got date [6545]: 2009-10-26 00:00:00.000000 FROM: 2009-10-26T00:00:00
+November 2, 2009: National Mammography Quality Assurance Advisory Committee Meeting Announcement (Postponed) : UCM184571
+Meta maincontent has different strlen than content maincontent!
+got date [6547]: 2009-11-02 00:00:00.000000 FROM: 2009-11-02T00:00:00
+November 12-13, 2009: Risk Communication Advisory Committee Meeting Announcement : UCM184682
+Meta maincontent has different strlen than content maincontent!
+got date [6549]: 2009-11-12 00:00:00.000000 FROM: 2009-11-12T00:00:00
+November 16-17, 2009: Blood Products Advisory Committee Meeting Announcement : UCM184809
+Meta maincontent has different strlen than content maincontent!
+got date [6551]: 2009-11-16 00:00:00.000000 FROM: 2009-11-16T00:00:00
+November 4, 2009: Orthopaedic and Rehabilitation Devices Panel Meeting Announcement : UCM185494
+Meta maincontent has different strlen than content maincontent!
+got date [6555]: 2009-11-04 00:00:00.000000 FROM: 2009-11-04T00:00:00
+December 7, 2009: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM186125
+Meta maincontent has different strlen than content maincontent!
+got date [6557]: 2009-12-07 00:00:00.000000 FROM: 2009-12-07T00:00:00
+December 8, 2009: Joint Meeting of the Cardiovascular and Renal Drugs and Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM186142
+Meta maincontent has different strlen than content maincontent!
+got date [6559]: 2009-12-08 00:00:00.000000 FROM: 2009-12-08T00:00:00
+November 18-19, 2009: Vaccines and Related Biological Products Advisory Committee : UCM186620
+Meta maincontent has different strlen than content maincontent!
+got date [6561]: 2009-11-18 00:00:00.000000 FROM: 2009-11-18T00:00:00
+November 20, 2009: Neurological Devices Advisory Committee Meeting Announcement (Postponed) : UCM186921
+Meta maincontent has different strlen than content maincontent!
+got date [6565]: 2009-11-20 00:00:00.000000 FROM: 2009-11-20T00:00:00
+November 17-18, 2009: Radiological Devices Advisory Committee Meeting Announcement : UCM187662
+Meta maincontent has different strlen than content maincontent!
+got date [6567]: 2009-11-17 00:00:00.000000 FROM: 2009-11-17T00:00:00
+December 9, 2009: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM187911
+Meta maincontent has different strlen than content maincontent!
+got date [6569]: 2009-12-09 00:00:00.000000 FROM: 2009-12-09T00:00:00
+December 10, 2009: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM187928
+Meta maincontent has different strlen than content maincontent!
+got date [6571]: 2009-12-10 00:00:00.000000 FROM: 2009-12-10T00:00:00
+December 15, 2009: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM187991
+Meta maincontent has different strlen than content maincontent!
+got date [6573]: 2009-12-15 00:00:00.000000 FROM: 2009-12-15T00:00:00
+December 15, 2009: Pediatric Oncology Subcommittee Advisory Committee Meeting Announcement : UCM188032
+Meta maincontent has different strlen than content maincontent!
+got date [6575]: 2009-12-15 00:00:00.000000 FROM: 2009-12-15T00:00:00
+December 8, 2009: Meeting of the Pediatric Advisory Committee Meeting Announcement (Amended as of October 30) : UCM188093
+Meta maincontent has different strlen than content maincontent!
+got date [6577]: 2009-12-08 00:00:00.000000 FROM: 2009-12-08T00:00:00
+November 17-18, 2009:  Science Advisory Board to the National Center for Toxicological Research Committee Meeting Announcement : UCM188397
+Meta maincontent has different strlen than content maincontent!
+got date [6579]: 2009-11-17 00:00:00.000000 FROM: 2009-11-17T00:00:00
+January 25, 2010: National Mammography Quality Assurance Advisory Committee Meeting Announcement : UCM190821
+Meta maincontent has different strlen than content maincontent!
+got date [6583]: 2010-01-25 00:00:00.000000 FROM: 2010-01-25T00:00:00
+March 25, 2010: General and Plastic Surgery Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM190824
+Meta maincontent has different strlen than content maincontent!
+got date [6585]: 2010-03-25 00:00:00.000000 FROM: 2010-03-25T00:00:00
+December 15, 2009: Vaccines & Related Biological Products Advisory Committee Meeting Announcement : UCM190997
+Meta maincontent has different strlen than content maincontent!
+got date [6587]: 2009-12-15 00:00:00.000000 FROM: 2009-12-15T00:00:00
+January 12-13, 2010: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM191156
+Meta maincontent has different strlen than content maincontent!
+got date [6591]: 2010-01-12 00:00:00.000000 FROM: 2010-01-12T00:00:00
+December 16, 2009: Oncologic Drugs Advisory Committee Meeting Announcement : UCM191240
+Meta maincontent has different strlen than content maincontent!
+got date [6593]: 2009-12-16 00:00:00.000000 FROM: 2009-12-16T00:00:00
+December 17, 2009: Oncologic Drugs Advisory Committee Meeting Announcement : UCM191241
+Meta maincontent has different strlen than content maincontent!
+got date [6595]: 2009-12-17 00:00:00.000000 FROM: 2009-12-17T00:00:00
+December 11, 2009: Gastroenterology and Urology Devices Panel Meeting Announcement : UCM192308
+Meta maincontent has different strlen than content maincontent!
+got date [6597]: 2009-12-11 08:00:00.000000 FROM: 2009-12-11T08:00:00
+December 18, 2009: Ear, Nose, and Throat Devices Panel Meeting Announcement : UCM192311
+Meta maincontent has different strlen than content maincontent!
+got date [6599]: 2009-12-18 08:00:00.000000 FROM: 2009-12-18T08:00:00
+January 11, 2010: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM192659
+Meta maincontent has different strlen than content maincontent!
+got date [6601]: 2010-01-11 00:00:00.000000 FROM: 2010-01-11T00:00:00
+Meeting Cancelled - January 28, 2010: Anesthetic and Life Support Drugs Advisory Committee Meeting Announcement : UCM193292
+Meta maincontent has different strlen than content maincontent!
+got date [6603]: 2010-01-28 00:00:00.000000 FROM: 2010-01-28T00:00:00
+POSTPONED February 10, 2010: Oncologic Drugs Advisory Committee Meeting Announcement : UCM195221
+Meta maincontent has different strlen than content maincontent!
+got date [6605]: 2010-02-10 00:00:00.000000 FROM: 2010-02-10T00:00:00
+February 23, 2010: Gastrointestinal Drugs Advisory Committee Meeting Announcement : UCM195279
+Meta maincontent has different strlen than content maincontent!
+got date [6607]: 2010-02-23 00:00:00.000000 FROM: 2010-02-23T00:00:00
+February 25-26, 2010: Risk Communication Advisory Committee Meeting Announcement : UCM197002
+Meta maincontent has different strlen than content maincontent!
+got date [6609]: 2010-02-25 00:00:00.000000 FROM: 2010-02-25T00:00:00
+March 1, 2010: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM197014
+Meta maincontent has different strlen than content maincontent!
+got date [6611]: 2010-03-01 00:00:00.000000 FROM: 2010-03-01T00:00:00
+March 5, 2010: The General Hospital and Personal Use Devices Panel Meeting Notice : UCM197157
+got date [6613]: 2010-03-05 00:00:00.000000 FROM: 2010-03-05T00:00:00
+February 22, 2010: Meeting of the Vaccines and Related Biological Products Advisory Committee : UCM197723
+Meta maincontent has different strlen than content maincontent!
+got date [6615]: 2010-02-22 00:00:00.000000 FROM: 2010-02-22T00:00:00
+Meeting Cancelled - February 24, 2010: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM198208
+Meta maincontent has different strlen than content maincontent!
+got date [6619]: 2010-02-24 00:00:00.000000 FROM: 2010-02-24T00:00:00
+February 22, 2010: Science Board to the FDA Meeting Announcement : UCM198475
+got date [6621]: 2010-02-22 00:00:00.000000 FROM: 2010-02-22T00:00:00
+March 24, 2010: Veterinary Medicine Advisory Committee Meeting Announcement : UCM199151
+Meta maincontent has different strlen than content maincontent!
+got date [6623]: 2010-03-24 00:00:00.000000 FROM: 2010-03-24T00:00:00
+March 12, 2010: Neurological Devices Panel of the Medical Devices Meeting Announcement : UCM199499
+got date [6625]: 2010-03-12 00:00:00.000000 FROM: 2010-03-12T00:00:00
+March 10-11, 2010: Joint Meeting of the Pulmonary-Allergy Drugs Advisory Committee and Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM199871
+Meta maincontent has different strlen than content maincontent!
+got date [6627]: 2010-03-10 00:00:00.000000 FROM: 2010-03-10T00:00:00
+March 9, 2010: Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM200307
+Meta maincontent has different strlen than content maincontent!
+got date [6629]: 2010-03-09 00:00:00.000000 FROM: 2010-03-09T00:00:00
+March 18-19, 2010: Circulatory System Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM201132
+Meta maincontent has different strlen than content maincontent!
+got date [6631]: 2010-03-18 00:00:00.000000 FROM: 2010-03-18T00:00:00
+March 17, 2010: Pharmaceutical Science and Clinical Pharmacology Advisory Committee Meeting Announcement : UCM201691
+Meta maincontent has different strlen than content maincontent!
+got date [6633]: 2010-03-17 00:00:00.000000 FROM: 2010-03-17T00:00:00
+March 30-31:  Meeting of the Tobacco Products Scientific Advisory Committee Meeting Announcement : UCM202345
+Meta maincontent has different strlen than content maincontent!
+got date [6635]: 2010-03-30 00:00:00.000000 FROM: 2010-03-30T00:00:00
+March 23, 2010: Orthopaedic and Rehabilitation Devices Panel Meeting Announcement : UCM202629
+got date [6639]: 2010-03-23 00:00:00.000000 FROM: 2010-03-23T00:00:00
+March 22, 2010: Oncologic Drugs Advisory Committee Meeting Announcement : UCM202747
+Meta maincontent has different strlen than content maincontent!
+got date [6641]: 2010-03-22 00:00:00.000000 FROM: 2010-03-22T00:00:00
+April 7, 2010: Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM202852
+Meta maincontent has different strlen than content maincontent!
+got date [6643]: 2010-04-07 00:00:00.000000 FROM: 2010-04-07T00:00:00
+April 13, 2010: Pharmaceutical Science and Clinical Pharmacology Advisory Committee Meeting Announcement : UCM203405
+Meta maincontent has different strlen than content maincontent!
+got date [6645]: 2010-04-13 00:00:00.000000 FROM: 2010-04-13T00:00:00
+May 12, 2010: Joint Meeting of the Arthritis Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM203426
+Meta maincontent has different strlen than content maincontent!
+got date [6647]: 2010-05-12 00:00:00.000000 FROM: 2010-05-12T00:00:00
+April 14, 2010: Pharmaceutical Science and Clinical Pharmacology Advisory Committee Meeting Announcement : UCM204093
+Meta maincontent has different strlen than content maincontent!
+got date [6649]: 2010-04-14 00:00:00.000000 FROM: 2010-04-14T00:00:00
+May 6, 2010: Peripheral and Central Nervous System Drugs Advisory Committee Meeting Announcement : UCM204893
+Meta maincontent has different strlen than content maincontent!
+got date [6651]: 2010-05-06 00:00:00.000000 FROM: 2010-05-06T00:00:00
+April 12, 2010: Blood Products Advisory Committee Meeting Announcement : UCM205015
+Meta maincontent has different strlen than content maincontent!
+got date [6653]: 2010-04-12 00:00:00.000000 FROM: 2010-04-12T00:00:00
+April 22, 2010: Joint Meeting of the Anesthetic and Life Support Drugs and Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM205043
+Meta maincontent has different strlen than content maincontent!
+got date [6657]: 2010-04-22 00:00:00.000000 FROM: 2010-04-22T00:00:00
+May 27, 2010: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM205566
+Meta maincontent has different strlen than content maincontent!
+got date [6659]: 2010-05-27 00:00:00.000000 FROM: 2010-05-27T00:00:00
+April 30, 2010:  Voting and Nonvoting Consumer Representative Members on Public Advisory Committes and Panels : UCM206412
+Meta maincontent has different strlen than content maincontent!
+got date [6661]: 2010-04-30 00:00:00.000000 FROM: 2010-04-30T00:00:00
+June 2, 2010: Antiviral Drugs Advisory Committee Meeting Announcement : UCM206846
+Meta maincontent has different strlen than content maincontent!
+got date [6665]: 2010-06-02 00:00:00.000000 FROM: 2010-06-02T00:00:00
+June 10, 2010: Peripheral and Central Nervous System Drugs Advisory Committee Meeting Announcement : UCM207667
+Meta maincontent has different strlen than content maincontent!
+got date [6667]: 2010-06-10 00:00:00.000000 FROM: 2010-06-10T00:00:00
+May 7, 2010: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM207675
+Meta maincontent has different strlen than content maincontent!
+got date [6669]: 2010-05-07 00:00:00.000000 FROM: 2010-05-07T00:00:00
+April 29, 2010: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM208077
+Meta maincontent has different strlen than content maincontent!
+got date [6673]: 2010-04-29 00:00:00.000000 FROM: 2010-04-29T00:00:00
+May 6-7, 2010: Risk Communication Advisory Committee Meeting Announcement : UCM209105
+Meta maincontent has different strlen than content maincontent!
+got date [6675]: 2010-05-06 00:00:00.000000 FROM: 2010-05-06T00:00:00
+June 8-9, 2010 Meeting of the Tobacco Constituents Subcommittee of the Tobacco Products Scientific Advisory Committee Meeting Announcement : UCM209960
+Meta maincontent has different strlen than content maincontent!
+got date [6677]: 2010-06-08 00:00:00.000000 FROM: 2010-06-08T00:00:00
+June 17, 2010: Reproductive Health Drugs Advisory Committee Meeting Announcement : UCM210859
+Meta maincontent has different strlen than content maincontent!
+got date [6679]: 2010-06-17 00:00:00.000000 FROM: 2010-06-17T00:00:00
+June 18, 2010: Reproductive Health Drugs Advisory Committee Meeting Announcement : UCM210886
+Meta maincontent has different strlen than content maincontent!
+got date [6681]: 2010-06-18 00:00:00.000000 FROM: 2010-06-18T00:00:00
+September 14, 2010: Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM211003
+Meta maincontent has different strlen than content maincontent!
+got date [6683]: 2010-09-14 00:00:00.000000 FROM: 2010-09-14T00:00:00
+CANCELLED June 28, 2010: Dermatologic and Ophthalmic Drugs Advisory Committee Meeting Announcement : UCM211778
+Meta maincontent has different strlen than content maincontent!
+got date [6685]: 2010-06-28 00:00:00.000000 FROM: 2010-06-28T00:00:00
+June 21, 2010: Meeting of the Pediatric Advisory Committee Meeting Announcement : UCM211863
+Meta maincontent has different strlen than content maincontent!
+got date [6687]: 2010-06-21 00:00:00.000000 FROM: 2010-06-21T00:00:00
+July 15-16 Meeting of the Tobacco Products Scientific Advisory Committee Meeting Announcement : UCM212396
+Meta maincontent has different strlen than content maincontent!
+got date [6689]: 2010-07-15 00:00:00.000000 FROM: 2010-07-15T00:00:00
+July 20, 2010: Oncologic Drugs Advisory Committee Meeting Announcement : UCM213724
+Meta maincontent has different strlen than content maincontent!
+got date [6693]: 2010-07-20 00:00:00.000000 FROM: 2010-07-20T00:00:00
+July 28, 2010: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM214252
+Meta maincontent has different strlen than content maincontent!
+got date [6695]: 2010-07-28 00:00:00.000000 FROM: 2010-07-28T00:00:00
+July 13–14, 2010: Joint Meeting of the Endocrinologic and Metabolic Drugs Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM214612
+Meta maincontent has different strlen than content maincontent!
+got date [6697]: 2010-07-13 00:00:00.000000 FROM: 2010-07-13T00:00:00
+July 15, 2010:  Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM214795
+Meta maincontent has different strlen than content maincontent!
+got date [6699]: 2010-07-15 00:00:00.000000 FROM: 2010-07-15T00:00:00
+July 22–23, 2010: Joint Meeting of the Anesthetic and Life Support Drugs Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM214816
+Meta maincontent has different strlen than content maincontent!
+got date [6701]: 2010-07-22 00:00:00.000000 FROM: 2010-07-22T00:00:00
+July 7-8, 2010 Meeting of the Tobacco Product Constituents Subcommittee of TPSAC Meeting Announcement : UCM216343
+Meta maincontent has different strlen than content maincontent!
+got date [6703]: 2010-07-07 00:00:00.000000 FROM: 2010-07-07T00:00:00
+July 26-27, 2010: Meeting of the Blood Products Advisory Committee Announcement : UCM216470
+Meta maincontent has different strlen than content maincontent!
+got date [6705]: 2010-07-26 00:00:00.000000 FROM: 2010-07-26T00:00:00
+July 30, 2010: Ophthalmic Devices Panel Meeting Announcement : UCM216505
+got date [6709]: 2010-07-30 00:00:00.000000 FROM: 2010-07-30T00:00:00
+POSTPONED August 26, 2010: General and Plastic Surgery Devices Panel Meeting Announcement : UCM217067
+Meta maincontent has different strlen than content maincontent!
+got date [6711]: 2010-08-26 00:00:00.000000 FROM: 2010-08-26T00:00:00
+July 27, 2010: Orthopaedic and Rehabilitation Devices Panel Meeting Announcement : UCM217068
+got date [6713]: 2010-07-27 00:00:00.000000 FROM: 2010-07-27T00:00:00
+August 11, 2010: Peripheral and Central Nervous System Drugs Advisory Committee Meeting Announcement : UCM217264
+Meta maincontent has different strlen than content maincontent!
+got date [6715]: 2010-08-11 00:00:00.000000 FROM: 2010-08-11T00:00:00
+August 20, 2010: Joint Meeting of the Arthritis Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM217265
+Meta maincontent has different strlen than content maincontent!
+got date [6717]: 2010-08-20 00:00:00.000000 FROM: 2010-08-20T00:00:00
+July 29, 2010: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM217266
+Meta maincontent has different strlen than content maincontent!
+got date [6719]: 2010-07-29 00:00:00.000000 FROM: 2010-07-29T00:00:00
+July 27, 2010: Orthopaedic and Rehabilitation Devices Panel Meeting Notice : UCM217433
+got date [6721]: 2010-07-27 00:00:00.000000 FROM: 2010-07-27T00:00:00
+August 16, 2010: Science Board to the FDA Meeting Announcement : UCM217772
+Meta maincontent has different strlen than content maincontent!
+got date [6723]: 2010-08-16 00:00:00.000000 FROM: 2010-08-16T00:00:00
+September 7, 2010: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM218190
+Meta maincontent has different strlen than content maincontent!
+got date [6725]: 2010-09-07 00:00:00.000000 FROM: 2010-09-07T00:00:00
+August 19, 2010: Anesthetic and Life Support  Drugs Advisory Committee Meeting Announcement : UCM218307
+Meta maincontent has different strlen than content maincontent!
+got date [6727]: 2010-08-19 00:00:00.000000 FROM: 2010-08-19T00:00:00
+September 24, 2010: Radiological Devices Panel Meeting Announcement : UCM220430
+Meta maincontent has different strlen than content maincontent!
+got date [6729]: 2010-09-24 00:00:00.000000 FROM: 2010-09-24T00:00:00
+September 16, 2010: Psychopharmacologic Drugs Advisory Committee Meeting Announcement : UCM221386
+Meta maincontent has different strlen than content maincontent!
+got date [6731]: 2010-09-16 00:00:00.000000 FROM: 2010-09-16T00:00:00
+August 30 Meeting of the Tobacco Products Scientific Advisory Committee Meeting Announcement : UCM221528
+Meta maincontent has different strlen than content maincontent!
+got date [6733]: 2010-08-30 00:00:00.000000 FROM: 2010-08-30T00:00:00
+September 15-16, 2010: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM221719
+Meta maincontent has different strlen than content maincontent!
+got date [6735]: 2010-09-16 00:00:00.000000 FROM: 2010-09-16T00:00:00
+December 14-15, 2010: Dental Products Panel Meeting Announcement : UCM222793
+Meta maincontent has different strlen than content maincontent!
+got date [6737]: 2010-12-14 00:00:00.000000 FROM: 2010-12-14T00:00:00
+November 18, 2010: General and Plastic Surgery Devices Panel of the Medical Devices Advisory Committee Meeting Notice : UCM223189
+Meta maincontent has different strlen than content maincontent!
+got date [6739]: 2010-11-18 00:00:00.000000 FROM: 2010-11-18T00:00:00
+September 19-20, 2010: Veterinary Medicine Advisory Committee Meeting Announcement : UCM223823
+Meta maincontent has different strlen than content maincontent!
+got date [6741]: 2010-09-19 00:00:00.000000 FROM: 2010-09-19T00:00:00
+September 20, 2010: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM224194
+Meta maincontent has different strlen than content maincontent!
+got date [6743]: 2010-09-20 00:00:00.000000 FROM: 2010-09-20T00:00:00
+September 27, 2010:  Meeting of the Menthol Report Subcommittee of TPSAC : UCM224863
+Meta maincontent has different strlen than content maincontent!
+got date [6745]: 2010-09-03 00:00:00.000000 FROM: 2010-09-03T00:00:00
+October 8, 2010: Neurological Devices Panel of the Medical Devices Advisory Committee Meeting Notice : UCM225691
+got date [6747]: 2010-10-08 00:00:00.000000 FROM: 2010-10-08T00:00:00
+October 28-29, 2010: Transmissible Spongiform Encephalopathies Advisory Committee Meeting Announcement : UCM225791
+Meta maincontent has different strlen than content maincontent!
+got date [6749]: 2010-10-28 00:00:00.000000 FROM: 2010-10-28T00:00:00
+September 21, 2010 Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM225836
+Meta maincontent has different strlen than content maincontent!
+got date [6753]: 2010-09-21 00:00:00.000000 FROM: 2010-09-21T00:00:00
+November 3, 2010: Joint Meeting of the Peripheral and Central Nervous System Drugs Advisory Committee and Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM225864
+Meta maincontent has different strlen than content maincontent!
+got date [6757]: 2010-11-03 00:00:00.000000 FROM: 2010-11-03T00:00:00
+November 16, 2010: Arthritis Advisory Committee Meeting Announcement : UCM226091
+Meta maincontent has different strlen than content maincontent!
+got date [6759]: 2010-11-16 00:00:00.000000 FROM: 2010-11-16T00:00:00
+November 8-9, 2010: Risk Communication Advisory Committee Meeting Announcement : UCM226268
+Meta maincontent has different strlen than content maincontent!
+got date [6761]: 2010-11-08 00:00:00.000000 FROM: 2010-11-08T00:00:00
+October 7-8, 2010: Tobacco Products Scientific Advisory Committee : UCM226450
+Meta maincontent has different strlen than content maincontent!
+got date [6763]: 2010-09-20 00:00:00.000000 FROM: 2010-09-20T00:00:00
+October 18, 2010: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM226531
+Meta maincontent has different strlen than content maincontent!
+got date [6765]: 2010-10-18 00:00:00.000000 FROM: 2010-10-18T00:00:00
+October 7-8 2010: Meeting of the Tobacco Products Scientific Advisory Committee : UCM226969
+Meta maincontent has different strlen than content maincontent!
+got date [6767]: 2010-10-07 00:00:00.000000 FROM: 2010-10-07T00:00:00
+December 2-3, 2010: Gastroenterology and Urology Devices Panel Meeting Announcement : UCM226970
+Meta maincontent has different strlen than content maincontent!
+got date [6769]: 2010-12-02 00:00:00.000000 FROM: 2010-12-02T00:00:00
+October 19-20, 2010:  Science Advisory Board to National Center for Toxicological Research (NCTR) Meeting Announcement : UCM227275
+Meta maincontent has different strlen than content maincontent!
+got date [6771]: 2010-10-01 00:00:00.000000 FROM: 2010-10-01T00:00:00
+October 21-22, 2010: Joint Meeting of the Anesthetic and Life Support Drugs Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM227383
+Meta maincontent has different strlen than content maincontent!
+got date [6775]: 2010-10-21 00:00:00.000000 FROM: 2010-10-21T00:00:00
+November 16-17, 2010: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM227940
+Meta maincontent has different strlen than content maincontent!
+got date [6777]: 2010-11-16 00:00:00.000000 FROM: 2010-11-16T00:00:00
+November 5, 2010: Gastrointestinal Drugs Advisory Committee Meeting Announcement : UCM227991
+Meta maincontent has different strlen than content maincontent!
+got date [6781]: 2010-11-05 00:00:00.000000 FROM: 2010-11-05T00:00:00
+November 4, 2010: Gastrointestinal Drugs Advisory Committee Meeting Announcement : UCM228450
+Meta maincontent has different strlen than content maincontent!
+got date [6783]: 2010-11-04 00:00:00.000000 FROM: 2010-11-04T00:00:00
+December 7, 2010: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM230339
+Meta maincontent has different strlen than content maincontent!
+got date [6785]: 2010-12-07 00:00:00.000000 FROM: 2010-12-07T00:00:00
+December 2, 2010: Oncologic Drugs Advisory Committee Meeting Announcement : UCM230348
+Meta maincontent has different strlen than content maincontent!
+got date [6787]: 2010-12-02 00:00:00.000000 FROM: 2010-12-02T00:00:00
+December 14, 2010: Cellular, Tissue and Gene Therapies Advisory Committee Meeting Announcement : UCM230550
+Meta maincontent has different strlen than content maincontent!
+got date [6791]: 2010-12-10 00:00:00.000000 FROM: 2010-12-10T00:00:00
+December 1, 2010: Oncologic Drugs Advisory Committee Meeting Announcement : UCM230653
+Meta maincontent has different strlen than content maincontent!
+got date [6795]: 2010-12-01 00:00:00.000000 FROM: 2010-12-01T00:00:00
+November 19, 2010: Cellular, Tissue and Gene Therapies Advisory Committee Meeting Announcement : UCM231070
+Meta maincontent has different strlen than content maincontent!
+got date [6797]: 2010-11-19 00:00:00.000000 FROM: 2010-11-19T00:00:00
+November 15, 2010: Science Board to the FDA Meeting Announcement : UCM231156
+Meta maincontent has different strlen than content maincontent!
+got date [6801]: 2010-11-15 00:00:00.000000 FROM: 2010-11-15T00:00:00
+December 6, 2010: Pediatric Advisory Committee Meeting Announcement : UCM231418
+Meta maincontent has different strlen than content maincontent!
+got date [6803]: 2010-12-06 00:00:00.000000 FROM: 2010-12-06T00:00:00
+November 18, 2010: Tobacco Products Scientific Advisory Committee : UCM231693
+Meta maincontent has different strlen than content maincontent!
+got date [6805]: 2010-11-18 00:00:00.000000 FROM: 2010-11-18T00:00:00
+December 7, 2010: Pediatric Advisory Committee Meeting Announcement : UCM232153
+Meta maincontent has different strlen than content maincontent!
+got date [6807]: 2010-12-07 00:00:00.000000 FROM: 2010-12-07T00:00:00
+November 30, 2010: Meeting of the Pediatric Oncology Subcommittee of the Oncologic Drugs Advisory Committee Meeting Announcement : UCM232482
+Meta maincontent has different strlen than content maincontent!
+got date [6809]: 2010-11-30 00:00:00.000000 FROM: 2010-11-30T00:00:00
+December 2, 2010: Joint Meeting of the Anesthetic and Life Support Drugs Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement - CANCELLED : UCM233301
+Meta maincontent has different strlen than content maincontent!
+got date [6811]: 2010-12-02 00:00:00.000000 FROM: 2010-12-02T00:00:00
+December 14-15, 2010: Blood Products Advisory Committee Meeting Announcement : UCM234871
+Meta maincontent has different strlen than content maincontent!
+got date [6813]: 2010-12-14 00:00:00.000000 FROM: 2010-12-14T00:00:00
+January 27-28, 2011, Neurological Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM234979
+Meta maincontent has different strlen than content maincontent!
+got date [6817]: 2011-01-27 00:00:00.000000 FROM: 2011-01-27T00:00:00
+December 8, 2010: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM235222
+Meta maincontent has different strlen than content maincontent!
+got date [6819]: 2010-12-08 00:00:00.000000 FROM: 2010-12-08T00:00:00
+January 12, 2011: Gastrointestinal Drugs Advisory Committee Meeting Announcement : UCM235513
+Meta maincontent has different strlen than content maincontent!
+got date [6821]: 2011-01-12 00:00:00.000000 FROM: 2011-01-12T00:00:00
+February 9, 2011: Oncologic Drugs Advisory Committee Meeting Announcement - CANCELLED : UCM235827
+Meta maincontent has different strlen than content maincontent!
+got date [6823]: 2011-02-09 00:00:00.000000 FROM: 2011-02-09T00:00:00
+January 20-21, 2011: Peripheral and Central Nervous System Drugs Advisory Committee Meeting Announcement : UCM235846
+Meta maincontent has different strlen than content maincontent!
+got date [6825]: 2011-01-20 00:00:00.000000 FROM: 2011-01-20T00:00:00
+January 10-11, 2011: Tobacco Products Scientific Advisory Committee Meeting Announcement : UCM237358
+Meta maincontent has different strlen than content maincontent!
+got date [6827]: 2011-01-10 00:00:00.000000 FROM: 2011-01-10T00:00:00
+March 8, 2011:  Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM238266
+Meta maincontent has different strlen than content maincontent!
+got date [6829]: 2011-03-08 00:00:00.000000 FROM: 2011-03-08T00:00:00
+March 10, 2011: Anesthetic and Life Support Drugs Advisory Committee Meeting Announcement : UCM238440
+Meta maincontent has different strlen than content maincontent!
+got date [6831]: 2011-03-10 00:00:00.000000 FROM: 2011-03-10T00:00:00
+January 25-26, 2011: Circulatory Devices Panel Meeting Announcement : UCM238441
+Meta maincontent has different strlen than content maincontent!
+got date [6835]: 2011-01-25 00:00:00.000000 FROM: 2011-01-25T00:00:00
+February 8, 2011: Oncologic Drugs Advisory Committee Meeting Announcement : UCM239360
+Meta maincontent has different strlen than content maincontent!
+got date [6837]: 2011-02-08 00:00:00.000000 FROM: 2011-02-08T00:00:00
+February 10, 2011: Tobacco Products Scientific Advisory Committee Meeting Announcement : UCM240112
+Meta maincontent has different strlen than content maincontent!
+got date [6839]: 2011-02-10 00:00:00.000000 FROM: 2011-02-10T00:00:00
+February 11, 2011: TPSAC Menthol Report Subcommittee Meeting Announcement : UCM240119
+Meta maincontent has different strlen than content maincontent!
+got date [6841]: 2011-02-11 00:00:00.000000 FROM: 2011-02-11T00:00:00
+March 2, 2011: Pharmaceutical Science and Clinical Pharmacology Advisory Committee Meeting Announcement : UCM240582
+Meta maincontent has different strlen than content maincontent!
+got date [6843]: 2011-03-02 00:00:00.000000 FROM: 2011-03-02T00:00:00
+March 10, 2011: Peripheral and Central Nervous System Drugs Advisory Committee Meeting Announcement : UCM240663
+Meta maincontent has different strlen than content maincontent!
+got date [6845]: 2011-03-10 00:00:00.000000 FROM: 2011-03-10T00:00:00
+March 2, 2011: Tobacco Products Scientific Advisory Committee Meeting Announcement : UCM241121
+Meta maincontent has different strlen than content maincontent!
+got date [6847]: 2011-03-02 00:00:00.000000 FROM: 2011-03-02T00:00:00
+February 25, 2011: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM241553
+Meta maincontent has different strlen than content maincontent!
+got date [6849]: 2011-02-25 00:00:00.000000 FROM: 2011-02-25T00:00:00
+April 5, 2011 Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM242297
+Meta maincontent has different strlen than content maincontent!
+got date [6853]: 2011-04-05 00:00:00.000000 FROM: 2011-04-05T00:00:00
+March 17-18, 2011, Neurological Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM242408
+Meta maincontent has different strlen than content maincontent!
+got date [6855]: 2011-03-17 00:00:00.000000 FROM: 2011-03-17T00:00:00
+March 8-9, 2011: Molecular and Clinical Genetics Meeting Announcement : UCM242537
+Meta maincontent has different strlen than content maincontent!
+got date [6857]: 2011-03-08 00:00:00.000000 FROM: 2011-03-08T00:00:00
+March 17-18, 2011 - Tobacco Products Scientific Advisory Committee Meeting Announcement : UCM244721
+Meta maincontent has different strlen than content maincontent!
+got date [6859]: 2011-03-17 00:00:00.000000 FROM: 2011-03-17T00:00:00
+April 12, 2011: Oncologic Drugs Advisory Committee Meeting Announcement : UCM245277
+Meta maincontent has different strlen than content maincontent!
+got date [6861]: 2011-04-12 00:00:00.000000 FROM: 2011-04-12T00:00:00
+March 17-18, 2011: Neurological Devices Panel of the Medical Devices Advisory Committee; Amendment of Notice : UCM246359
+Meta maincontent has different strlen than content maincontent!
+got date [6863]: 2011-03-17 00:00:00.000000 FROM: 2011-03-17T00:00:00
+May 17-18, 2011: Joint Meeting of the Nonprescription Drugs Advisory Committee and the Pediatric Advisory Committee Meeting Announcement : UCM246426
+Meta maincontent has different strlen than content maincontent!
+got date [6865]: 2011-05-18 00:00:00.000000 FROM: 2011-05-18T00:00:00
+April 6-7, 2011: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM246719
+Meta maincontent has different strlen than content maincontent!
+got date [6867]: 2011-04-06 00:00:00.000000 FROM: 2011-04-06T00:00:00
+May 12, 2011: Allergenic Products Advisory Committee Meeting Announcement : UCM247210
+Meta maincontent has different strlen than content maincontent!
+got date [6871]: 2011-05-12 00:00:00.000000 FROM: 2011-05-12T00:00:00
+April 27, 2011: Antiviral Drugs Advisory Committee Meeting Announcement : UCM247228
+Meta maincontent has different strlen than content maincontent!
+got date [6875]: 2011-04-27 00:00:00.000000 FROM: 2011-04-27T00:00:00
+April 28, 2011: Antiviral Drugs Advisory Committee Meeting Announcement : UCM247242
+Meta maincontent has different strlen than content maincontent!
+got date [6877]: 2011-04-28 00:00:00.000000 FROM: 2011-04-28T00:00:00
+April 27, 2011: General and Plastic Surgery Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM247314
+Meta maincontent has different strlen than content maincontent!
+got date [6879]: 2011-04-27 00:00:00.000000 FROM: 2011-04-27T00:00:00
+June 29, 2011: Microbiology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM247315
+Meta maincontent has different strlen than content maincontent!
+got date [6881]: 2011-06-29 00:00:00.000000 FROM: 2011-06-29T00:00:00
+April 28-29, 2011: Blood Products Advisory Committee Meeting Announcement : UCM247661
+Meta maincontent has different strlen than content maincontent!
+got date [6883]: 2011-04-28 00:00:00.000000 FROM: 2011-04-28T00:00:00
+May 5, 2011: Risk Communication Advisory Committee Meeting Announcement : UCM248267
+Meta maincontent has different strlen than content maincontent!
+got date [6887]: 2011-05-05 00:00:00.000000 FROM: 2011-05-05T00:00:00
+May 12, 2011: Orthopaedic and Rehabilitation Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM248583
+Meta maincontent has different strlen than content maincontent!
+got date [6889]: 2011-05-12 00:00:00.000000 FROM: 2011-05-12T00:00:00
+May 31, 2011: Cellular, Tissue and Gene Therapies Advisory Committee Meeting Announcement : UCM249844
+Meta maincontent has different strlen than content maincontent!
+got date [6891]: 2011-05-31 00:00:00.000000 FROM: 2011-05-31T00:00:00
+May 2, 2011: Joint Meeting of the Cardiovascular and Renal Drugs Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM250268
+Meta maincontent has different strlen than content maincontent!
+got date [6895]: 2011-05-02 00:00:00.000000 FROM: 2011-05-02T00:00:00
+May 11, 2011: Pediatric Ethics Subcommittee of the Pediatric Advisory Committee Meeting Announcement : UCM251844
+Meta maincontent has different strlen than content maincontent!
+got date [6897]: 2011-05-11 00:00:00.000000 FROM: 2011-05-11T00:00:00
+May 16, 2011: Pediatric Advisory Committee Meeting Announcement : UCM251846
+Meta maincontent has different strlen than content maincontent!
+got date [6899]: 2011-05-16 00:00:00.000000 FROM: 2011-05-16T00:00:00
+June 29, 2011: Cellular, Tissue and Gene Therapies Advisory Committee Meeting Announcement : UCM251963
+Meta maincontent has different strlen than content maincontent!
+got date [6901]: 2011-06-29 00:00:00.000000 FROM: 2011-06-29T00:00:00
+May 19, 2011: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM252887
+Meta maincontent has different strlen than content maincontent!
+got date [6905]: 2011-05-19 00:00:00.000000 FROM: 2011-05-19T00:00:00
+May 20, 2011: Science Board to the FDA Meeting Announcement : UCM255387
+Meta maincontent has different strlen than content maincontent!
+got date [6909]: 2011-05-20 00:00:00.000000 FROM: 2011-05-20T00:00:00
+June 21, 2011: Arthritis Advisory Committee Meeting Announcement : UCM256278
+Meta maincontent has different strlen than content maincontent!
+got date [6911]: 2011-06-21 00:00:00.000000 FROM: 2011-06-21T00:00:00
+June 23, 2011: Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM256401
+Meta maincontent has different strlen than content maincontent!
+got date [6913]: 2011-06-23 00:00:00.000000 FROM: 2011-06-23T00:00:00
+June 17, 2011: Dermatologic and Ophthalmic Drugs Advisory Committee Meeting Announcement : UCM256594
+Meta maincontent has different strlen than content maincontent!
+got date [6915]: 2011-06-17 00:00:00.000000 FROM: 2011-06-17T00:00:00
+July 21-22, 2011: Tobacco Products Scientific Advisory Committee Meeting Announcement : UCM257684
+Meta maincontent has different strlen than content maincontent!
+got date [6917]: 2011-07-21 09:00:00.000000 FROM: 2011-07-21T09:00:00
+July 21, 2011: Gastrointestinal Drugs Advisory Committee Meeting Announcement : UCM257791
+Meta maincontent has different strlen than content maincontent!
+got date [6919]: 2011-07-21 00:00:00.000000 FROM: 2011-07-21T00:00:00
+July 19, 2011: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM258559
+Meta maincontent has different strlen than content maincontent!
+got date [6921]: 2011-07-19 00:00:00.000000 FROM: 2011-07-19T00:00:00
+July 14, 2011: Oncologic Drugs Advisory Committee Meeting Announcement : UCM259804
+Meta maincontent has different strlen than content maincontent!
+got date [6923]: 2011-07-14 00:00:00.000000 FROM: 2011-07-14T00:00:00
+July 20-21, 2011: Circulatory System Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM259846
+Meta maincontent has different strlen than content maincontent!
+got date [6925]: 2011-07-20 00:00:00.000000 FROM: 2011-07-20T00:00:00
+July 20, 2011: Joint Meeting of the Gastrointestinal Drugs Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM260716
+Meta maincontent has different strlen than content maincontent!
+got date [6927]: 2011-07-20 00:00:00.000000 FROM: 2011-07-20T00:00:00
+August 1, 2011: Transmissible Spongiform Encephalopathies Advisory Committee Meeting Announcement : UCM261240
+Meta maincontent has different strlen than content maincontent!
+got date [6929]: 2011-08-01 00:00:00.000000 FROM: 2011-08-01T00:00:00
+July 27, 2011: Pharmaceutical Science and Clinical Pharmacology Advisory Committee Meeting Announcement : UCM261310
+Meta maincontent has different strlen than content maincontent!
+got date [6933]: 2011-07-27 00:00:00.000000 FROM: 2011-07-27T00:00:00
+August 30-31, 2011: General and Plastic Surgery Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM261743
+Meta maincontent has different strlen than content maincontent!
+got date [6935]: 2011-08-30 00:00:00.000000 FROM: 2011-08-30T00:00:00
+July 26, 2011: Pharmaceutical Science and Clinical Pharmacology Advisory Committee Meeting Announcement : UCM261780
+Meta maincontent has different strlen than content maincontent!
+got date [6937]: 2011-07-26 00:00:00.000000 FROM: 2011-07-26T00:00:00
+August 2-3, 2011: Blood Products Advisory Committee Meeting Announcement : UCM261894
+Meta maincontent has different strlen than content maincontent!
+got date [6939]: 2011-08-02 00:00:00.000000 FROM: 2011-08-02T00:00:00
+September 8, 2011: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM261963
+Meta maincontent has different strlen than content maincontent!
+got date [6943]: 2011-09-08 00:00:00.000000 FROM: 2011-09-08T00:00:00
+September 9, 2011: Joint Meeting of the Reproductive Health Drugs Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM262477
+Meta maincontent has different strlen than content maincontent!
+got date [6945]: 2011-09-09 00:00:00.000000 FROM: 2011-09-09T00:00:00
+September 8-9, 2011: Obstetrics and Gynecology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM262495
+Meta maincontent has different strlen than content maincontent!
+got date [6947]: 2011-09-08 00:00:00.000000 FROM: 2011-09-08T00:00:00
+August 30-31, 2011: General and Plastic Surgery Devices Panel of the Medical Devices Advisory Committee; Amendment of Notice : UCM262945
+Meta maincontent has different strlen than content maincontent!
+got date [6949]: 2011-08-30 00:00:00.000000 FROM: 2011-08-30T00:00:00
+POSTPONED September 13, 2011: Arthritis Advisory Committee Meeting Announcement : UCM263496
+Meta maincontent has different strlen than content maincontent!
+got date [6951]: 2011-09-13 00:00:00.000000 FROM: 2011-09-13T00:00:00
+August 19, 2011: Science Board to the FDA Meeting Announcement : UCM263787
+Meta maincontent has different strlen than content maincontent!
+got date [6953]: 2011-08-19 00:00:00.000000 FROM: 2011-08-19T00:00:00
+August 15-16, 2011: Risk Communication Advisory Committee Announcement : UCM264145
+Meta maincontent has different strlen than content maincontent!
+got date [6955]: 2011-08-15 00:00:00.000000 FROM: 2011-08-15T00:00:00
+September 14, 2011: Oncologic Drugs Advisory Committee Meeting Announcement : UCM265462
+Meta maincontent has different strlen than content maincontent!
+got date [6957]: 2011-09-14 00:00:00.000000 FROM: 2011-09-14T00:00:00
+NEW START TIME: October 17, 2011: Peripheral and Central Nervous System Drugs Advisory Committee Meeting Announcement : UCM265704
+Meta maincontent has different strlen than content maincontent!
+got date [6959]: 2011-10-17 00:00:00.000000 FROM: 2011-10-17T00:00:00
+October 14, 2011: Immunology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM266995
+Meta maincontent has different strlen than content maincontent!
+got date [6961]: 2011-10-14 00:00:00.000000 FROM: 2011-10-14T00:00:00
+September 22-23, 2011: Cellular, Tissue and Gene Therapies Advisory Committee Meeting Announcement : UCM267714
+Meta maincontent has different strlen than content maincontent!
+got date [6963]: 2011-09-22 00:00:00.000000 FROM: 2011-09-22T00:00:00
+September 8-9, 2011: Obstetrics and Gynecology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement; Amendment of Notice : UCM267790
+Meta maincontent has different strlen than content maincontent!
+got date [6967]: 2011-09-08 00:01:00.000000 FROM: 2011-09-08T00:01:00
+September 20, 2011: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM269135
+Meta maincontent has different strlen than content maincontent!
+got date [6969]: 2011-09-20 00:00:00.000000 FROM: 2011-09-20T00:00:00
+September 22-23, 2011: Pediatric Advisory Committee Meeting Announcement : UCM269809
+Meta maincontent has different strlen than content maincontent!
+got date [6973]: 2011-09-22 00:00:00.000000 FROM: 2011-09-22T00:00:00
+October 14, 2011: Immunology Devices Panel of the Medical Devices Advisory Committee;  NOTICE OF POSTPONEMENT OF MEETING : UCM270560
+Meta maincontent has different strlen than content maincontent!
+got date [6975]: 2011-10-14 00:01:00.000000 FROM: 2011-10-14T00:01:00
+October 13, 2011: Circulatory System Devices Panel of the Medical Devices Advisory Committee; Notice of Meeting : UCM271004
+Meta maincontent has different strlen than content maincontent!
+got date [6977]: 2011-10-13 00:00:00.000000 FROM: 2011-10-13T00:00:00
+November 16, 2011: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM271049
+Meta maincontent has different strlen than content maincontent!
+got date [6979]: 2011-11-16 00:00:00.000000 FROM: 2011-11-16T00:00:00
+November 2, 2011: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM271163
+Meta maincontent has different strlen than content maincontent!
+got date [6983]: 2011-11-02 00:00:00.000000 FROM: 2011-11-02T00:00:00
+October 26-27, 2011: Circulatory System Devices Panel of the Medical Devices Advisory Committee; Notice of Meeting : UCM271786
+Meta maincontent has different strlen than content maincontent!
+got date [6985]: 2011-10-26 00:00:00.000000 FROM: 2011-10-26T00:00:00
+November 2-3, 2011: Tobacco Products Scientific Advisory Committee Meeting Announcement - POSTPONED : UCM272789
+Meta maincontent has different strlen than content maincontent!
+got date [6987]: 2011-11-02 00:00:00.000000 FROM: 2011-11-02T00:00:00
+November 17-18, 2011: Risk Communication Advisory Committee Meeting Announcement : UCM272880
+Meta maincontent has different strlen than content maincontent!
+got date [6989]: 2011-11-17 00:00:00.000000 FROM: 2011-11-17T00:00:00
+October 25, 2011: Allergenic Products Advisory Committee Meeting Announcement : UCM273065
+Meta maincontent has different strlen than content maincontent!
+got date [6991]: 2011-10-25 00:00:00.000000 FROM: 2011-10-25T00:00:00
+December 8, 2011: Joint Meeting of the Reproductive Health Drugs Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM273236
+Meta maincontent has different strlen than content maincontent!
+got date [6995]: 2011-12-08 00:00:00.000000 FROM: 2011-12-08T00:00:00
+December 9, 2011: Joint Meeting of the Reproductive Health Drugs Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM273238
+Meta maincontent has different strlen than content maincontent!
+got date [6997]: 2011-12-09 00:00:00.000000 FROM: 2011-12-09T00:00:00
+November 3, 2011 Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM273354
+Meta maincontent has different strlen than content maincontent!
+got date [6999]: 2011-11-03 00:00:00.000000 FROM: 2011-11-03T00:00:00
+November 4, 2011 Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM273363
+Meta maincontent has different strlen than content maincontent!
+got date [7001]: 2011-11-04 00:00:00.000000 FROM: 2011-11-04T00:00:00
+November 16, 2011: Gastrointestinal Drugs Advisory Committee Meeting Announcement : UCM273371
+Meta maincontent has different strlen than content maincontent!
+got date [7003]: 2011-11-16 00:00:00.000000 FROM: 2011-11-16T00:00:00
+November 17, 2011: Gastrointestinal Drugs Advisory Committee Meeting Announcement : UCM273380
+Meta maincontent has different strlen than content maincontent!
+got date [7005]: 2011-11-17 00:00:00.000000 FROM: 2011-11-17T00:00:00
+November 4, 2011: National Mammography Quality Assurance Advisory Committee Meeting Announcement : UCM273634
+Meta maincontent has different strlen than content maincontent!
+got date [7007]: 2011-11-04 00:00:00.000000 FROM: 2011-11-04T00:00:00
+November 2, 2011: Pediatric Oncology Subcommittee of the Oncologic Drugs Advisory Committee Meeting Announcement : UCM274396
+Meta maincontent has different strlen than content maincontent!
+got date [7009]: 2011-11-02 00:00:00.000000 FROM: 2011-11-02T00:00:00
+November 1, 2011: Pediatric Oncology Subcommittee of the Oncologic Drugs Advisory Committee Meeting Announcement : UCM274682
+Meta maincontent has different strlen than content maincontent!
+got date [7011]: 2011-11-01 00:00:00.000000 FROM: 2011-11-01T00:00:00
+NEW OPEN PUBLIC HEARING SESSION START TIME: December 14-15, 2011: Antiviral Drugs Advisory Committee Meeting Announcement : UCM274968
+Meta maincontent has different strlen than content maincontent!
+got date [7013]: 2011-12-14 00:00:00.000000 FROM: 2011-12-14T00:00:00
+December 7-8, 2011: Circulatory System Devices Panel of the Medical Devices Advisory Committee : UCM275774
+Meta maincontent has different strlen than content maincontent!
+got date [7015]: 2011-12-07 00:00:00.000000 FROM: 2011-12-07T00:00:00
+December 1, 2011: Joint Meeting of the Drug Safety and Risk Management Advisory Committee and the Dermatologic and Ophthalmic Drugs Advisory Committee Meeting Announcement : UCM275806
+Meta maincontent has different strlen than content maincontent!
+got date [7017]: 2011-12-01 00:00:00.000000 FROM: 2011-12-01T00:00:00
+December 1, 2011: General and Plastic Surgery Devices Panel of the Medical Devices  Advisory Committee; Notice of Meeting : UCM276174
+Meta maincontent has different strlen than content maincontent!
+got date [7019]: 2011-12-01 00:00:00.000000 FROM: 2011-12-01T00:00:00
+November 17, 2011: Cellular, Tissue and Gene Therapies Advisory Committee Meeting Announcement : UCM276218
+Meta maincontent has different strlen than content maincontent!
+got date [7021]: 2011-11-17 00:00:00.000000 FROM: 2011-11-17T00:00:00
+December 1, 2011: General and Plastic Surgery Devices Panel of the Medical Devices Advisory Committee; NOTICE OF POSTPONEMENT OF MEETING : UCM276254
+Meta maincontent has different strlen than content maincontent!
+got date [7025]: 2011-12-01 00:01:00.000000 FROM: 2011-12-01T00:01:00
+NEW OPEN PUBLIC HEARING SESSION START TIME: December 7, 2011: Oncologic Drugs Advisory Committee Meeting Announcement : UCM276936
+Meta maincontent has different strlen than content maincontent!
+got date [7027]: 2011-12-07 00:00:00.000000 FROM: 2011-12-07T00:00:00
+December 12, 2011: Psychopharmacologic Drugs Advisory Committee Meeting Announcement : UCM277069
+Meta maincontent has different strlen than content maincontent!
+got date [7029]: 2011-12-12 00:00:00.000000 FROM: 2011-12-12T00:00:00
+November 8-9, 2011:  Science Advisory Board to the National Center for Toxicological Research Meeting Announcement : UCM278304
+Meta maincontent has different strlen than content maincontent!
+got date [7031]: 2011-11-02 00:00:00.000000 FROM: 2011-11-02T00:00:00
+January 20, 2012: Reproductive Health Drugs Advisory Committee Meeting Announcement : UCM279859
+Meta maincontent has different strlen than content maincontent!
+got date [7033]: 2012-01-20 00:00:00.000000 FROM: 2012-01-20T00:00:00
+February 10, 2012: Neurological Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM279941
+Meta maincontent has different strlen than content maincontent!
+got date [7035]: 2012-02-10 00:00:00.000000 FROM: 2012-02-10T00:00:00
+January 11, 2012: Gastroenterology and Urology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM280285
+Meta maincontent has different strlen than content maincontent!
+got date [7039]: 2012-01-11 00:00:00.000000 FROM: 2012-01-11T00:00:00
+February 27, 2012: Dermatologic and Ophthalmic Drugs Advisory Committee Meeting Announcement : UCM280521
+Meta maincontent has different strlen than content maincontent!
+got date [7043]: 2012-02-27 00:00:00.000000 FROM: 2012-02-27T00:00:00
+December 14, 2011: Medical Devices Dispute Resolution Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM280728
+Meta maincontent has different strlen than content maincontent!
+got date [7045]: 2011-12-14 00:00:00.000000 FROM: 2011-12-14T00:00:00
+January 18-20, 2012 - Tobacco Products Scientific Advisory Committee Meeting Announcement : UCM281310
+Meta maincontent has different strlen than content maincontent!
+got date [7047]: 2012-01-18 00:00:00.000000 FROM: 2012-01-18T00:00:00
+December 14, 2011: Medical Devices Dispute Resolution Panel of the Medical Devices Advisory Committee; Notice of Cancellation of Meeting : UCM282275
+Meta maincontent has different strlen than content maincontent!
+got date [7049]: 2011-12-14 00:01:00.000000 FROM: 2011-12-14T00:01:00
+January 6, 2012: Science Board to the FDA Meeting Announcement : UCM282901
+Meta maincontent has different strlen than content maincontent!
+got date [7051]: 2012-01-06 00:00:00.000000 FROM: 2012-01-06T00:00:00
+February 9, 2012 Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee Meeting Announcement : UCM283966
+Meta maincontent has different strlen than content maincontent!
+got date [7053]: 2012-02-09 00:00:00.000000 FROM: 2012-02-09T00:00:00
+January 30-31, 2012: Pediatric Advisory Committee Meeting Announcement : UCM284228
+Meta maincontent has different strlen than content maincontent!
+got date [7055]: 2012-01-30 00:00:00.000000 FROM: 2012-01-30T00:00:00
+February 10, 2012: Cellular, Tissue and Gene Therapies Advisory Committee Meeting Announcement : UCM285131
+Meta maincontent has different strlen than content maincontent!
+got date [7057]: 2012-02-10 00:00:00.000000 FROM: 2012-02-10T00:00:00
+February 22, 2012: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM285136
+Meta maincontent has different strlen than content maincontent!
+got date [7061]: 2012-02-22 00:00:00.000000 FROM: 2012-02-22T00:00:00
+February 8, 2012: Oncologic Drugs Advisory Committee Meeting Announcement : UCM285399
+Meta maincontent has different strlen than content maincontent!
+got date [7063]: 2012-02-08 00:00:00.000000 FROM: 2012-02-08T00:00:00
+CANCELLED AFTERNOON SESSION; MORNING SESSION TO TAKE PLACE AS PREVIOUSLY ANNOUNCED. February 9, 2012: Oncologic Drugs Advisory Committee Meeting Announcement : UCM285406
+Meta maincontent has different strlen than content maincontent!
+got date [7065]: 2012-02-09 00:00:00.000000 FROM: 2012-02-09T00:00:00
+February 23, 2012: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM285414
+Meta maincontent has different strlen than content maincontent!
+got date [7067]: 2012-02-23 00:00:00.000000 FROM: 2012-02-23T00:00:00
+March 12, 2012: Arthritis Advisory Committee Meeting Announcement : UCM286556
+Meta maincontent has different strlen than content maincontent!
+got date [7069]: 2012-03-12 00:00:00.000000 FROM: 2012-03-12T00:00:00
+March 14, 2012: Pharmaceutical Science and Clinical Pharmacology Advisory Committee Meeting Announcement : UCM286681
+Meta maincontent has different strlen than content maincontent!
+got date [7071]: 2012-03-14 00:00:00.000000 FROM: 2012-03-14T00:00:00
+February 28-29, 2012: Vaccines and Related Biological Products Advisory Committee Meeting: Announcement : UCM289351
+Meta maincontent has different strlen than content maincontent!
+got date [7073]: 2012-02-28 00:00:00.000000 FROM: 2012-02-28T00:00:00
+February 23, 2012: Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM289559
+Meta maincontent has different strlen than content maincontent!
+got date [7077]: 2012-02-23 00:00:00.000000 FROM: 2012-02-23T00:00:00
+March 20, 2012: Oncologic Drugs Advisory Committee Meeting Announcement : UCM290490
+Meta maincontent has different strlen than content maincontent!
+got date [7079]: 2012-03-20 00:00:00.000000 FROM: 2012-03-20T00:00:00
+March 21, 2012: Oncologic Drugs Advisory Committee Meeting Announcement : UCM290531
+Meta maincontent has different strlen than content maincontent!
+got date [7081]: 2012-03-21 00:00:00.000000 FROM: 2012-03-21T00:00:00
+March 28-29, 2012: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM290808
+Meta maincontent has different strlen than content maincontent!
+got date [7083]: 2012-03-28 00:00:00.000000 FROM: 2012-03-28T00:00:00
+April 5, 2012: Reproductive Health Drugs Advisory Committee Meeting Announcement : UCM291237
+Meta maincontent has different strlen than content maincontent!
+got date [7085]: 2012-04-05 00:00:00.000000 FROM: 2012-04-05T00:00:00
+March 1-2, 2012 - Tobacco Products Scientific Advisory Committee Meeting Announcement : UCM291512
+Meta maincontent has different strlen than content maincontent!
+got date [7087]: 2012-02-17 00:00:00.000000 FROM: 2012-02-17T00:00:00
+March 23, 2012: Neurological Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM291568
+Meta maincontent has different strlen than content maincontent!
+got date [7089]: 2012-03-23 00:00:00.000000 FROM: 2012-03-23T00:00:00
+March 13, 2012: Gastrointestinal Drugs Advisory Committee Meeting Announcement : UCM291606
+Meta maincontent has different strlen than content maincontent!
+got date [7093]: 2012-03-13 00:00:00.000000 FROM: 2012-03-13T00:00:00
+April 11-12, 2012: Radiological Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM293275
+Meta maincontent has different strlen than content maincontent!
+got date [7095]: 2012-04-11 00:00:00.000000 FROM: 2012-04-11T00:00:00
+CANCELLED March 27, 2012: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM293579
+Meta maincontent has different strlen than content maincontent!
+got date [7099]: 2012-03-27 00:00:00.000000 FROM: 2012-03-27T00:00:00
+April 2, 2012: Joint Meeting of the Anti-Infective Drugs Advisory Committee and the Nonprescription Drugs Advisory Committee Meeting Announcement : UCM293595
+Meta maincontent has different strlen than content maincontent!
+got date [7101]: 2012-04-02 00:00:00.000000 FROM: 2012-04-02T00:00:00
+May 8, 2012: Arthritis Advisory Committee Meeting Announcement : UCM295155
+Meta maincontent has different strlen than content maincontent!
+got date [7103]: 2012-05-08 00:00:00.000000 FROM: 2012-05-08T00:00:00
+April 3-4, 2012: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM295163
+Meta maincontent has different strlen than content maincontent!
+got date [7105]: 2012-04-03 00:00:00.000000 FROM: 2012-04-03T00:00:00
+May 9, 2012: Arthritis Advisory Committee Meeting Announcement : UCM295556
+Meta maincontent has different strlen than content maincontent!
+got date [7107]: 2012-05-09 00:00:00.000000 FROM: 2012-05-09T00:00:00
+UPDATED TIME, AGENDA AND PUBLIC PARTICIPATION INFORMATION: May 10, 2012: Antiviral Drugs Advisory Committee Meeting Announcement : UCM295927
+Meta maincontent has different strlen than content maincontent!
+got date [7109]: 2012-05-10 00:00:00.000000 FROM: 2012-05-10T00:00:00
+April 25-26, 2012: Circulatory System Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM296395
+Meta maincontent has different strlen than content maincontent!
+got date [7111]: 2012-04-25 00:00:00.000000 FROM: 2012-04-25T00:00:00
+May 10, 2012: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM296516
+Meta maincontent has different strlen than content maincontent!
+got date [7115]: 2012-05-10 00:00:00.000000 FROM: 2012-05-10T00:00:00
+May 11, 2012: Antiviral Drugs Advisory Committee Meeting Announcement : UCM297233
+Meta maincontent has different strlen than content maincontent!
+got date [7117]: 2012-05-11 00:00:00.000000 FROM: 2012-05-11T00:00:00
+CANCELLED May 31, 2012: Gastrointestinal Drugs Advisory Committee Meeting Announcement : UCM297388
+Meta maincontent has different strlen than content maincontent!
+got date [7119]: 2012-05-31 00:00:00.000000 FROM: 2012-05-31T00:00:00
+May 24, 2012: Circulatory System Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM297470
+Meta maincontent has different strlen than content maincontent!
+got date [7121]: 2012-05-24 00:00:00.000000 FROM: 2012-05-24T00:00:00
+May 10-11, 2012: Gastroenterology and Urology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM297473
+Meta maincontent has different strlen than content maincontent!
+got date [7125]: 2012-05-10 00:00:00.000000 FROM: 2012-05-10T00:00:00
+June 27-28, 2012: Orthopaedic and Rehabilitation Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM297884
+Meta maincontent has different strlen than content maincontent!
+got date [7129]: 2012-06-27 00:00:00.000000 FROM: 2012-06-27T00:00:00
+June 21, 2012: General and Plastic Surgery Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM298402
+Meta maincontent has different strlen than content maincontent!
+got date [7131]: 2012-06-21 00:00:00.000000 FROM: 2012-06-21T00:00:00
+May 24, 2012: Peripheral and Central Nervous System Drugs Advisory Committee Meeting Announcement : UCM298451
+Meta maincontent has different strlen than content maincontent!
+got date [7135]: 2012-05-24 00:00:00.000000 FROM: 2012-05-24T00:00:00
+May 15-16, 2012 Blood Products Advisory Committee Meeting Announcement : UCM298625
+Meta maincontent has different strlen than content maincontent!
+got date [7137]: 2012-05-15 00:00:00.000000 FROM: 2012-05-15T00:00:00
+May 7 - 8, 2012: Pediatric Advisory Committee Meeting Announcement : UCM299602
+Meta maincontent has different strlen than content maincontent!
+got date [7141]: 2012-05-07 00:00:00.000000 FROM: 2012-05-07T00:00:00
+May 23, 2012: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM299942
+Meta maincontent has different strlen than content maincontent!
+got date [7143]: 2012-05-23 00:00:00.000000 FROM: 2012-05-23T00:00:00
+May 2, 2012: Science Board to the FDA Meeting Announcement : UCM300851
+Meta maincontent has different strlen than content maincontent!
+got date [7145]: 2012-05-02 00:00:00.000000 FROM: 2012-05-02T00:00:00
+June 13, 2012: Circulatory System Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM301977
+Meta maincontent has different strlen than content maincontent!
+got date [7147]: 2012-06-13 00:00:00.000000 FROM: 2012-06-13T00:00:00
+June 20, 2012: Oncologic Drugs Advisory Committee Meeting Announcement : UCM302199
+Meta maincontent has different strlen than content maincontent!
+got date [7151]: 2012-06-20 00:00:00.000000 FROM: 2012-06-20T00:00:00
+June 12, 2012: Blood Products Advisory Committee Meeting Announcement : UCM304396
+Meta maincontent has different strlen than content maincontent!
+got date [7153]: 2012-06-12 00:00:00.000000 FROM: 2012-06-12T00:00:00
+June 29, 2012: Risk Communication Advisory Committee Announcement : UCM305496
+Meta maincontent has different strlen than content maincontent!
+got date [7157]: 2012-06-29 00:00:00.000000 FROM: 2012-06-29T00:00:00
+July 25, 2012: Oncologic Drugs Advisory Committee Meeting Announcement : UCM305517
+Meta maincontent has different strlen than content maincontent!
+got date [7159]: 2012-07-25 00:00:00.000000 FROM: 2012-07-25T00:00:00
+June 27-28, 2012: Orthopaedic and Rehabilitation Devices Panel of the Medical Devices Advisory Committee; Amendment of Notice : UCM306172
+Meta maincontent has different strlen than content maincontent!
+got date [7161]: 2012-06-27 00:00:00.000000 FROM: 2012-06-27T00:00:00
+CANCELLED MORNING SESSION; AFTERNOON SESSION TO TAKE PLACE FROM 9 AM-3PM.  July 24, 2012: Oncologic Drugs Advisory Committee Meeting Announcement : UCM306471
+Meta maincontent has different strlen than content maincontent!
+got date [7165]: 2012-07-24 00:00:00.000000 FROM: 2012-07-24T00:00:00
+POSTPONED: October 29-30, 2012: Meeting of the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM307371
+Meta maincontent has different strlen than content maincontent!
+got date [7167]: 2012-10-29 00:00:00.000000 FROM: 2012-10-29T00:00:00
+July 26, 2012: Dermatologic and Ophthalmic Drugs Advisory Committee Meeting Announcement : UCM308843
+Meta maincontent has different strlen than content maincontent!
+got date [7169]: 2012-07-26 00:00:00.000000 FROM: 2012-07-26T00:00:00
+August 28, 2012: Gastrointestinal Drugs Advisory Committee Meeting Announcement : UCM309405
+Meta maincontent has different strlen than content maincontent!
+got date [7171]: 2012-08-28 00:00:00.000000 FROM: 2012-08-28T00:00:00
+September 5, 2012: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM311239
+Meta maincontent has different strlen than content maincontent!
+got date [7173]: 2012-09-05 00:00:00.000000 FROM: 2012-09-05T00:00:00
+September 19, 2012: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM312074
+Meta maincontent has different strlen than content maincontent!
+got date [7175]: 2012-09-19 00:00:00.000000 FROM: 2012-09-19T00:00:00
+August 9, 2012: Pharmaceutical Science and Clinical Pharmacology Advisory Committee Meeting Announcement : UCM312294
+Meta maincontent has different strlen than content maincontent!
+got date [7179]: 2012-08-09 00:00:00.000000 FROM: 2012-08-09T00:00:00
+September 21, 2012: Orthopaedic and Rehabilitation Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM312581
+Meta maincontent has different strlen than content maincontent!
+got date [7181]: 2012-09-21 00:00:00.000000 FROM: 2012-09-21T00:00:00
+September 28, 2012: Ophthalmic Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM312582
+Meta maincontent has different strlen than content maincontent!
+got date [7185]: 2012-09-28 00:00:00.000000 FROM: 2012-09-28T00:00:00
+August 8, 2012: Pharmaceutical Science and Clinical Pharmacology Advisory Committee Meeting Announcement : UCM312874
+Meta maincontent has different strlen than content maincontent!
+got date [7189]: 2012-08-08 00:00:00.000000 FROM: 2012-08-08T00:00:00
+CANCELLED September 14, 2012: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM313019
+Meta maincontent has different strlen than content maincontent!
+got date [7191]: 2012-09-14 00:00:00.000000 FROM: 2012-09-14T00:00:00
+September 13, 2012: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM313273
+Meta maincontent has different strlen than content maincontent!
+got date [7193]: 2012-09-13 00:00:00.000000 FROM: 2012-09-13T00:00:00
+September 11, 2012: Pediatric Advisory Committee Meeting Announcement : UCM313725
+Meta maincontent has different strlen than content maincontent!
+got date [7195]: 2012-09-11 00:00:00.000000 FROM: 2012-09-11T00:00:00
+September 20-21, 2012: Meeting of the Blood Products Advisory Committee Announcement : UCM313863
+Meta maincontent has different strlen than content maincontent!
+got date [7197]: 2012-09-20 00:00:00.000000 FROM: 2012-09-20T00:00:00
+October 17, 2012: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM315641
+Meta maincontent has different strlen than content maincontent!
+got date [7201]: 2012-10-17 00:00:00.000000 FROM: 2012-10-17T00:00:00
+October 18, 2012: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM315828
+Meta maincontent has different strlen than content maincontent!
+got date [7203]: 2012-10-18 00:00:00.000000 FROM: 2012-10-18T00:00:00
+POSTPONED: October 15, 2012: Gastrointestinal Drugs Advisory Committee Meeting Announcement : UCM315829
+Meta maincontent has different strlen than content maincontent!
+got date [7205]: 2012-10-15 00:00:00.000000 FROM: 2012-10-15T00:00:00
+October 24, 2012: Radiological Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM316640
+Meta maincontent has different strlen than content maincontent!
+got date [7207]: 2012-10-24 00:00:00.000000 FROM: 2012-10-24T00:00:00
+October 16, 2012: Gastrointestinal Drugs Advisory Committee Meeting Announcement : UCM316682
+Meta maincontent has different strlen than content maincontent!
+got date [7211]: 2012-10-16 00:00:00.000000 FROM: 2012-10-16T00:00:00
+November 9, 2012: Nonprescription Drugs Advisory Committee Meeting Announcement : UCM317757
+Meta maincontent has different strlen than content maincontent!
+got date [7213]: 2012-11-09 00:00:00.000000 FROM: 2012-11-09T00:00:00
+October 3, 2012: Science Board to the FDA Meeting Announcement : UCM318164
+Meta maincontent has different strlen than content maincontent!
+got date [7215]: 2012-10-03 00:00:00.000000 FROM: 2012-10-03T00:00:00
+November 2, 2012: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM319013
+Meta maincontent has different strlen than content maincontent!
+got date [7217]: 2012-11-02 00:00:00.000000 FROM: 2012-11-02T00:00:00
+December 4, 2012: Pediatric Oncology Subcommittee of the Oncologic Drugs Advisory Committee Meeting Announcement : UCM319672
+Meta maincontent has different strlen than content maincontent!
+got date [7219]: 2012-12-04 00:00:00.000000 FROM: 2012-12-04T00:00:00
+November 29, 2012: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM320230
+Meta maincontent has different strlen than content maincontent!
+got date [7221]: 2012-11-29 00:00:00.000000 FROM: 2012-11-29T00:00:00
+CANCELLED: November 8, 2012: Oncologic Drugs Advisory Committee Meeting Announcement : UCM320255
+Meta maincontent has different strlen than content maincontent!
+got date [7223]: 2012-11-08 00:00:00.000000 FROM: 2012-11-08T00:00:00
+October 23-24, 2012: Science Advisory Board to the National Center for Toxicological Research Meeting Announcement : UCM320698
+Meta maincontent has different strlen than content maincontent!
+got date [7225]: 2012-10-23 00:00:00.000000 FROM: 2012-10-23T00:00:00
+November 28, 2012: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM321011
+Meta maincontent has different strlen than content maincontent!
+got date [7227]: 2012-11-28 00:00:00.000000 FROM: 2012-11-28T00:00:00
+November 8, 2012: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM323208
+Meta maincontent has different strlen than content maincontent!
+got date [7229]: 2012-11-08 00:00:00.000000 FROM: 2012-11-08T00:00:00
+POSTPONED: November 1, 2012: Neurological Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM323380
+Meta maincontent has different strlen than content maincontent!
+got date [7231]: 2012-11-01 00:00:00.000000 FROM: 2012-11-01T00:00:00
+POSTPONED DUE TO WEATHER - November 2, 2012: Risk Communication Advisory Committee Meeting Announcement : UCM323607
+Meta maincontent has different strlen than content maincontent!
+got date [7233]: 2012-11-02 00:00:00.000000 FROM: 2012-11-02T00:00:00
+November 7, 2012: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM324213
+Meta maincontent has different strlen than content maincontent!
+got date [7235]: 2012-11-07 00:00:00.000000 FROM: 2012-11-07T00:00:00
+November 29, 2012: Cellular, Tissue and Gene Therapies Advisory Committee Meeting Announcement : UCM324615
+Meta maincontent has different strlen than content maincontent!
+got date [7237]: 2012-11-29 00:00:00.000000 FROM: 2012-11-29T00:00:00
+November 14-15, 2012: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM324825
+Meta maincontent has different strlen than content maincontent!
+got date [7241]: 2012-11-14 00:00:00.000000 FROM: 2012-11-14T00:00:00
+December 20, 2012: Arthritis Advisory Committee Meeting Announcement : UCM324972
+Meta maincontent has different strlen than content maincontent!
+got date [7245]: 2012-12-20 00:00:00.000000 FROM: 2012-12-20T00:00:00
+UPDATED PUBLIC PARTICIPATION INFORMATION: December 12-13, 2012: Meeting of the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM325571
+Meta maincontent has different strlen than content maincontent!
+got date [7247]: 2012-12-12 00:00:00.000000 FROM: 2012-12-12T00:00:00
+POSTPONED - November 1, 2012: Neurological Devices Panel of the Medical Devices Advisory Committee Meeting Announcement- POSTPONED : UCM326112
+Meta maincontent has different strlen than content maincontent!
+got date [7249]: 2012-11-01 00:02:00.000000 FROM: 2012-11-01T00:02:00
+December 5-6, 2012: Circulatory System Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM327178
+Meta maincontent has different strlen than content maincontent!
+got date [7251]: 2012-12-05 00:00:00.000000 FROM: 2012-12-05T00:00:00
+December 4-5, 2012: Blood Products Advisory Committee Meeting Announcement : UCM327394
+Meta maincontent has different strlen than content maincontent!
+got date [7255]: 2012-12-04 00:00:00.000000 FROM: 2012-12-04T00:00:00
+December 7, 2012 Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee Meeting Announcement : UCM327624
+Meta maincontent has different strlen than content maincontent!
+got date [7259]: 2012-12-07 00:00:00.000000 FROM: 2012-12-07T00:00:00
+December 10, 2012: Neurological Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM328169
+Meta maincontent has different strlen than content maincontent!
+got date [7261]: 2012-12-10 00:00:00.000000 FROM: 2012-12-10T00:00:00
+January 29, 2013: Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM329179
+Meta maincontent has different strlen than content maincontent!
+got date [7265]: 2013-01-29 08:00:00.000000 FROM: 2013-01-29T08:00:00
+January 30, 2013: Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM329188
+Meta maincontent has different strlen than content maincontent!
+got date [7267]: 2013-01-30 08:00:00.000000 FROM: 2013-01-30T08:00:00
+February 22, 2013: Neurological Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM330705
+Meta maincontent has different strlen than content maincontent!
+got date [7269]: 2013-02-22 00:00:00.000000 FROM: 2013-02-22T00:00:00
+January 10, 2013: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM331503
+Meta maincontent has different strlen than content maincontent!
+got date [7273]: 2013-01-10 00:00:00.000000 FROM: 2013-01-10T00:00:00
+January 15, 2013: Cellular, Tissue and Gene Therapies Advisory Committee Meeting Announcement : UCM331876
+Meta maincontent has different strlen than content maincontent!
+got date [7275]: 2013-01-15 00:00:00.000000 FROM: 2013-01-15T00:00:00
+February 22, 2013: Neurological Devices Panel of the Medical Devices Advisory Committee;  Notice of Meeting; Correction : UCM331937
+Meta maincontent has different strlen than content maincontent!
+got date [7279]: 2013-02-22 00:01:00.000000 FROM: 2013-02-22T00:01:00
+POSTPONED DUE TO WEATHER: March 7, 2013: Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM332202
+Meta maincontent has different strlen than content maincontent!
+got date [7281]: 2013-03-07 00:00:00.000000 FROM: 2013-03-07T00:00:00
+January 24-25, 2013: Meeting of the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM332857
+Meta maincontent has different strlen than content maincontent!
+got date [7283]: 2013-01-24 00:00:00.000000 FROM: 2013-01-24T00:00:00
+February 14, 2013: Medical Imaging Drugs Advisory Committee Meeting Announcement : UCM334173
+Meta maincontent has different strlen than content maincontent!
+got date [7285]: 2013-02-14 00:00:00.000000 FROM: 2013-02-14T00:00:00
+March 4, 2013: Reproductive Health Drugs Advisory Committee Meeting Announcement : UCM334186
+Meta maincontent has different strlen than content maincontent!
+got date [7287]: 2013-03-04 00:00:00.000000 FROM: 2013-03-04T00:00:00
+February 12, 2013: Risk Communication Advisory Committee Meeting Announcement : UCM335076
+Meta maincontent has different strlen than content maincontent!
+got date [7289]: 2013-02-12 00:00:00.000000 FROM: 2013-02-12T00:00:00
+March 5, 2013: Joint Meeting of the Advisory Committee for Reproductive Health Drugs and the Drug Safety and Risk Management Meeting Announcement : UCM335406
+Meta maincontent has different strlen than content maincontent!
+got date [7291]: 2013-03-05 00:00:00.000000 FROM: 2013-03-05T00:00:00
+February 12, 2013: Blood Products Advisory Committee Meeting Announcement : UCM335730
+Meta maincontent has different strlen than content maincontent!
+got date [7293]: 2013-02-12 00:00:00.000000 FROM: 2013-02-12T00:00:00
+February 27, 2013: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM337083
+Meta maincontent has different strlen than content maincontent!
+got date [7297]: 2013-02-27 00:00:00.000000 FROM: 2013-02-27T00:00:00
+February 27, 2013: Science Board to the Food and Drug Administration Meeting Announcement: Amended Announcement : UCM337753
+Meta maincontent has different strlen than content maincontent!
+got date [7301]: 2013-02-27 00:00:00.000000 FROM: 2013-02-27T00:00:00
+March 20, 2013: Circulatory System Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM339809
+Meta maincontent has different strlen than content maincontent!
+got date [7303]: 2013-03-20 00:00:00.000000 FROM: 2013-03-20T00:00:00
+March 14, 2013: Transmissible Spongiform Encephalopathies Advisory Committee Meeting: Announcement : UCM340107
+Meta maincontent has different strlen than content maincontent!
+got date [7307]: 2013-03-14 00:00:00.000000 FROM: 2013-03-14T00:00:00
+April 11, 2013: Device Good Manufacturing Practice Advisory Committee Meeting Announcement : UCM340909
+Meta maincontent has different strlen than content maincontent!
+got date [7311]: 2013-04-11 00:00:00.000000 FROM: 2013-04-11T00:00:00
+April 8, 2013:  Ophthalmic Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM340995
+Meta maincontent has different strlen than content maincontent!
+got date [7315]: 2013-04-08 00:00:00.000000 FROM: 2013-04-08T00:00:00
+May 3, 2013: Joint Meeting of the Medical Imaging Drugs Advisory Committee and Oncologic Drugs Advisory Committee Meeting Announcement : UCM341085
+Meta maincontent has different strlen than content maincontent!
+got date [7319]: 2013-05-03 00:00:00.000000 FROM: 2013-05-03T00:00:00
+March 14, 2013: Pediatric Advisory Committee Meeting Announcement : UCM341093
+Meta maincontent has different strlen than content maincontent!
+got date [7321]: 2013-03-14 00:00:00.000000 FROM: 2013-03-14T00:00:00
+March 15, 2013: Neonatology Subcommittee of the Pediatric Advisory Committee Meeting Announcement : UCM341119
+Meta maincontent has different strlen than content maincontent!
+got date [7323]: 2013-03-15 00:00:00.000000 FROM: 2013-03-15T00:00:00
+April 25-26, 2013: Clinical Chemistry and Clinical Toxicology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM341246
+Meta maincontent has different strlen than content maincontent!
+got date [7325]: 2013-04-25 00:00:00.000000 FROM: 2013-04-25T00:00:00
+May 2, 2013: Meeting of the Oncologic Drugs Advisory Committee Meeting Announcement : UCM341452
+Meta maincontent has different strlen than content maincontent!
+got date [7327]: 2013-05-02 00:00:00.000000 FROM: 2013-05-02T00:00:00
+March 21, 2013: Meeting of the Psychopharmacologic Drugs Advisory Committee  Meeting Announcement : UCM341477
+Meta maincontent has different strlen than content maincontent!
+got date [7329]: 2013-03-21 00:00:00.000000 FROM: 2013-03-21T00:00:00
+April 17, 2013 Cellular, Tissue and Gene Therapies Advisory Committee Meeting Announcement : UCM343617
+Meta maincontent has different strlen than content maincontent!
+got date [7331]: 2013-04-17 00:00:00.000000 FROM: 2013-04-17T00:00:00
+UPDATED AGENDA INFORMATION: April 18, 2013: Joint Meeting of the Advisory Committee for Reproductive Health Drugs and Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM343879
+Meta maincontent has different strlen than content maincontent!
+got date [7335]: 2013-04-18 00:00:00.000000 FROM: 2013-04-18T00:00:00
+May 2, 2013: General and Plastic Surgery Devices Panel of the Medical Devices Meeting Announcement : UCM344420
+Meta maincontent has different strlen than content maincontent!
+got date [7337]: 2013-05-02 00:00:00.000000 FROM: 2013-05-02T00:00:00
+April 17, 2013: Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM344930
+Meta maincontent has different strlen than content maincontent!
+got date [7341]: 2013-04-17 00:00:00.000000 FROM: 2013-04-17T00:00:00
+April 29, 2013: Risk Communication Advisory Committee Meeting Announcement : UCM345955
+Meta maincontent has different strlen than content maincontent!
+got date [7343]: 2013-04-29 00:00:00.000000 FROM: 2013-04-29T00:00:00
+April 30, 2013: Risk Communication Advisory Committee Meeting Announcement : UCM345956
+Meta maincontent has different strlen than content maincontent!
+got date [7345]: 2013-04-30 00:00:00.000000 FROM: 2013-04-30T00:00:00
+April 25, 2013: Clinical Chemistry and Clinical Toxicology Devices Panel of the Medical Devices Advisory Committee; Notice of Change of Meeting Schedule : UCM346047
+Meta maincontent has different strlen than content maincontent!
+got date [7347]: 2013-04-25 00:00:00.000000 FROM: 2013-04-25T00:00:00
+POSTPONED: April 5, 2013 Orthopaedic and Rehabilitation Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM346356
+Meta maincontent has different strlen than content maincontent!
+got date [7351]: 2013-04-05 00:01:00.000000 FROM: 2013-04-05T00:01:00
+May 22, 2013: Meeting of the Peripheral and Central Nervous System Drugs Advisory Committee Meeting Announcement : UCM346557
+Meta maincontent has different strlen than content maincontent!
+got date [7353]: 2013-05-22 00:00:00.000000 FROM: 2013-05-22T00:00:00
+May 21-22, 2013: Orthopaedic and Rehabilitation Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM346715
+Meta maincontent has different strlen than content maincontent!
+got date [7355]: 2013-05-21 00:00:00.000000 FROM: 2013-05-21T00:00:00
+May 8, 2013: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM346735
+Meta maincontent has different strlen than content maincontent!
+got date [7359]: 2013-05-08 00:00:00.000000 FROM: 2013-05-08T00:00:00
+June 5-6, 2013: Joint Meeting of the Endocrinilogic and Metabolic Drugs Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM348146
+Meta maincontent has different strlen than content maincontent!
+got date [7363]: 2013-06-05 00:00:00.000000 FROM: 2013-06-05T00:00:00
+April 30, 2013: Tobacco Products Scientific Advisory Committee Meeting Announcement : UCM348438
+Meta maincontent has different strlen than content maincontent!
+got date [7365]: 2013-04-30 00:00:00.000000 FROM: 2013-04-30T00:00:00
+CANCELLED July 24-25, 2013: Orthopaedic and Rehabilitation Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM349379
+Meta maincontent has different strlen than content maincontent!
+got date [7367]: 2013-07-24 00:00:00.000000 FROM: 2013-07-24T00:00:00
+June 27, 2013: Gastroenterology and Urology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM350324
+Meta maincontent has different strlen than content maincontent!
+got date [7369]: 2013-06-27 00:00:00.000000 FROM: 2013-06-27T00:00:00
+June 13, 2013: Microbiology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM351035
+Meta maincontent has different strlen than content maincontent!
+got date [7373]: 2013-06-13 00:00:00.000000 FROM: 2013-06-13T00:00:00
+July 18, 2013: Dental Products Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM351380
+Meta maincontent has different strlen than content maincontent!
+got date [7377]: 2013-07-18 00:00:00.000000 FROM: 2013-07-18T00:00:00
+CANCELLED July 18, 2013: Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee Meeting Announcement : UCM351689
+Meta maincontent has different strlen than content maincontent!
+got date [7381]: 2013-07-18 00:00:00.000000 FROM: 2013-07-18T00:00:00
+CANCELLED July 17, 2013: Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee : UCM352826
+Meta maincontent has different strlen than content maincontent!
+got date [7383]: 2013-07-17 00:00:00.000000 FROM: 2013-07-17T00:00:00
+June 26, 2013: General and Plastic Surgery Devices Panel of the Medical Devices Meeting Announcement : UCM353703
+Meta maincontent has different strlen than content maincontent!
+got date [7385]: 2013-06-26 00:00:00.000000 FROM: 2013-06-26T00:00:00
+July 10, 2013: Meeting of the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM353763
+Meta maincontent has different strlen than content maincontent!
+got date [7389]: 2013-07-10 00:00:00.000000 FROM: 2013-07-10T00:00:00
+July 22, 2013: Arthritis Advisory Committee Meeting Announcement : UCM354580
+Meta maincontent has different strlen than content maincontent!
+got date [7391]: 2013-07-22 00:00:00.000000 FROM: 2013-07-22T00:00:00
+June 24, 2013: Science Board Meeting Announcement : UCM354655
+Meta maincontent has different strlen than content maincontent!
+got date [7393]: 2013-06-24 00:00:00.000000 FROM: 2013-06-24T00:00:00
+July 23, 2013: Arthritis Advisory Committee Meeting Announcement : UCM355358
+Meta maincontent has different strlen than content maincontent!
+got date [7395]: 2013-07-23 00:00:00.000000 FROM: 2013-07-23T00:00:00
+August 5, 2013: Meeting of the Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM357792
+Meta maincontent has different strlen than content maincontent!
+got date [7397]: 2013-08-05 00:00:00.000000 FROM: 2013-08-05T00:00:00
+August 15, 2013: Risk Communication Advisory Committee & Tobacco Products Scientific Advisory Committee Joint Meeting : UCM358165
+Meta maincontent has different strlen than content maincontent!
+got date [7399]: 2013-08-15 00:00:00.000000 FROM: 2013-08-15T00:00:00
+August 16, 2013: Tobacco Products Scientific Advisory Committee Meeting : UCM358329
+Meta maincontent has different strlen than content maincontent!
+got date [7401]: 2013-08-16 00:00:00.000000 FROM: 2013-08-16T00:00:00
+August 2, 2013 Blood Products Advisory Committee Meeting Announcement : UCM358793
+Meta maincontent has different strlen than content maincontent!
+got date [7403]: 2013-08-02 00:00:00.000000 FROM: 2013-08-02T00:00:00
+August 6, 2013: Meeting of the Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM358886
+Meta maincontent has different strlen than content maincontent!
+got date [7407]: 2013-08-06 00:00:00.000000 FROM: 2013-08-06T00:00:00
+July 31, 2013: Nonprescription Drugs Advisory Committee Meeting Announcement : UCM359032
+Meta maincontent has different strlen than content maincontent!
+got date [7409]: 2013-07-31 00:00:00.000000 FROM: 2013-07-31T00:00:00
+September 9, 2013: Joint Meeting of the Gastroenterology-Urology Panel and the Radiological Devices Panel of the Medical Devices Advisory Committee : UCM360096
+Meta maincontent has different strlen than content maincontent!
+got date [7411]: 2013-09-09 00:00:00.000000 FROM: 2013-09-09T00:00:00
+Cancellation Notice:  July 24-25, 2013 Orthopaedic and Rehabilitation Devices Panel of the Medical Devices Advisory Committee : UCM360287
+got date [7413]: 2013-07-24 00:05:00.000000 FROM: 2013-07-24T00:05:00
+August 16, 2013: Risk Communication Advisory Committee : UCM361344
+Meta maincontent has different strlen than content maincontent!
+got date [7415]: 2013-08-16 00:00:00.000000 FROM: 2013-08-16T00:00:00
+September 25, 2013: Pharmaceutical Science and Clinical Pharmacology Advisory Committee Meeting Announcement : UCM361580
+Meta maincontent has different strlen than content maincontent!
+got date [7417]: 2013-09-25 00:00:00.000000 FROM: 2013-09-25T00:00:00
+October 22-23, 2013: Cellular, Tissue and Gene Therapies Advisory Committee Meeting Announcement - MEETING POSTPONED : UCM361972
+Meta maincontent has different strlen than content maincontent!
+got date [7419]: 2013-10-22 00:00:00.000000 FROM: 2013-10-22T00:00:00
+September 19, 2013: Ophthalmic Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM363468
+Meta maincontent has different strlen than content maincontent!
+got date [7423]: 2013-09-19 00:00:00.000000 FROM: 2013-09-19T00:00:00
+September 10, 2013: Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM363597
+Meta maincontent has different strlen than content maincontent!
+got date [7427]: 2013-09-10 00:00:00.000000 FROM: 2013-09-10T00:00:00
+September 23-24, 2013: Food Advisory Committee Meeting Announcement : UCM363823
+Meta maincontent has different strlen than content maincontent!
+got date [7429]: 2013-09-24 00:00:00.000000 FROM: 2013-09-24T00:00:00
+October 17, 2013: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM364149
+Meta maincontent has different strlen than content maincontent!
+got date [7431]: 2013-10-17 00:00:00.000000 FROM: 2013-10-17T00:00:00
+September 12, 2013: Oncologic Drugs Advisory Committee Meeting Announcement : UCM364526
+Meta maincontent has different strlen than content maincontent!
+got date [7433]: 2013-09-12 00:00:00.000000 FROM: 2013-09-12T00:00:00
+October 18, 2013: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM364576
+Meta maincontent has different strlen than content maincontent!
+got date [7435]: 2013-10-18 00:00:00.000000 FROM: 2013-10-18T00:00:00
+September 11-12, 2013: Circulatory System Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM364767
+Meta maincontent has different strlen than content maincontent!
+got date [7437]: 2013-09-11 00:00:00.000000 FROM: 2013-09-11T00:00:00
+September 9, 2013: Pediatric Ethics Subcommittee Meeting Announcement : UCM364936
+Meta maincontent has different strlen than content maincontent!
+got date [7441]: 2013-09-09 00:00:00.000000 FROM: 2013-09-09T00:00:00
+September 10, 2013: Pediatric Ethics Subcommittee Meeting Announcement : UCM364939
+Meta maincontent has different strlen than content maincontent!
+got date [7443]: 2013-09-10 00:00:00.000000 FROM: 2013-09-10T00:00:00
+September 19, 2013: Pediatric Advisory Committee Meeting Announcement : UCM365027
+Meta maincontent has different strlen than content maincontent!
+got date [7445]: 2013-09-19 00:00:00.000000 FROM: 2013-09-19T00:00:00
+September 20, 2013: Pediatric Advisory Committee Meeting Announcement : UCM365029
+Meta maincontent has different strlen than content maincontent!
+got date [7447]: 2013-09-20 00:00:00.000000 FROM: 2013-09-20T00:00:00
+October 16, 2013: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM365571
+Meta maincontent has different strlen than content maincontent!
+got date [7449]: 2013-10-16 00:00:00.000000 FROM: 2013-10-16T00:00:00
+November 5-6, 2013: Allergenic Products Advisory Committee Meeting Announcement - MEETING POSTPONED : UCM367266
+Meta maincontent has different strlen than content maincontent!
+got date [7451]: 2013-11-05 00:00:00.000000 FROM: 2013-11-05T00:00:00
+October 8-9, 2013: Circulatory System Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM367579
+Meta maincontent has different strlen than content maincontent!
+got date [7455]: 2013-10-08 00:00:00.000000 FROM: 2013-10-08T00:00:00
+November 1, 2013: Blood Products Advisory Committee Meeting Announcement : UCM368417
+Meta maincontent has different strlen than content maincontent!
+got date [7459]: 2013-11-01 00:00:00.000000 FROM: 2013-11-01T00:00:00
+October 25, 2013: Antiviral Drugs Advisory Commitee Meeting Announcement : UCM368560
+Meta maincontent has different strlen than content maincontent!
+got date [7463]: 2013-10-25 00:00:00.000000 FROM: 2013-10-25T00:00:00
+October 24, 2013: Antiviral Drugs Advisory Commitee Meeting Announcement : UCM368694
+Meta maincontent has different strlen than content maincontent!
+got date [7465]: 2013-10-24 00:00:00.000000 FROM: 2013-10-24T00:00:00
+CANCELLED October 30, 2013: Pharmaceutical Science and Clinical Pharmacology Advisory Committee Meeting Announcement : UCM369467
+Meta maincontent has different strlen than content maincontent!
+got date [7467]: 2013-10-30 00:00:00.000000 FROM: 2013-10-30T00:00:00
+CANCELLED October 31, 2013: Pharmaceutical Science and Clinical Pharmacology Advisory Committee Meeting Announcement : UCM369485
+Meta maincontent has different strlen than content maincontent!
+got date [7469]: 2013-10-31 00:00:00.000000 FROM: 2013-10-31T00:00:00
+November 4, 2013: Pediatric Oncology Subcommittee of the Oncologic Drugs Advisory Committee Meeting Announcement : UCM370990
+Meta maincontent has different strlen than content maincontent!
+got date [7471]: 2013-11-04 00:00:00.000000 FROM: 2013-11-04T00:00:00
+November 5, 2013: Pediatric Oncology Subcommittee of the Oncologic Drugs Advisory Committee Meeting Announcement : UCM370991
+Meta maincontent has different strlen than content maincontent!
+got date [7473]: 2013-11-05 00:00:00.000000 FROM: 2013-11-05T00:00:00
+November 8, 2013: Ear, Nose and Throat Devices Panel of the Medical Devices Advisory CommitteeMeeting Announcement : UCM371007
+Meta maincontent has different strlen than content maincontent!
+got date [7475]: 2013-11-08 00:00:00.000000 FROM: 2013-11-08T00:00:00
+UPDATED AGENDA INFORMATION: December 9, 2013: Joint Meeting of the Gastrointestinal Drugs Advisory Committee (GIDAC) &amp; Drug Safety and Risk Management Advisory Committee (DSaRM) Meeting Announcement : UCM371059
+Meta maincontent has different strlen than content maincontent!
+got date [7479]: 2013-12-09 00:00:00.000000 FROM: 2013-12-09T00:00:00
+November 19, 2013: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM371064
+Meta maincontent has different strlen than content maincontent!
+got date [7481]: 2013-11-19 00:00:00.000000 FROM: 2013-11-19T00:00:00
+UPDATED: December 11, 2013: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM371067
+Meta maincontent has different strlen than content maincontent!
+got date [7483]: 2013-12-11 00:00:00.000000 FROM: 2013-12-11T00:00:00
+November 13, 2013: Peripheral and Central Nervous System Drugs Advisory Committee Meeting Announcement : UCM371089
+Meta maincontent has different strlen than content maincontent!
+got date [7485]: 2013-11-13 00:00:00.000000 FROM: 2013-11-13T00:00:00
+November 14, 2013: Peripheral and Central Nervous System Drugs Advisory Committee Meeting Announcement : UCM371090
+Meta maincontent has different strlen than content maincontent!
+got date [7487]: 2013-11-14 00:00:00.000000 FROM: 2013-11-14T00:00:00
+November 13, 2013: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM371119
+Meta maincontent has different strlen than content maincontent!
+got date [7489]: 2013-11-13 00:00:00.000000 FROM: 2013-11-13T00:00:00
+December 11-12, 2013: Allergenic Products Advisory Committee Meeting Announcement : UCM373437
+Meta maincontent has different strlen than content maincontent!
+got date [7493]: 2013-12-11 00:00:00.000000 FROM: 2013-12-11T00:00:00
+December 12, 2013: Orthopaedic and Rehabilitation Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM374145
+Meta maincontent has different strlen than content maincontent!
+got date [7497]: 2013-12-12 00:00:00.000000 FROM: 2013-12-12T00:00:00
+December 11, 2013: Circulatory System Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM374407
+Meta maincontent has different strlen than content maincontent!
+got date [7501]: 2013-12-11 00:00:00.000000 FROM: 2013-12-11T00:00:00
+UPDATED: December 12, 2013: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM374477
+Meta maincontent has different strlen than content maincontent!
+got date [7505]: 2013-12-12 00:00:00.000000 FROM: 2013-12-12T00:00:00
+December 17, 2013: Risk Communication Advisory Committee Meeting Announcement : UCM377414
+Meta maincontent has different strlen than content maincontent!
+got date [7507]: 2013-12-17 00:00:00.000000 FROM: 2013-12-17T00:00:00
+January 14, 2014: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM378904
+Meta maincontent has different strlen than content maincontent!
+got date [7509]: 2014-01-14 00:00:00.000000 FROM: 2014-01-14T00:00:00
+January 15, 2014: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM378918
+Meta maincontent has different strlen than content maincontent!
+got date [7511]: 2014-01-15 00:00:00.000000 FROM: 2014-01-15T00:00:00
+January 16, 2014: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM378921
+Meta maincontent has different strlen than content maincontent!
+got date [7513]: 2014-01-16 00:00:00.000000 FROM: 2014-01-16T00:00:00
+February 21, 2014: Orthopaedic and Rehabilitation Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM379665
+Meta maincontent has different strlen than content maincontent!
+got date [7515]: 2014-02-21 00:00:00.000000 FROM: 2014-02-21T00:00:00
+POSTPONED  February 14, 2014: Ophthalmic Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM379667
+Meta maincontent has different strlen than content maincontent!
+got date [7519]: 2014-02-14 00:00:00.000000 FROM: 2014-02-14T00:00:00
+January 28, 2014: Allergenic Products Advisory Committee Meeting Announcement- Amendment : UCM379930
+Meta maincontent has different strlen than content maincontent!
+got date [7523]: 2014-01-28 00:00:00.000000 FROM: 2014-01-28T00:00:00
+February 25-26, 2014: Cellular, Tissue, and Gene Therapies Advisory Committee Meeting: Announcement : UCM380042
+Meta maincontent has different strlen than content maincontent!
+got date [7527]: 2014-02-25 00:00:00.000000 FROM: 2014-02-25T00:00:00
+January 29-30 2014: Science Advisory Board to the National Center for Toxicological Research Meeting Announcement : UCM380455
+Meta maincontent has different strlen than content maincontent!
+got date [7531]: 2014-01-29 00:00:00.000000 FROM: 2014-01-29T00:00:00
+February 20, 2014: Anesthesiology and Respiratory Therapy Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM380464
+Meta maincontent has different strlen than content maincontent!
+got date [7533]: 2014-02-20 00:00:00.000000 FROM: 2014-02-20T00:00:00
+February 3, 2014: Risk Communication Advisory Committee Meeting Announcement - MEETING POSTPONED : UCM380611
+Meta maincontent has different strlen than content maincontent!
+got date [7537]: 2014-02-03 00:00:00.000000 FROM: 2014-02-03T00:00:00
+February 4, 2014: Risk Communication Advisory Committee Meeting Announcement - MEETING POSTPONED : UCM380622
+Meta maincontent has different strlen than content maincontent!
+got date [7539]: 2014-02-04 00:00:00.000000 FROM: 2014-02-04T00:00:00
+POSTPONED February 13, 2014: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM380828
+Meta maincontent has different strlen than content maincontent!
+got date [7541]: 2014-02-13 00:00:00.000000 FROM: 2014-02-13T00:00:00
+February 10-11, 2014: Joint Meeting of the Arthritis Advisory Committee and Drug Safety and Risk Management Advisory Committee  Meeting Announcement : UCM380871
+Meta maincontent has different strlen than content maincontent!
+got date [7543]: 2014-02-10 00:00:00.000000 FROM: 2014-02-10T00:00:00
+February 25, 2014: Joint Meeting of the Nonprescription Drugs Advisory Committee and the Pulmonary Allergy Drugs Advisory Committee Meeting Announcement : UCM380886
+Meta maincontent has different strlen than content maincontent!
+got date [7545]: 2014-02-25 00:00:00.000000 FROM: 2014-02-25T00:00:00
+February 26, 2014: Nonprescription Drugs Advisory Committee Meeting Announcement : UCM380906
+Meta maincontent has different strlen than content maincontent!
+got date [7547]: 2014-02-26 00:00:00.000000 FROM: 2014-02-26T00:00:00
+February 12, 2014: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM381112
+Meta maincontent has different strlen than content maincontent!
+got date [7549]: 2014-02-12 00:00:00.000000 FROM: 2014-02-12T00:00:00
+February 5, 2014: Science Board to the FDA Meeting Announcement : UCM381798
+Meta maincontent has different strlen than content maincontent!
+got date [7551]: 2014-02-05 00:00:00.000000 FROM: 2014-02-05T00:00:00
+March 12, 2014: Microbiology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM381983
+Meta maincontent has different strlen than content maincontent!
+got date [7553]: 2014-03-12 00:00:00.000000 FROM: 2014-03-12T00:00:00
+February 28, 2014: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM383913
+Meta maincontent has different strlen than content maincontent!
+got date [7557]: 2014-02-28 00:00:00.000000 FROM: 2014-02-28T00:00:00
+March 26-27, 2014: Molecular and Clinical Genetics Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM384559
+Meta maincontent has different strlen than content maincontent!
+got date [7561]: 2014-03-26 00:00:00.000000 FROM: 2014-03-26T00:00:00
+April 21, 2014: Pediatric Advisory Committee Meeting Announcement : UCM385048
+Meta maincontent has different strlen than content maincontent!
+got date [7565]: 2014-04-21 00:00:00.000000 FROM: 2014-04-21T00:00:00
+March 20, 2014: Gastroenterology and Urology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM385329
+Meta maincontent has different strlen than content maincontent!
+got date [7567]: 2014-03-20 00:00:00.000000 FROM: 2014-03-20T00:00:00
+March 20, 2014: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM385640
+Meta maincontent has different strlen than content maincontent!
+got date [7571]: 2014-03-21 00:00:00.000000 FROM: 2014-03-21T00:00:00
+March 31, 2014: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM385727
+Meta maincontent has different strlen than content maincontent!
+got date [7575]: 2014-03-31 00:00:00.000000 FROM: 2014-03-31T00:00:00
+March 18-19, 2014: Blood Products Advisory Committee Meeting Announcement : UCM386680
+Meta maincontent has different strlen than content maincontent!
+got date [7577]: 2014-03-18 00:00:00.000000 FROM: 2014-03-18T00:00:00
+April 1, 2014: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM386716
+Meta maincontent has different strlen than content maincontent!
+got date [7581]: 2014-04-01 00:00:00.000000 FROM: 2014-04-01T00:00:00
+March 14, 2014: Ophthalmic Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM387510
+Meta maincontent has different strlen than content maincontent!
+got date [7583]: 2014-03-14 00:00:00.000000 FROM: 2014-03-14T00:00:00
+March 27, 2014: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM388348
+Meta maincontent has different strlen than content maincontent!
+got date [7587]: 2014-03-27 00:00:00.000000 FROM: 2014-03-27T00:00:00
+May 5, 2014: Risk Communication Advisory Committee Meeting Announcement : UCM388362
+Meta maincontent has different strlen than content maincontent!
+got date [7589]: 2014-05-05 00:00:00.000000 FROM: 2014-05-05T00:00:00
+May 6, 2014: Risk Communication Advisory Committee Meeting Announcement : UCM388373
+Meta maincontent has different strlen than content maincontent!
+got date [7591]: 2014-05-06 00:00:00.000000 FROM: 2014-05-06T00:00:00
+April 22, 2014: Anesthetic and Analgesic Drug Products Advisory Committee Meeting Announcement : UCM390299
+Meta maincontent has different strlen than content maincontent!
+got date [7593]: 2014-04-22 00:00:00.000000 FROM: 2014-04-22T00:00:00
+April 24, 2014: Neurological Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM390777
+Meta maincontent has different strlen than content maincontent!
+got date [7595]: 2014-04-24 00:00:00.000000 FROM: 2014-04-24T00:00:00
+May 13, 2014: Ophthalmic Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM392897
+Meta maincontent has different strlen than content maincontent!
+got date [7599]: 2014-05-13 00:00:00.000000 FROM: 2014-05-13T00:00:00
+May 2, 2014: Nonprescription Drugs Advisory Committee Meeting Announcement : UCM393018
+Meta maincontent has different strlen than content maincontent!
+got date [7603]: 2014-05-02 00:00:00.000000 FROM: 2014-05-02T00:00:00
+May 6-7, 2014: Circulatory System Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM393250
+Meta maincontent has different strlen than content maincontent!
+got date [7605]: 2014-05-06 00:00:00.000000 FROM: 2014-05-06T00:00:00
+June 17, 2014: Gastroenterology and Urology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM394046
+Meta maincontent has different strlen than content maincontent!
+got date [7609]: 2014-06-17 00:00:00.000000 FROM: 2014-06-17T00:00:00
+June 25, 2014: Oncologic Drugs Advisory Committee Meeting Announcement : UCM394126
+Meta maincontent has different strlen than content maincontent!
+got date [7613]: 2014-06-25 00:00:00.000000 FROM: 2014-06-25T00:00:00
+October 16, 2014: Joint Meeting of the Psychopharmacologic Drugs Advisory Committee and  the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM394876
+Meta maincontent has different strlen than content maincontent!
+got date [7615]: 2014-10-16 00:00:00.000000 FROM: 2014-10-16T00:00:00
+June 6, 2014: Ophthalmic Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM396792
+Meta maincontent has different strlen than content maincontent!
+got date [7617]: 2014-06-06 00:00:00.000000 FROM: 2014-06-06T00:00:00
+June 11-12, 2014: Anesthetic and Analgesic Drug Products Advisory Committee Meeting Announcement : UCM397059
+Meta maincontent has different strlen than content maincontent!
+got date [7619]: 2014-06-11 00:00:00.000000 FROM: 2014-06-11T00:00:00
+CANCELLED June 10, 2014: Medical Devices Dispute Resolution Panel of the Medical Devices Advisory Committee : UCM397147
+Meta maincontent has different strlen than content maincontent!
+got date [7621]: 2014-06-10 00:00:00.000000 FROM: 2014-06-10T00:00:00
+June 4, 2014 Meeting of the Science Board to the FDA : UCM397336
+got date [7623]: 2014-06-04 08:00:00.000000 FROM: 2014-06-04T08:00:00
+June 12, 2014: Circulatory System Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM398000
+Meta maincontent has different strlen than content maincontent!
+got date [7625]: 2014-06-12 00:00:00.000000 FROM: 2014-06-12T00:00:00
+July 10-11, 2014: Obstetrics and Gynecology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM400221
+Meta maincontent has different strlen than content maincontent!
+got date [7629]: 2014-07-10 00:00:00.000000 FROM: 2014-07-10T00:00:00
+July 30-31, 2014: Gastroenterology and Urology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM400702
+Meta maincontent has different strlen than content maincontent!
+got date [7633]: 2014-07-30 00:00:00.000000 FROM: 2014-07-30T00:00:00
+July 31, 2014: Blood Products Advisory Committee Meeting Announcement : UCM402696
+Meta maincontent has different strlen than content maincontent!
+got date [7637]: 2014-07-31 00:00:00.000000 FROM: 2014-07-31T00:00:00
+August 1, 2014: General and Plastic Surgery Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM402768
+Meta maincontent has different strlen than content maincontent!
+got date [7641]: 2014-08-01 00:00:00.000000 FROM: 2014-08-01T00:00:00
+August 14, 2014: Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM403018
+Meta maincontent has different strlen than content maincontent!
+got date [7645]: 2014-08-14 00:00:00.000000 FROM: 2014-08-14T00:00:00
+September 17, 2014 Joint Meeting of the Bone, Reproductive and Urologic Drugs Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM404905
+Meta maincontent has different strlen than content maincontent!
+got date [7647]: 2014-09-17 00:00:00.000000 FROM: 2014-09-17T00:00:00
+October 20, 2014: Dermatologic and Ophthalmic Drugs Advisory Committee Meeting Announcement : UCM404910
+Meta maincontent has different strlen than content maincontent!
+got date [7649]: 2014-10-20 00:00:00.000000 FROM: 2014-10-20T00:00:00
+September 10, 2014: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM405489
+Meta maincontent has different strlen than content maincontent!
+got date [7651]: 2014-09-10 00:00:00.000000 FROM: 2014-09-10T00:00:00
+September 23, 2014 Meeting of the Pediatric Advisory Committee : UCM405501
+Meta maincontent has different strlen than content maincontent!
+got date [7653]: 2014-09-23 00:00:00.000000 FROM: 2014-09-23T00:00:00
+September 18, 2014: Joint Meeting of the Bone, Reproductive and Urologic Drugs Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM406131
+Meta maincontent has different strlen than content maincontent!
+got date [7655]: 2014-09-18 00:00:00.000000 FROM: 2014-09-18T00:00:00
+September 12, 2014: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM406291
+Meta maincontent has different strlen than content maincontent!
+got date [7657]: 2014-09-12 00:00:00.000000 FROM: 2014-09-12T00:00:00
+September 9, 2014: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM406953
+Meta maincontent has different strlen than content maincontent!
+got date [7659]: 2014-09-09 00:00:00.000000 FROM: 2014-09-09T00:00:00
+September 29-30, 2014: Food Advisory Committee Meeting Announcement : UCM407020
+Meta maincontent has different strlen than content maincontent!
+got date [7661]: 2014-09-30 00:00:00.000000 FROM: 2014-09-30T00:00:00
+September 3, 2014: Nonprescription Drugs Advisory Committee Meeting Announcement : UCM407136
+Meta maincontent has different strlen than content maincontent!
+got date [7663]: 2014-09-03 00:00:00.000000 FROM: 2014-09-03T00:00:00
+September 4-5, 2014: Nonprescription Drugs Advisory Committee Meeting Announcement : UCM407137
+Meta maincontent has different strlen than content maincontent!
+got date [7665]: 2014-09-04 00:00:00.000000 FROM: 2014-09-04T00:00:00
+September 18, 2014: Cellular, Tissue and Gene Therapies Advisory Committee Meeting Announcement : UCM407159
+Meta maincontent has different strlen than content maincontent!
+got date [7667]: 2014-09-18 00:00:00.000000 FROM: 2014-09-18T00:00:00
+September 11, 2014: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM407894
+Meta maincontent has different strlen than content maincontent!
+got date [7671]: 2014-09-11 00:00:00.000000 FROM: 2014-09-11T00:00:00
+October 1, 2014: Gastroenterology and Urology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM408257
+Meta maincontent has different strlen than content maincontent!
+got date [7675]: 2014-10-01 00:00:00.000000 FROM: 2014-10-01T00:00:00
+November 6, 2014: Cellular, Tissue and Gene Therapies Advisory Committee Meeting Announcement : UCM411073
+Meta maincontent has different strlen than content maincontent!
+got date [7679]: 2014-11-06 00:00:00.000000 FROM: 2014-11-06T00:00:00
+October 8-9, 2014: Circulatory System Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM411387
+Meta maincontent has different strlen than content maincontent!
+got date [7683]: 2014-10-08 00:00:00.000000 FROM: 2014-10-08T00:00:00
+December 16-17, 2014: Food Advisory Committee Meeting Materials : UCM411538
+Meta maincontent has different strlen than content maincontent!
+got date [7687]: 2014-12-17 00:00:00.000000 FROM: 2014-12-17T00:00:00
+November 3, 2014: Risk Communication Advisory Committee Meeting Announcement : UCM412433
+Meta maincontent has different strlen than content maincontent!
+got date [7689]: 2014-11-03 00:00:00.000000 FROM: 2014-11-03T00:00:00
+November 4, 2014: Risk Communication Advisory Committee Meeting Announcement : UCM412435
+Meta maincontent has different strlen than content maincontent!
+got date [7691]: 2014-11-04 00:00:00.000000 FROM: 2014-11-04T00:00:00
+POSTPONED December 12, 2014: Orthopaedic and Rehabilitation Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM415499
+Meta maincontent has different strlen than content maincontent!
+got date [7693]: 2014-12-12 00:00:00.000000 FROM: 2014-12-12T00:00:00
+October 30, 2014: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM415986
+Meta maincontent has different strlen than content maincontent!
+got date [7697]: 2014-10-30 00:00:00.000000 FROM: 2014-10-30T00:00:00
+November 14, 2014: Ophthalmic Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM416334
+Meta maincontent has different strlen than content maincontent!
+got date [7699]: 2014-11-14 00:00:00.000000 FROM: 2014-11-14T00:00:00
+November 24-25, 2014: Anesthetic and Analgesic Drug Products Advisory Committee Meeting Announcement : UCM417300
+Meta maincontent has different strlen than content maincontent!
+got date [7703]: 2014-11-25 00:00:00.000000 FROM: 2014-11-25T00:00:00
+October 21, 2014: Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM417332
+Meta maincontent has different strlen than content maincontent!
+got date [7705]: 2014-10-21 00:00:00.000000 FROM: 2014-10-21T00:00:00
+November 18, 2014: Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM417986
+Meta maincontent has different strlen than content maincontent!
+got date [7707]: 2014-11-18 00:00:00.000000 FROM: 2014-11-18T00:00:00
+November 19, 2014: Science Board to the FDA Meeting Announcement : UCM418045
+Meta maincontent has different strlen than content maincontent!
+got date [7709]: 2014-11-19 00:00:00.000000 FROM: 2014-11-19T00:00:00
+November 20, 2014: Science Board to the FDA Meeting Announcement : UCM418048
+Meta maincontent has different strlen than content maincontent!
+got date [7711]: 2014-11-20 00:00:00.000000 FROM: 2014-11-20T00:00:00
+November 6, 2014: Oncologic Drugs Advisory Committee Meeting Announcement : UCM418352
+Meta maincontent has different strlen than content maincontent!
+got date [7713]: 2014-11-06 00:00:00.000000 FROM: 2014-11-06T00:00:00
+November 6-7, 2014: Science Advisory Board to the National Center for Toxicological Research Meeting Announcement : UCM418553
+Meta maincontent has different strlen than content maincontent!
+got date [7715]: 2014-11-06 00:00:00.000000 FROM: 2014-11-06T00:00:00
+December 2-3, 2014: Blood Products Advisory Committee Meeting Announcement- Amendment : UCM419754
+Meta maincontent has different strlen than content maincontent!
+got date [7717]: 2014-12-02 00:00:00.000000 FROM: 2014-12-02T00:00:00
+December 4, 2014: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM420134
+Meta maincontent has different strlen than content maincontent!
+got date [7721]: 2014-12-04 00:00:00.000000 FROM: 2014-12-04T00:00:00
+December 11, 2014: Pediatric Oncologic Subcommittee of the Oncologic Drugs Advisory Committee Meeting Announcement : UCM421987
+Meta maincontent has different strlen than content maincontent!
+got date [7723]: 2014-12-11 00:00:00.000000 FROM: 2014-12-11T00:00:00
+December 5, 2014: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM422477
+Meta maincontent has different strlen than content maincontent!
+got date [7725]: 2014-12-05 00:00:00.000000 FROM: 2014-12-05T00:00:00
+UPDATED: December 18, 2014: Joint Meeting of the Bone, Reproductive and Urologic Drugs Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM423311
+Meta maincontent has different strlen than content maincontent!
+got date [7727]: 2014-12-18 00:00:00.000000 FROM: 2014-12-18T00:00:00
+January 22, 2015: Anti-Infective Drugs Advisory Committee Meeting Announcement : UCM424436
+Meta maincontent has different strlen than content maincontent!
+got date [7729]: 2015-01-22 00:00:00.000000 FROM: 2015-01-22T00:00:00
+POSTPONED December 12, 2014: Orthopaedic and Rehabilitation Devices Panel of the Medical Devices Advisory Committee; Notice of Postponement of Meeting : UCM426248
+Meta maincontent has different strlen than content maincontent!
+got date [7731]: 2014-12-12 00:00:00.000000 FROM: 2014-12-12T00:00:00
+January 12, 2015: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM426272
+Meta maincontent has different strlen than content maincontent!
+got date [7733]: 2015-01-12 00:00:00.000000 FROM: 2015-01-12T00:00:00
+January 7, 2015: Oncologic Drugs Advisory Committee Meeting Announcement : UCM426350
+Meta maincontent has different strlen than content maincontent!
+got date [7735]: 2015-01-07 00:00:00.000000 FROM: 2015-01-07T00:00:00
+March 4, 2015: Vaccines and Related Biological Products Advisory Committee Meeting Announcement- Amendment : UCM427596
+Meta maincontent has different strlen than content maincontent!
+got date [7737]: 2015-03-04 00:00:00.000000 FROM: 2015-03-04T00:00:00
+February 27, 2015: General and Plastic Surgery Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM427763
+Meta maincontent has different strlen than content maincontent!
+got date [7741]: 2015-02-27 00:00:00.000000 FROM: 2015-02-27T00:00:00
+February 20, 2015:  Orthopaedic and Rehabilitation Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM430321
+Meta maincontent has different strlen than content maincontent!
+got date [7743]: 2015-02-20 00:00:00.000000 FROM: 2015-02-20T00:00:00
+February 23-24, 2015: Pharmacy Compounding Advisory Committee Meeting Announcement : UCM431283
+Meta maincontent has different strlen than content maincontent!
+got date [7745]: 2015-02-23 00:00:00.000000 FROM: 2015-02-23T00:00:00
+March 9, 2015: Dermatologic and Ophthalmic Drugs Advisory Committee Meeting Announcement : UCM431500
+Meta maincontent has different strlen than content maincontent!
+got date [7747]: 2015-03-09 00:00:00.000000 FROM: 2015-03-09T00:00:00
+March 4, 2015: Science Board to the FDA Meeting Announcement : UCM431558
+Meta maincontent has different strlen than content maincontent!
+got date [7749]: 2015-03-04 00:00:00.000000 FROM: 2015-03-04T00:00:00
+February 24, 2015: Joint Meeting of the Dermatologic and Ophthalmic Drugs Advisory Committee and Ophthalmic Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM432017
+Meta maincontent has different strlen than content maincontent!
+got date [7751]: 2015-02-24 00:00:00.000000 FROM: 2015-02-24T00:00:00
+CANCELLED: March 18, 2015 Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee : UCM433359
+Meta maincontent has different strlen than content maincontent!
+got date [7753]: 2015-03-18 00:00:00.000000 FROM: 2015-03-18T00:00:00
+April 29, 2015: Joint Meeting of the Cellular, Tissue and Gene Therapies Advisory Committee and Oncologic Drugs Advisory Committee Meeting Announcement : UCM433807
+Meta maincontent has different strlen than content maincontent!
+got date [7755]: 2015-04-29 00:00:00.000000 FROM: 2015-04-29T00:00:00
+March 19, 2015: Joint Meeting of the Pulmonary-Allergy Drugs Advisory Committee and Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM433812
+Meta maincontent has different strlen than content maincontent!
+got date [7759]: 2015-03-19 00:00:00.000000 FROM: 2015-03-19T00:00:00
+POSTPONED: March 17, 2015: Arthritis Advisory Committee Meeting Announcement : UCM433919
+Meta maincontent has different strlen than content maincontent!
+got date [7761]: 2015-03-17 00:00:00.000000 FROM: 2015-03-17T00:00:00
+February 20, 2015: Orthopaedic and Rehabilitation Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM434490
+Meta maincontent has different strlen than content maincontent!
+got date [7763]: 2015-02-20 00:00:00.000000 FROM: 2015-02-20T00:00:00
+April 17, 2015: Neurological Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM435277
+Meta maincontent has different strlen than content maincontent!
+got date [7765]: 2015-04-17 00:00:00.000000 FROM: 2015-04-17T00:00:00
+April 15, 2015: Cardiovascular and Renal Drugs Advisory Committee Meeting Announcement : UCM436187
+Meta maincontent has different strlen than content maincontent!
+got date [7767]: 2015-04-15 00:00:00.000000 FROM: 2015-04-15T00:00:00
+March 24, 2015: Pediatric Advisory Committee Meeting Announcement : UCM436284
+Meta maincontent has different strlen than content maincontent!
+got date [7769]: 2015-03-24 00:00:00.000000 FROM: 2015-03-24T00:00:00
+April 14, 2015: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM436451
+Meta maincontent has different strlen than content maincontent!
+got date [7771]: 2015-04-14 00:00:00.000000 FROM: 2015-04-14T00:00:00
+May 14-15, 2015: Gastroenterology and Urology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM437500
+Meta maincontent has different strlen than content maincontent!
+got date [7773]: 2015-05-14 00:00:00.000000 FROM: 2015-05-14T00:00:00
+April 30 - May 1, 2015: Ear, Nose, and Throat Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM438065
+Meta maincontent has different strlen than content maincontent!
+got date [7775]: 2015-04-30 00:00:00.000000 FROM: 2015-04-30T00:00:00
+Pediatric Ethics Subcommittee of the Pediatric Advisory Committee : UCM438375
+Meta maincontent has different strlen than content maincontent!
+got date [7777]: 2015-03-23 00:00:00.000000 FROM: 2015-03-23T00:00:00
+May 12, 2015: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM438627
+Meta maincontent has different strlen than content maincontent!
+got date [7779]: 2015-05-12 00:00:00.000000 FROM: 2015-05-12T00:00:00
+April 30 - May 1, 2015: Ear, Nose, and Throat Devices Panel of the Medical Devices Advisory Committee ; Amendment of Notice : UCM440341
+Meta maincontent has different strlen than content maincontent!
+got date [7783]: 2015-04-30 00:00:00.000000 FROM: 2015-04-30T00:00:00
+April 9-10, 2015 – Tobacco Products Scientific Advisory Committee Meeting Announcement : UCM440606
+Meta maincontent has different strlen than content maincontent!
+got date [7785]: 2015-04-09 00:00:00.000000 FROM: 2015-04-09T00:00:00
+May 12, 2015: Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM440783
+Meta maincontent has different strlen than content maincontent!
+got date [7787]: 2015-05-12 00:00:00.000000 FROM: 2015-05-12T00:00:00
+May 13, 2015: Blood Products Advisory Committee Meeting Announcement : UCM441227
+Meta maincontent has different strlen than content maincontent!
+got date [7789]: 2015-05-13 00:00:00.000000 FROM: 2015-05-13T00:00:00
+June 1, 2015: Transmissible Spongiform Encephalopathies Advisory Committee Meeting Announcement : UCM444930
+Meta maincontent has different strlen than content maincontent!
+got date [7793]: 2015-06-01 00:00:00.000000 FROM: 2015-06-01T00:00:00
+June 9, 2015: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM445093
+Meta maincontent has different strlen than content maincontent!
+got date [7795]: 2015-06-09 00:00:00.000000 FROM: 2015-06-09T00:00:00
+June 10, 2015: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM445096
+Meta maincontent has different strlen than content maincontent!
+got date [7797]: 2015-06-10 00:00:00.000000 FROM: 2015-06-10T00:00:00
+June 4, 2015: Joint Meeting of the Bone, Reproductive and Urologic Drugs Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM446094
+Meta maincontent has different strlen than content maincontent!
+got date [7799]: 2015-06-04 00:00:00.000000 FROM: 2015-06-04T00:00:00
+June 8, 2015: Risk Communication Advisory Committee Meeting Announcement : UCM446382
+Meta maincontent has different strlen than content maincontent!
+got date [7801]: 2015-06-08 00:00:00.000000 FROM: 2015-06-08T00:00:00
+June 9, 2015: Risk Communication Advisory Committee Meeting Announcement : UCM446383
+Meta maincontent has different strlen than content maincontent!
+got date [7803]: 2015-06-09 00:00:00.000000 FROM: 2015-06-09T00:00:00
+June 11, 2015: Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM446464
+Meta maincontent has different strlen than content maincontent!
+got date [7805]: 2015-06-11 00:00:00.000000 FROM: 2015-06-11T00:00:00
+July 9, 2015: Oncologic Drugs Advisory Committee Meeting Announcement : UCM448239
+Meta maincontent has different strlen than content maincontent!
+got date [7807]: 2015-07-09 00:00:00.000000 FROM: 2015-07-09T00:00:00
+CANCELLED: July 7-8, 2015: Joint Meeting of the Drug Safety and Risk Management Advisory Committee and the Anesthetic and Analgesic Drug Products Advisory Committee Meeting Announcement : UCM448718
+Meta maincontent has different strlen than content maincontent!
+got date [7809]: 2015-07-08 00:00:00.000000 FROM: 2015-07-08T00:00:00
+June 17-18, 2015: Pharmacy Compounding Advisory Committee Meeting Announcement : UCM449497
+Meta maincontent has different strlen than content maincontent!
+got date [7811]: 2015-06-17 00:00:00.000000 FROM: 2015-06-17T00:00:00
+July 29, 2015: Science Board to the FDA Meeting Announcement : UCM455211
+Meta maincontent has different strlen than content maincontent!
+got date [7813]: 2015-07-29 00:00:00.000000 FROM: 2015-07-29T00:00:00
+September 15, 2015: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM455595
+Meta maincontent has different strlen than content maincontent!
+got date [7815]: 2015-09-15 00:00:00.000000 FROM: 2015-09-15T00:00:00
+September 24, 2015: Obstetrics and Gynecology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM455642
+Meta maincontent has different strlen than content maincontent!
+got date [7819]: 2015-09-24 00:00:00.000000 FROM: 2015-09-24T00:00:00
+September 10, 2015: Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM457898
+Meta maincontent has different strlen than content maincontent!
+got date [7821]: 2015-09-10 00:00:00.000000 FROM: 2015-09-10T00:00:00
+September 11, 2015: Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM457905
+Meta maincontent has different strlen than content maincontent!
+got date [7823]: 2015-09-11 00:00:00.000000 FROM: 2015-09-11T00:00:00
+September 16, 2015: Pediatric Advisory Committee Meeting Announcement : UCM458357
+Meta maincontent has different strlen than content maincontent!
+got date [7825]: 2015-09-16 00:00:00.000000 FROM: 2015-09-16T00:00:00
+October 23, 2015: Meeting of the Arthritis Advisory Committee Meeting Announcement : UCM459034
+Meta maincontent has different strlen than content maincontent!
+got date [7827]: 2015-10-23 00:00:00.000000 FROM: 2015-10-23T00:00:00
+CANCELLED: November 3, 2015: Meeting of the Bone, Reproductive and Urologic Drugs Advisory Committee Meeting Announcement : UCM459227
+Meta maincontent has different strlen than content maincontent!
+got date [7829]: 2015-11-03 00:00:00.000000 FROM: 2015-11-03T00:00:00
+September 15, 2015: Science Board to the FDA Meeting Announcement : UCM459350
+Meta maincontent has different strlen than content maincontent!
+got date [7831]: 2015-09-15 00:00:00.000000 FROM: 2015-09-15T00:00:00
+December 1, 2015: Meeting of the Psychopharmacologic Drugs Advisory Committee Meeting Announcement : UCM461697
+Meta maincontent has different strlen than content maincontent!
+got date [7833]: 2015-12-01 00:00:00.000000 FROM: 2015-12-01T00:00:00
+November 6, 2015: Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee Meeting Announcement : UCM462199
+Meta maincontent has different strlen than content maincontent!
+got date [7835]: 2015-11-06 00:00:00.000000 FROM: 2015-11-06T00:00:00
+November 19, 2015: Meeting of the Pediatric Oncology Subcommittee of the Oncologic Drugs Advisory Committee Meeting Announcement : UCM463242
+Meta maincontent has different strlen than content maincontent!
+got date [7837]: 2015-11-19 00:00:00.000000 FROM: 2015-11-19T00:00:00
+November 13, 2015: Vaccines and Related Biological Products Advisory Committee Meeting Announcement : UCM463524
+Meta maincontent has different strlen than content maincontent!
+got date [7839]: 2015-11-13 00:00:00.000000 FROM: 2015-11-13T00:00:00
+December 9, 2015: Meeting of the Pulmonary-Allergy Drugs Advisory Committee Meeting Announcement : UCM463629
+Meta maincontent has different strlen than content maincontent!
+got date [7843]: 2015-12-09 00:00:00.000000 FROM: 2015-12-09T00:00:00
+November 18, 2015: Joint Meeting of the Cellular, Tissue and Gene Therapies Advisory Committee and Oncologic Drugs Advisory Committee Meeting Announcement : UCM464319
+Meta maincontent has different strlen than content maincontent!
+got date [7845]: 2015-11-18 00:00:00.000000 FROM: 2015-11-18T00:00:00
+November 3-4, 2015: Science Advisory Board to the National Center for Toxicological Research Meeting Announcement : UCM464601
+Meta maincontent has different strlen than content maincontent!
+got date [7849]: 2015-11-03 00:00:00.000000 FROM: 2015-11-03T00:00:00
+November 5, 2015: Joint Meeting of the Antimicrobial Drugs Advisory Committee (formerly known as the Anti-Infective Drugs Advisory Committee) and Drug Safety and Risk Management Advisory Committee Meeting Announcement : UCM465275
+Meta maincontent has different strlen than content maincontent!
+got date [7851]: 2015-11-05 00:00:00.000000 FROM: 2015-11-05T00:00:00
+UPDATED TIME, AGENDA AND PUBLIC PARTICIPATION INFORMATION: October 27-28, 2015: Pharmacy Compounding Advisory Committee Meeting Announcement : UCM465374
+Meta maincontent has different strlen than content maincontent!
+got date [7853]: 2015-10-28 00:00:00.000000 FROM: 2015-10-28T00:00:00
+November 18, 2015  meeting is CANCELLED and the November 19, 2015 is POSTPONED: Gastroenterology and Urology Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM465584
+Meta maincontent has different strlen than content maincontent!
+got date [7855]: 2015-11-18 00:00:00.000000 FROM: 2015-11-18T00:00:00
+November 24, 2015: Meeting of the Peripheral and Central Nervous System Drugs Advisory Committee Meeting Announcement : UCM467180
+Meta maincontent has different strlen than content maincontent!
+got date [7857]: 2015-11-24 00:00:00.000000 FROM: 2015-11-24T00:00:00
+November 18, 2015: Science Board to the FDA Meeting Announcement : UCM469235
+Meta maincontent has different strlen than content maincontent!
+got date [7859]: 2015-11-18 00:00:00.000000 FROM: 2015-11-18T00:00:00
+December 10, 2015: Joint Meeting of the Pulmonary-Allergy Drugs Advisory Committee and Drug Safety and the Risk Management Advisory Committee Meeting Announcement : UCM469466
+Meta maincontent has different strlen than content maincontent!
+got date [7861]: 2015-12-10 00:00:00.000000 FROM: 2015-12-10T00:00:00
+December 7-8, 2015: Meeting of the Food Advisory Committee Meeting Announcement : UCM471491
+Meta maincontent has different strlen than content maincontent!
+got date [7863]: 2015-12-08 00:00:00.000000 FROM: 2015-12-08T00:00:00
+December 14, 2015: Endocrinologic and Metabolic Drugs Advisory Committee Meeting Announcement : UCM472456
+Meta maincontent has different strlen than content maincontent!
+got date [7865]: 2015-12-14 00:00:00.000000 FROM: 2015-12-14T00:00:00
+November 18-19, 2015: Gastroenterology and Urology Devices Panel of the Medical Devices Advisory Committee; Amendment of Meeting Notice : UCM472758
+Meta maincontent has different strlen than content maincontent!
+got date [7867]: 2015-11-18 00:00:00.000000 FROM: 2015-11-18T00:00:00
+February 19, 2016: Orthopaedic and Rehabilitation Devices Panel of the Medical Devices Advisory Committee Meeting Announcement : UCM473917
+Meta maincontent has different strlen than content maincontent!
+got date [7869]: 2016-02-19 00:00:00.000000 FROM: 2016-02-19T00:00:00
+# of Failed Records: 0 out of 749

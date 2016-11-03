@@ -1,0 +1,48 @@
+<?php
+
+/**
+* @file
+* Contains Drupal\advisory_create_content_type.module
+*/
+
+/**
+ * @defgroup advisory_create_content_type Advisory Committee: Create Content Type
+ * @ingroup AdvisoryCommittee
+ * @{
+ * Impelement content entity for advisory committee.
+ * }
+ */ 
+/**
+* Implements HOOK_theme
+**/
+function advisory__create_content_type_theme() {
+	$theme['advisory_calendar'] = array(
+		'variables' => array('main'=>NULL,'leftnav'=>NULL,'months_organized'=>NULL),
+		'template' => 'advisory_calendar'
+	);
+	$theme['advisory_content'] = array(
+                'variables' => array('main'=>NULL,'leftnav'=>NULL,'doctitle'=>NULL,'resources_for_you'=>''),
+                'template' => 'advisory_content'
+        );
+
+	return $theme;
+}
+
+/**
+* Implements HOOK_preprocess
+**/
+function advisory__create_content_type_preprocess(&$variables, $hook){
+		
+}
+
+/**
+* Implements HOOK_theme_suggestions_page_alter
+**/
+function advisory__create_content_type_theme_suggestions_page_alter(&$suggestions, $variables) {
+	/*
+	$node = \Drupal::request()->attributes->get('node');
+	if($node && 'advisory_committee_content' == $node->getType()) {
+		//$suggestions[] = 'advisory_content';
+	}
+	*/
+}

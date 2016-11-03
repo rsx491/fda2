@@ -1,0 +1,8 @@
+type: associated_meeting_materials
+name: 'Meeting Materials'
+description: 'Associated Content - Meeting Materials'
+new_revision: false
+display_submitted: true
+preview_mode: 1
+status: true
+langcode: en

@@ -1,0 +1,8 @@
+type: associated_contact_us
+name: 'Contact Us'
+description: 'Associated Content - Contact Us'
+new_revision: false
+display_submitted: true
+preview_mode: 1
+status: true
+langcode: en
